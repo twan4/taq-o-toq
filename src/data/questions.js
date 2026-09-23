@@ -1,6 +1,6 @@
 // Automatically parsed questions data
 export const QUESTION_BANK = {
-  "c1": {
+  "cat1": {
     "200": [
       {
         "q": "هۆنراوەی سروودی نیشتمانی «ئەی ڕەقیب» هی کام شاعیرە؟",
