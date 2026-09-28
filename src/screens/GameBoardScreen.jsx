@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { QRCodeSVG } from 'qrcode.react';
 import { QUESTION_BANK } from '../data/questions';
 
 function GameBoardScreen({ config, onEndGame }) {
@@ -33,8 +34,8 @@ function GameBoardScreen({ config, onEndGame }) {
         } else {
           // Fallback placeholder
           qForTier = [
-            { q: `پرسیاری ${points} خاڵی بۆ پۆلی ${cat.name} (تیمی یەکەم)`, a: `وەڵامی ${points} خاڵی` },
-            { q: `پرسیاری ${points} خاڵی بۆ پۆلی ${cat.name} (تیمی دووەم)`, a: `وەڵامی ${points} خاڵی` }
+            { q: `پرسیاری ${points} خاڵی بۆ پۆلی ${cat.englishName} (تیمی یەکەم)`, a: `وەڵامی ${points} خاڵی` },
+            { q: `پرسیاری ${points} خاڵی بۆ پۆلی ${cat.englishName} (تیمی دووەم)`, a: `وەڵامی ${points} خاڵی` }
           ];
         }
         
@@ -201,7 +202,7 @@ function GameBoardScreen({ config, onEndGame }) {
               {/* Category Image */}
               <div style={centerImageContainerStyle}>
                 <div style={imagePlaceholderStyle}>{cat.icon || 'Wێنە'}</div>
-                <div style={categoryNameTagStyle}>{cat.name}</div>
+                <div style={categoryNameTagStyle}>{cat.englishName}</div>
               </div>
 
               {/* Team 1 Questions (Right Side visually) */}
@@ -283,13 +284,37 @@ function GameBoardScreen({ config, onEndGame }) {
             </div>
 
             {/* The Question / Answer Area */}
-            <div style={questionTextStyle}>
-              {activeModal && gameQuestions[activeModal.catId] && gameQuestions[activeModal.catId][`${activeModal.points}-team${activeModal.originalTeamId}`] ? (
-                timerState === 'SCORING' 
-                  ? <span style={{ color: 'var(--color-green)' }}>وەڵام: {gameQuestions[activeModal.catId][`${activeModal.points}-team${activeModal.originalTeamId}`].a}</span>
-                  : gameQuestions[activeModal.catId][`${activeModal.points}-team${activeModal.originalTeamId}`].q
-              ) : "Loading..."}
-            </div>
+            {(() => {
+              const currentQuestion = activeModal && gameQuestions[activeModal.catId] ? gameQuestions[activeModal.catId][`${activeModal.points}-team${activeModal.originalTeamId}`] : null;
+              if (!currentQuestion) return <div style={questionTextStyle}>Loading...</div>;
+
+              return (
+                <div style={questionTextStyle}>
+                  {timerState === 'SCORING' ? (
+                    <div style={{ color: 'var(--color-green)' }}>وەڵام: {currentQuestion.a}</div>
+                  ) : (
+                    <>
+                      {currentQuestion.type === 'drawing' ? (
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ marginBottom: '20px', fontSize: '24px' }}>ئەم بارکۆدە سکان بکە بۆ بینینی وشەکە (تەنها بۆ وێنەکێش)</div>
+                          <div style={{ padding: '20px', background: 'white', display: 'inline-block', borderRadius: '15px' }}>
+                            <QRCodeSVG value={currentQuestion.q} size={250} />
+                          </div>
+                        </div>
+                      ) : (
+                        <div>{currentQuestion.q}</div>
+                      )}
+                      
+                      {currentQuestion.image && currentQuestion.type !== 'drawing' && (
+                        <div style={{ textAlign: 'center', marginTop: '30px' }}>
+                          <img src={currentQuestion.image} alt="Question Graphic" style={{ maxHeight: '350px', maxWidth: '100%', borderRadius: '15px', boxShadow: '0 5px 15px rgba(0,0,0,0.2)' }} />
+                        </div>
+                      )}
+                    </>
+                  )}
+                </div>
+              );
+            })()}
 
             {/* Reveal Answer Button */}
             {timerState !== 'SCORING' && (
