@@ -2,19 +2,19 @@ export const AVAILABLE_CATEGORIES = [
   // --- هونەر و وێژە (Art & Literature) ---
   { id: 'cat1', name: 'شاعیرانی کورد', englishName: 'Kurdish Poets', icon: './images/Kurdish Poets.jpg', group: 'هونەر و وێژە' },
   { id: 'cat2', name: 'زمانی کوردی', englishName: 'Kurdish Language', icon: './images/Kurdish Language.jpg', group: 'هونەر و وێژە' },
-  { id: 'cat3', name: 'پەندی پێشینیان', englishName: 'Proverbs', icon: '🗣️', group: 'هونەر و وێژە' },
+  { id: 'cat3', name: 'پەندی پێشینیان', englishName: 'Proverbs', icon: './images/Kurdish Proverbs & Riddles.jpg', group: 'هونەر و وێژە' },
   { id: 'cat28', name: 'وێنەکێشان', englishName: 'Drawing', icon: './images/Drawing.jpg', group: 'هونەر و وێژە' },
-  { id: 'cat26', name: 'مەتەڵ', englishName: 'Riddles', icon: '❓', group: 'هونەر و وێژە' },
+  { id: 'cat26', name: 'مەتەڵ', englishName: 'Riddles', icon: './images/Kurdish Proverbs & Riddles.jpg', group: 'هونەر و وێژە' },
 
   // --- مێژوو و جوگرافیا (History & Geography) ---
   { id: 'cat6', name: 'مێژووی گشتی', englishName: 'General History', icon: './images/General History.jpg', group: 'مێژوو و جوگرافیا' },
-  { id: 'cat21', name: 'جەنگی جیهانی', englishName: 'World War', icon: '⚔️', group: 'مێژوو و جوگرافیا' },
+  { id: 'cat21', name: 'جەنگی جیهانی', englishName: 'World War', icon: './images/Worldwar.jpg', group: 'مێژوو و جوگرافیا' },
   { id: 'cat22', name: 'جوگرافیا', englishName: 'Geography', icon: './images/Geography.jpg', group: 'مێژوو و جوگرافیا' },
-  { id: 'cat4', name: 'شوێنەوار', englishName: 'Locations', icon: '🏛️', group: 'مێژوو و جوگرافیا' },
+  { id: 'cat4', name: 'شوێنەوار', englishName: 'Locations', icon: './images/Kurdish Locations.jpg', group: 'مێژوو و جوگرافیا' },
   { id: 'cat17', name: 'وڵاتان', englishName: 'Countries', icon: './images/Countries.jpg', group: 'مێژوو و جوگرافیا' },
   { id: 'cat20', name: 'پایتەختەکان', englishName: 'Capitals', icon: './images/Capitals.jpg', group: 'مێژوو و جوگرافیا' },
   { id: 'cat19', name: 'ئاڵاکان', englishName: 'Flags', icon: '🚩', group: 'مێژوو و جوگرافیا' },
-  { id: 'cat23', name: 'دۆزینەوەی ئاڵا', englishName: 'Find the Flag', icon: '🎌', group: 'مێژوو و جوگرافیا' },
+  { id: 'cat23', name: 'دۆزینەوەی ئاڵا', englishName: 'Find the Flag', icon: './images/Guess The Flag.jpg', group: 'مێژوو و جوگرافیا' },
 
   // --- زانست و تەکنەلۆژیا (Science & Tech) ---
   { id: 'cat7', name: 'زانیاری گشتی', englishName: 'General Knowledge', icon: './images/General Knowledge.jpg', group: 'زانست و تەکنەلۆژیا' },
@@ -50,7 +50,7 @@ export const AVAILABLE_CATEGORIES = [
   { id: 'cat24', name: 'ئەنیمێ', englishName: 'Anime - General', icon: '⛩️', group: 'ئەنیمێ' },
   { id: 'cat42', name: 'نارۆتۆ', englishName: 'Naruto', icon: './images/Naruto.jpg', group: 'ئەنیمێ' },
   { id: 'cat43', name: 'وه‌ن پێس', englishName: 'One Piece', icon: './images/One Piece.jpg', group: 'ئەنیمێ' },
-  { id: 'cat44', name: 'هەنتەر', englishName: 'Hunter x Hunter', icon: '🎣', group: 'ئەنیمێ' },
+  { id: 'cat44', name: 'هەنتەر', englishName: 'Hunter x Hunter', icon: './images/HXH.jpg', group: 'ئەنیمێ' },
   { id: 'cat45', name: 'هێرش بۆ سەر زەبەلاحەکان', englishName: 'Attack on Titan', icon: '🗡️', group: 'ئەنیمێ' },
   { id: 'cat46', name: 'دڕاگۆن بۆڵ', englishName: 'Dragon Ball', icon: '🐉', group: 'ئەنیمێ' },
   { id: 'cat47', name: 'دەفتەری مەرگ', englishName: 'Death Note', icon: '📓', group: 'ئەنیمێ' },
@@ -66,7 +66,7 @@ export const AVAILABLE_CATEGORIES = [
   { id: 'cat69', name: 'پۆستەری فیلمەکان', englishName: 'Movie Posters', icon: '🖼️', group: 'سینەما و زنجیرەکان' },
   { id: 'cat70', name: 'گرتەی ڤیدیۆیی', englishName: 'Video Clips', icon: '🎬', group: 'سینەما و زنجیرەکان' },
   { id: 'cat48', name: 'فرێندز', englishName: 'Friends', icon: '☕', group: 'سینەما و زنجیرەکان' },
-  { id: 'cat49', name: 'سۆپڕانۆس', englishName: 'The Sopranos', icon: '🚬', group: 'سینەما و زنجیرەکان' },
+  { id: 'cat49', name: 'سۆپڕانۆس', englishName: 'The Sopranos', icon: './images/Sopranos.jpg', group: 'سینەما و زنجیرەکان' },
   { id: 'cat52', name: 'پیکی بڵایندەرز', englishName: 'Peaky Blinders', icon: '🧢', group: 'سینەما و زنجیرەکان' },
   { id: 'cat53', name: 'دێکستەر', englishName: 'Dexter', icon: '🩸', group: 'سینەما و زنجیرەکان' },
   { id: 'cat54', name: 'پریزن برێک', englishName: 'Prison Break', icon: '⛓️', group: 'سینەما و زنجیرەکان' },
@@ -82,7 +82,7 @@ export const AVAILABLE_CATEGORIES = [
 
   // --- جۆراوجۆر (Miscellaneous) ---
   { id: 'cat9', name: 'ئاژەڵان', englishName: 'Animals', icon: './images/Animals.jpg', group: 'جۆراوجۆر' },
-  { id: 'cat10', name: 'لۆگۆکان', englishName: 'Logos', icon: '🏷️', group: 'جۆراوجۆر' },
+  { id: 'cat10', name: 'لۆگۆکان', englishName: 'Logos', icon: './images/Logos & Brands.jpg', group: 'جۆراوجۆر' },
   { id: 'cat14', name: 'ئۆتۆمبێل', englishName: 'Automotive', icon: '🚗', group: 'جۆراوجۆر' },
   { id: 'cat18', name: 'سەرۆکەکان', englishName: 'Head of States', icon: './images/Head of states.jpg', group: 'جۆراوجۆر' },
   { id: 'cat29', name: 'بڕاندە جیهانییەکان', englishName: 'Global Brands', icon: './images/Global Brands.jpg', group: 'جۆراوجۆر' },
