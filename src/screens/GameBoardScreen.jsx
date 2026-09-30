@@ -28,9 +28,23 @@ function GameBoardScreen({ config, onEndGame }) {
         // Pick 2 random questions for this point tier if available
         let qForTier = [];
         if (catBank && catBank[points] && catBank[points].length >= 2) {
-          // Shuffle and pick 2
-          const shuffled = [...catBank[points]].sort(() => 0.5 - Math.random());
-          qForTier = [shuffled[0], shuffled[1]];
+          const storageKey = 'used_questions_' + cat.id + '_' + points;
+          let usedIndices = JSON.parse(localStorage.getItem(storageKey) || '[]');
+          
+          let availableIndices = catBank[points].map((_, i) => i).filter(i => !usedIndices.includes(i));
+          if (availableIndices.length < 2) {
+             usedIndices = [];
+             availableIndices = catBank[points].map((_, i) => i);
+          }
+          
+          const shuffledIndices = availableIndices.sort(() => 0.5 - Math.random());
+          const picked1 = shuffledIndices[0];
+          const picked2 = shuffledIndices[1];
+          
+          usedIndices.push(picked1, picked2);
+          localStorage.setItem(storageKey, JSON.stringify(usedIndices));
+          
+          qForTier = [catBank[points][picked1], catBank[points][picked2]];
         } else {
           // Fallback placeholder
           qForTier = [
@@ -296,12 +310,18 @@ function GameBoardScreen({ config, onEndGame }) {
                     <div style={{ color: 'var(--color-green)' }}>وەڵام: {currentQuestion.a}</div>
                   ) : (
                     <>
-                      {currentQuestion.type === 'drawing' ? (
+                      {currentQuestion.q && typeof currentQuestion.q === 'string' && currentQuestion.q.includes('QR_DRAW:') ? (
                         <div style={{ textAlign: 'center' }}>
                           <div style={{ marginBottom: '20px', fontSize: '24px' }}>ئەم بارکۆدە سکان بکە بۆ بینینی وشەکە (تەنها بۆ وێنەکێش)</div>
                           <div style={{ padding: '20px', background: 'white', display: 'inline-block', borderRadius: '15px' }}>
-                            <QRCodeSVG value={currentQuestion.q} size={250} />
+                            <QRCodeSVG value={currentQuestion.q.replace('QR_DRAW:', '')} size={250} />
                           </div>
+                        </div>
+                      ) : currentQuestion.q && typeof currentQuestion.q === 'string' && currentQuestion.q.includes('[IMAGE:') ? (
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ marginBottom: '20px', fontSize: '24px' }}>{currentQuestion.q.split('[IMAGE:')[0]}</div>
+                          <img src={currentQuestion.q.split('[IMAGE:')[1].split(']')[0]} alt="Question" style={{ maxHeight: '350px', maxWidth: '100%', borderRadius: '15px' }} />
+                          <div>{currentQuestion.q.split(']')[1]}</div>
                         </div>
                       ) : (
                         <div>{currentQuestion.q}</div>
