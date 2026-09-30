@@ -307,7 +307,17 @@ function GameBoardScreen({ config, onEndGame }) {
               return (
                 <div style={questionTextStyle}>
                   {timerState === 'SCORING' ? (
-                    <div style={{ color: 'var(--color-green)' }}>وەڵام: {currentQuestion.a}</div>
+                    <div style={{ color: 'var(--color-green)' }}>
+                      {currentQuestion.a && typeof currentQuestion.a === 'string' && currentQuestion.a.includes('[IMAGE:') ? (
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ marginBottom: '15px' }}>وەڵام: {currentQuestion.a.split('[IMAGE:')[0]}</div>
+                          <img src={currentQuestion.a.split('[IMAGE:')[1].split(']')[0]} alt="Answer" style={{ maxHeight: '350px', maxWidth: '100%', borderRadius: '15px' }} />
+                          <div>{currentQuestion.a.split(']')[1]}</div>
+                        </div>
+                      ) : (
+                        <div>وەڵام: {currentQuestion.a}</div>
+                      )}
+                    </div>
                   ) : (
                     <>
                       {currentQuestion.q && typeof currentQuestion.q === 'string' && currentQuestion.q.includes('QR_DRAW:') ? (
