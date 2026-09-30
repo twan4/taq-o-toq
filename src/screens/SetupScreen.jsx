@@ -72,12 +72,12 @@ function SetupScreen({ onFinishSetup, onBack }) {
                       <div key={cat.id} onClick={() => toggleCategory(cat)} style={{ border: isSelected ? '3px solid var(--color-green)' : '1px solid var(--border-color)', borderRadius: '12px', cursor: 'pointer', backgroundColor: 'white', opacity: (selectedCats.length >= 6 && !isSelected) ? 0.5 : 1, transition: 'all 0.2s', textAlign: 'center', display: 'flex', flexDirection: 'column', position: 'relative', overflow: 'hidden', boxShadow: '0 4px 6px rgba(0,0,0,0.05)' }}>
                         <div style={{ position: 'absolute', top: '8px', right: '8px', backgroundColor: '#3b82f6', color: 'white', borderRadius: '50%', width: '22px', height: '22px', fontSize: '14px', display: 'flex', justifyContent: 'center', alignItems: 'center', fontWeight: 'bold', zIndex: 5 }}>i</div>
                         
-                        <div style={{ height: '120px', backgroundColor: '#f8f9fa', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '60px' }}>
-                          {cat.icon}
+                        <div style={{ height: '120px', backgroundColor: '#f8f9fa', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '60px', overflow: 'hidden' }}>
+                          {cat.icon.startsWith('/images/') ? <img src={cat.icon} alt={cat.englishName} style={{ width: '100%', height: '100%', objectFit: 'cover' }} /> : cat.icon}
                         </div>
                         
                         <div style={{ backgroundColor: isSelected ? 'var(--color-green)' : 'var(--color-red)', color: 'white', padding: '12px 5px', fontWeight: 'bold', fontSize: '15px', transition: 'background-color 0.2s' }}>
-                          {cat.name}
+                          {cat.englishName}
                         </div>
                       </div>
                     );
@@ -93,7 +93,10 @@ function SetupScreen({ onFinishSetup, onBack }) {
           <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
             {selectedCats.map(cat => (
               <div key={`sel-${cat.id}`} onClick={() => toggleCategory(cat)} style={{ padding: '15px', backgroundColor: 'var(--color-green)', color: 'white', borderRadius: '8px', cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontWeight: 'bold', boxShadow: '0 2px 4px rgba(0,0,0,0.2)' }} title="لابردن">
-                <span>{cat.icon} {cat.name}</span>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  {cat.icon.startsWith('/images/') ? <img src={cat.icon} alt={cat.englishName} style={{ width: '24px', height: '24px', borderRadius: '4px', objectFit: 'cover' }} /> : cat.icon}
+                  {cat.englishName}
+                </span>
                 <span style={{ backgroundColor: 'white', color: 'var(--color-red)', borderRadius: '50%', width: '25px', height: '25px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '14px' }}>✖</span>
               </div>
             ))}

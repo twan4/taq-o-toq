@@ -201,7 +201,9 @@ function GameBoardScreen({ config, onEndGame }) {
 
               {/* Category Image */}
               <div style={centerImageContainerStyle}>
-                <div style={imagePlaceholderStyle}>{cat.icon || 'Wێنە'}</div>
+                <div style={imagePlaceholderStyle}>
+                  {cat.icon && cat.icon.startsWith('/images/') ? <img src={cat.icon} alt={cat.englishName} style={{ width: '100%', height: '100%', objectFit: 'cover', borderTopLeftRadius: '15px', borderTopRightRadius: '15px' }} /> : (cat.icon || 'Wێنە')}
+                </div>
                 <div style={categoryNameTagStyle}>{cat.englishName}</div>
               </div>
 
