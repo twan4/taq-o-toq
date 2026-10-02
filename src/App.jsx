@@ -6,7 +6,7 @@ import GameBoardScreen from './screens/GameBoardScreen';
 import './index.css';
 
 function App() {
-  const [currentScreen, setCurrentScreen] = useState('login');
+  const [currentScreen, setCurrentScreen] = useState('home');
   const [currentUser, setCurrentUser] = useState(null);
   
   // This state will hold all the settings before passing them to the Game Board
@@ -38,8 +38,8 @@ function App() {
 
   return (
     <div>
-      {currentScreen === 'login' && <LoginScreen onLogin={handleLogin} />}
-      {currentScreen === 'home' && <HomeScreen user={currentUser} onLogout={handleLogout} onStartGame={handleStartGame} />}
+      {/* {currentScreen === 'login' && <LoginScreen onLogin={handleLogin} />} */}
+      {currentScreen === 'home' && <HomeScreen onStartGame={handleStartGame} />}
       {currentScreen === 'setup' && <SetupScreen onFinishSetup={handleFinishSetup} onBack={() => setCurrentScreen('home')} />}
       {currentScreen === 'game' && <GameBoardScreen config={gameConfig} onEndGame={handleEndGame} />}
     </div>

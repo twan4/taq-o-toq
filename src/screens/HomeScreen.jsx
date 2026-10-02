@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-function HomeScreen({ user, onStartGame, onLogout }) {
+function HomeScreen({ onStartGame }) {
   const [isDarkMode, setIsDarkMode] = useState(false);
 
   const toggleDarkMode = () => {
@@ -17,15 +17,11 @@ function HomeScreen({ user, onStartGame, onLogout }) {
     <div className="container" style={{ paddingBottom: '50px' }}>
       <nav style={navContainerStyle}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
-          <div style={avatarStyle}>{user.name.charAt(0)}</div>
-          <span style={{ fontWeight: 'bold', fontSize: '18px' }}>{user.name}</span>
+          <span style={{ fontWeight: 'bold', fontSize: '18px' }}>بەخێربێیت بۆ یارییەکە</span>
         </div>
         <div style={{ display: 'flex', gap: '15px', alignItems: 'center' }}>
           <button onClick={toggleDarkMode} style={navBtnStyle}>
             {isDarkMode ? '🌞 ڕۆژ' : '🌙 شەو'}
-          </button>
-          <button onClick={onLogout} style={{ ...navBtnStyle, color: 'var(--color-red)', borderColor: 'var(--color-red)' }}>
-            چوونە دەرەوە
           </button>
         </div>
       </nav>

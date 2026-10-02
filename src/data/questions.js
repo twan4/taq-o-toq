@@ -439,7 +439,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ یەکەمین هاوسەری (دینێریس تارگاریان) بوو کە سەرکردەی دۆتراکییەکان بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]",
-        "a": "خال درۆگۆ\n\n[IMAGE:/characters/khal_drogo.jpg]"
+        "a": "خال درۆگۆ\n\n[IMAGE:./characters/khal_drogo.jpg]"
       },
       {
         "q": "کێ برای دوانەی (سێرسی لانیستەر)یە کە پەیوەندییەکی نهێنیان پێکەوە هەبوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]",
@@ -447,7 +447,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ یەکەمین مامۆستای شمشێربازی (ئاریا ستارک) بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]",
-        "a": "سیریۆ فۆرێل\n\n[IMAGE:/characters/syrio_forel.jpg]"
+        "a": "سیریۆ فۆرێل\n\n[IMAGE:./characters/syrio_forel.jpg]"
       },
       {
         "q": "کێ ئەو پاشا دڕندەیە بوو کە لە سەرەتادا (سانسا ستارک)ی دەچەوساندەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519103.jpg]",
@@ -462,15 +462,15 @@ export const QUESTION_BANK = {
         "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
       },
       {
-        "q": "کێ ئەو جەلادە بوو کە سەری (نێد ستارک)ی پەڕاند؟\n\n[IMAGE:/characters/ned_stark.jpg]",
-        "a": "ئیلین پەین\n\n[IMAGE:/characters/ilyn_payne.jpg]"
+        "q": "کێ ئەو جەلادە بوو کە سەری (نێد ستارک)ی پەڕاند؟\n\n[IMAGE:./characters/ned_stark.jpg]",
+        "a": "ئیلین پەین\n\n[IMAGE:./characters/ilyn_payne.jpg]"
       },
       {
         "q": "کێ سەرکردایەتی پیلانی کوشتنی (ڕۆب ستارک)ی کرد لە ئاهەنگی هاوسەرگیرییەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
         "a": "تایوین لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]"
       },
       {
-        "q": "کێ ئەو کوڕە بوو کە (هۆدۆر) بەردەوام هەڵیدەگرت؟\n\n[IMAGE:/characters/hodor.jpg]",
+        "q": "کێ ئەو کوڕە بوو کە (هۆدۆر) بەردەوام هەڵیدەگرت؟\n\n[IMAGE:./characters/hodor.jpg]",
         "a": "بران ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]"
       },
       {
@@ -479,19 +479,19 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کارەکتەرە دڕندەیە بوو کە (تیۆن گرەیجۆی)ی ئەشکەنجە دا و ناوی گۆڕی؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519209.jpg]",
-        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:/characters/ramsay_bolton.jpg]"
+        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:./characters/ramsay_bolton.jpg]"
       },
       {
         "q": "کێ دووەمین هاوسەری (مارجێری تایڕێل) بوو کە پاشای وێستێرۆس بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]",
         "a": "تۆمێن باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/603.jpg]"
       },
       {
-        "q": "کێ ئەو کچە بوو کە (پیتەر بەیلیش (لیتلفینگەر)) بەدرێژایی ژیانی ئاشقی بوو؟\n\n[IMAGE:/characters/petyr_baelish.jpg]",
+        "q": "کێ ئەو کچە بوو کە (پیتەر بەیلیش (لیتلفینگەر)) بەدرێژایی ژیانی ئاشقی بوو؟\n\n[IMAGE:./characters/petyr_baelish.jpg]",
         "a": "کەیتلین ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519084.jpg]"
       },
       {
         "q": "کێ برا گەورەی (ساندۆر کلێگەین)یە کە دەموچاوی سووتاندووە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158819.jpg]",
-        "a": "گریگۆر کلێگەین\n\n[IMAGE:/characters/gregor_clegane.jpg]"
+        "a": "گریگۆر کلێگەین\n\n[IMAGE:./characters/gregor_clegane.jpg]"
       }
     ],
     "400": [
@@ -540,7 +540,7 @@ export const QUESTION_BANK = {
         "a": "شیرین باراتیۆن\n\n[IMAGE:https://ui-avatars.com/api/?name=Shireen%20Baratheon&background=random&color=fff&size=256]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە ژەهری خستە ناو شەرابەکەوە بۆ ئەوەی (ئۆلێنا تایڕێل) بە بێ ئازار بمرێت پاش گرتنی قەڵاکەیان؟\n\n[IMAGE:/characters/olenna_tyrell.jpg]",
+        "q": "کێ ئەو کەسە بوو کە ژەهری خستە ناو شەرابەکەوە بۆ ئەوەی (ئۆلێنا تایڕێل) بە بێ ئازار بمرێت پاش گرتنی قەڵاکەیان؟\n\n[IMAGE:./characters/olenna_tyrell.jpg]",
         "a": "جەیمی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]"
       },
       {
@@ -561,15 +561,15 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کەسە بوو کە زێڕی تواوەی کردە سەر سەری (ڤیسێرێس تارگاریان)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519213.jpg]",
-        "a": "خال درۆگۆ\n\n[IMAGE:/characters/khal_drogo.jpg]"
+        "a": "خال درۆگۆ\n\n[IMAGE:./characters/khal_drogo.jpg]"
       },
       {
         "q": "کێ ئەو کوڕە بوو کە (ئیگریت)ی کوشت لە کاتی شەڕی دیوارەکەدا بە تیرێک؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529550.jpg]",
         "a": "ئۆلی\n\n[IMAGE:https://ui-avatars.com/api/?name=Olly&background=random&color=fff&size=256]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە لە کاتی شەڕی دادگاییدا چاوەکانی (ئۆبەرین مارتێل)ی دەرهێنا و سەری پان کردەوە؟\n\n[IMAGE:/characters/oberyn_martell.jpg]",
-        "a": "گریگۆر کلێگەین (چیاکە)\n\n[IMAGE:/characters/gregor_clegane.jpg]"
+        "q": "کێ ئەو کەسە بوو کە لە کاتی شەڕی دادگاییدا چاوەکانی (ئۆبەرین مارتێل)ی دەرهێنا و سەری پان کردەوە؟\n\n[IMAGE:./characters/oberyn_martell.jpg]",
+        "a": "گریگۆر کلێگەین (چیاکە)\n\n[IMAGE:./characters/gregor_clegane.jpg]"
       },
       {
         "q": "کێ ئەو ئافرەتە بوو کە (گرەی وۆرم) خۆشی دەویست و لە کۆتاییدا لەدەستی دا کاتێک سەری پەڕێنرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/172/431759.jpg]",
@@ -638,59 +638,59 @@ export const QUESTION_BANK = {
         "a": "جۆن سنۆ"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە منداڵە بچووکەکانی نارد بۆ کوشتنی (پایسێل) بە چەقۆ لە تاقیگەکەیدا؟\n\n[IMAGE:/characters/grand_maester_pycelle.jpg]",
-        "a": "کایبێرن\n\n[IMAGE:/characters/qyburn.jpg]"
+        "q": "کێ ئەو کەسە بوو کە منداڵە بچووکەکانی نارد بۆ کوشتنی (پایسێل) بە چەقۆ لە تاقیگەکەیدا؟\n\n[IMAGE:./characters/grand_maester_pycelle.jpg]",
+        "a": "کایبێرن\n\n[IMAGE:./characters/qyburn.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (باریستان سێلمی)ی لە کارەکەی لابرد وەک پاسەوانی پاشا، کە وایکرد باریستان توڕە بێت و بچێتە پاڵ دینێریس؟\n\n[IMAGE:/characters/barristan_selmy.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (باریستان سێلمی)ی لە کارەکەی لابرد وەک پاسەوانی پاشا، کە وایکرد باریستان توڕە بێت و بچێتە پاڵ دینێریس؟\n\n[IMAGE:./characters/barristan_selmy.jpg]",
         "a": "جۆفری باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە (ڕیکۆن ستارک)ی کوشت بە تیرێک لە پشتییەوە لە کاتی ڕاکردنیدا بەرەو لای جۆن سنۆ؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Rickon%20Stark&background=random&color=fff&size=256]",
-        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:/characters/ramsay_bolton.jpg]"
+        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:./characters/ramsay_bolton.jpg]"
       },
       {
-        "q": "کێ مامی (یارا گرەیجۆی) بوو کە هێرشی کردە سەر کەشتییەکەی و بە دیل گرتی؟\n\n[IMAGE:/characters/yara_greyjoy.jpg]",
-        "a": "یۆرۆن گرەیجۆی\n\n[IMAGE:/characters/euron_greyjoy.jpg]"
+        "q": "کێ مامی (یارا گرەیجۆی) بوو کە هێرشی کردە سەر کەشتییەکەی و بە دیل گرتی؟\n\n[IMAGE:./characters/yara_greyjoy.jpg]",
+        "a": "یۆرۆن گرەیجۆی\n\n[IMAGE:./characters/euron_greyjoy.jpg]"
       },
       {
-        "q": "کێ خوشکی (جۆجین ڕید) بوو کە لە کۆتاییدا ناچار بوو ملی ببڕێت بۆ ئەوەی بە ئازارەوە نەمرێت پێش تەقینەوەکە؟\n\n[IMAGE:/characters/jojen_reed.jpg]",
-        "a": "میرا ڕید\n\n[IMAGE:/characters/meera_reed.jpg]"
+        "q": "کێ خوشکی (جۆجین ڕید) بوو کە لە کۆتاییدا ناچار بوو ملی ببڕێت بۆ ئەوەی بە ئازارەوە نەمرێت پێش تەقینەوەکە؟\n\n[IMAGE:./characters/jojen_reed.jpg]",
+        "a": "میرا ڕید\n\n[IMAGE:./characters/meera_reed.jpg]"
       },
       {
-        "q": "کێ ئەو جەلادەی پاشا بوو کە گومان دەکرێت (سیریۆ فۆرێل)ی کوشتبێت دوای شکاندنی شمشێرە دارەکەی؟\n\n[IMAGE:/characters/syrio_forel.jpg]",
-        "a": "مێرین ترانت\n\n[IMAGE:/characters/meryn_trant.jpg]"
+        "q": "کێ ئەو جەلادەی پاشا بوو کە گومان دەکرێت (سیریۆ فۆرێل)ی کوشتبێت دوای شکاندنی شمشێرە دارەکەی؟\n\n[IMAGE:./characters/syrio_forel.jpg]",
+        "a": "مێرین ترانت\n\n[IMAGE:./characters/meryn_trant.jpg]"
       },
       {
         "q": "کێ ئەو شاژنە بوو کە (داریۆ ناهاریس) ئاشقی بوو بەڵام لە میرین بەجێی هێشت بۆ پاراستنی شارەکە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23151.jpg]",
         "a": "دینێریس تارگاریان\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (ێدمیور تەلی) ناچار کرا هاوسەرگیری لەگەڵ بکات لە 'هاوسەرگیرییە خوێناوییەکە'؟\n\n[IMAGE:/characters/edmure_tully.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (ێدمیور تەلی) ناچار کرا هاوسەرگیری لەگەڵ بکات لە 'هاوسەرگیرییە خوێناوییەکە'؟\n\n[IMAGE:./characters/edmure_tully.jpg]",
         "a": "ڕۆسلین فرەی\n\n[IMAGE:https://ui-avatars.com/api/?name=Roslin%20Frey&background=random&color=fff&size=256]"
       },
       {
         "q": "کێ دایکی (ڕۆبن ئارین) بوو کە هەمیشە شیرپێدانی بۆ دەکرد تەنانەت کاتێک گەورەش بوو؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Robin%20Arryn&background=random&color=fff&size=256]",
-        "a": "لایسا ئارین\n\n[IMAGE:/characters/lysa_arryn.jpg]"
+        "a": "لایسا ئارین\n\n[IMAGE:./characters/lysa_arryn.jpg]"
       },
       {
-        "q": "کێ ئەو پیاوە بوو کە (لایسا ئارین) لەسەر داوای ئەو، هاوسەرەکەی خۆی (جۆن ئارین)ی ژەهرخوارد کرد؟\n\n[IMAGE:/characters/lysa_arryn.jpg]",
-        "a": "پیتەر بەیلیش\n\n[IMAGE:/characters/petyr_baelish.jpg]"
+        "q": "کێ ئەو پیاوە بوو کە (لایسا ئارین) لەسەر داوای ئەو، هاوسەرەکەی خۆی (جۆن ئارین)ی ژەهرخوارد کرد؟\n\n[IMAGE:./characters/lysa_arryn.jpg]",
+        "a": "پیتەر بەیلیش\n\n[IMAGE:./characters/petyr_baelish.jpg]"
       },
       {
-        "q": "کێ خوشکی (لۆراس تایڕێل) بوو کە لەگەڵیدا لە پەرستگاکە سووتا لە کۆتایی وەرزی شەشەمدا؟\n\n[IMAGE:/characters/loras_tyrell.jpg]",
+        "q": "کێ خوشکی (لۆراس تایڕێل) بوو کە لەگەڵیدا لە پەرستگاکە سووتا لە کۆتایی وەرزی شەشەمدا؟\n\n[IMAGE:./characters/loras_tyrell.jpg]",
         "a": "مارجێری تایڕێل\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]"
       },
       {
-        "q": "کێ دایکی (مەیس تایڕێل) بوو کە هەمیشە بە کەم سەیریکرد و پێی وابوو بێ توانا و گەمژەیە؟\n\n[IMAGE:/characters/mace_tyrell.jpg]",
-        "a": "ئۆلێنا تایڕێل\n\n[IMAGE:/characters/olenna_tyrell.jpg]"
+        "q": "کێ دایکی (مەیس تایڕێل) بوو کە هەمیشە بە کەم سەیریکرد و پێی وابوو بێ توانا و گەمژەیە؟\n\n[IMAGE:./characters/mace_tyrell.jpg]",
+        "a": "ئۆلێنا تایڕێل\n\n[IMAGE:./characters/olenna_tyrell.jpg]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە فەرمانی لەسێدارەدانی بۆ (ئالیسەر تۆرن) دەرکرد بەهۆی خیانەتکردن و بەشداریکردنی لە کوشتنیدا؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Alliser%20Thorne&background=random&color=fff&size=256]",
         "a": "جۆن سنۆ\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (کراستەر)ی کوشت لە ماڵەکەی خۆیدا کاتێک کەسانی Night's Watch یاخیبوون؟\n\n[IMAGE:/characters/craster.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (کراستەر)ی کوشت لە ماڵەکەی خۆیدا کاتێک کەسانی Night's Watch یاخیبوون؟\n\n[IMAGE:./characters/craster.jpg]",
         "a": "کارڵ تانەر\n\n[IMAGE:https://ui-avatars.com/api/?name=Karl%20Tanner&background=random&color=fff&size=256]"
       },
       {
@@ -1934,308 +1934,308 @@ export const QUESTION_BANK = {
   "cat27": {
     "200": [
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_1_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dexter, Dexter's Laboratory)\n\n[IMAGE:/colors/color_1.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_1_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dexter, Dexter's Laboratory)\n\n[IMAGE:./colors/color_1.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_2_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(33 idées & tutos pour apprendre à dessiner Mario)\n\n[IMAGE:/colors/color_2.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_2_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(33 idées & tutos pour apprendre à dessiner Mario)\n\n[IMAGE:./colors/color_2.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_3_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(בוב ספוג)\n\n[IMAGE:/colors/color_3.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_3_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(בוב ספוג)\n\n[IMAGE:./colors/color_3.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_4_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gallery of Famous Cartoon Cat Characters Over The Years)\n\n[IMAGE:/colors/color_4.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_4_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gallery of Famous Cartoon Cat Characters Over The Years)\n\n[IMAGE:./colors/color_4.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_5_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fond ecran nike)\n\n[IMAGE:/colors/color_5.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_5_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fond ecran nike)\n\n[IMAGE:./colors/color_5.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_6_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(とぅいーてぃー)\n\n[IMAGE:/colors/color_6.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_6_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(とぅいーてぃー)\n\n[IMAGE:./colors/color_6.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_7_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Vektor Patrick)\n\n[IMAGE:/colors/color_7.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_7_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Vektor Patrick)\n\n[IMAGE:./colors/color_7.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_8_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Winnie the Pooh)\n\n[IMAGE:/colors/color_8.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_8_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Winnie the Pooh)\n\n[IMAGE:./colors/color_8.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_9_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stich!!💙🐬)\n\n[IMAGE:/colors/color_9.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_9_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stich!!💙🐬)\n\n[IMAGE:./colors/color_9.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_10_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tom & Jerry)\n\n[IMAGE:/colors/color_10.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_10_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tom & Jerry)\n\n[IMAGE:./colors/color_10.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_11_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gumball Childrens Kids Nursery Wall Stickers Bedroom Decal Art Vinyl Sticker)\n\n[IMAGE:/colors/color_11.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_11_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gumball Childrens Kids Nursery Wall Stickers Bedroom Decal Art Vinyl Sticker)\n\n[IMAGE:./colors/color_11.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_12_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Plankton eye printable)\n\n[IMAGE:/colors/color_12.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_12_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Plankton eye printable)\n\n[IMAGE:./colors/color_12.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_13_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(A)\n\n[IMAGE:/colors/color_13.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_13_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(A)\n\n[IMAGE:./colors/color_13.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_14_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Spongebob)\n\n[IMAGE:/colors/color_14.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_14_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Spongebob)\n\n[IMAGE:./colors/color_14.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_15_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(dancing)\n\n[IMAGE:/colors/color_15.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_15_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(dancing)\n\n[IMAGE:./colors/color_15.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_16_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pics of scooby doo)\n\n[IMAGE:/colors/color_16.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_16_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pics of scooby doo)\n\n[IMAGE:./colors/color_16.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_17_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Squidward)\n\n[IMAGE:/colors/color_17.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_17_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Squidward)\n\n[IMAGE:./colors/color_17.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_18_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(HAPPY 84th BIRTHDAY to GRANNY!! 10/7/21 Born Emma Webster, better known as Granny, Warner Bros. Cartoons character created by Friz Freleng, best known from Looney Tunes and Merrie Melodies animated shorts of the 1950s and 1960s. She is the owner of Tweety (and more often than not, Sylvester and Hector). Her voice was first provided by Bea Benaderet from 1950 through 1955, then by June Foray for almost 60 years then Candi Milo took over in 2017 following Foray’s death.)\n\n[IMAGE:/colors/color_18.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_18_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(HAPPY 84th BIRTHDAY to GRANNY!! 10/7/21 Born Emma Webster, better known as Granny, Warner Bros. Cartoons character created by Friz Freleng, best known from Looney Tunes and Merrie Melodies animated shorts of the 1950s and 1960s. She is the owner of Tweety (and more often than not, Sylvester and Hector). Her voice was first provided by Bea Benaderet from 1950 through 1955, then by June Foray for almost 60 years then Candi Milo took over in 2017 following Foray’s death.)\n\n[IMAGE:./colors/color_18.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_19_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mickey mouse dibujo)\n\n[IMAGE:/colors/color_19.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_19_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mickey mouse dibujo)\n\n[IMAGE:./colors/color_19.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_20_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bug Bunny Cartoon Character)\n\n[IMAGE:/colors/color_20.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_20_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bug Bunny Cartoon Character)\n\n[IMAGE:./colors/color_20.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_21_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Red Bull)\n\n[IMAGE:/colors/color_21.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_21_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Red Bull)\n\n[IMAGE:./colors/color_21.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_22_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Fred Flintstone)\n\n[IMAGE:/colors/color_22.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_22_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Fred Flintstone)\n\n[IMAGE:./colors/color_22.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_23_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The Smurfs.. not really the show. Just a lot of late 70s french comic books and toys before the smurf rage in the 80s.)\n\n[IMAGE:/colors/color_23.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_23_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The Smurfs.. not really the show. Just a lot of late 70s french comic books and toys before the smurf rage in the 80s.)\n\n[IMAGE:./colors/color_23.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_24_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Refreshing Non-Alcoholic Pepsi Drink)\n\n[IMAGE:/colors/color_24.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_24_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Refreshing Non-Alcoholic Pepsi Drink)\n\n[IMAGE:./colors/color_24.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_25_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Papa Smurf Village Leader Cartoon Vinyl Car Window Decal Laptop Toolbox Sticker)\n\n[IMAGE:/colors/color_25.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_25_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Papa Smurf Village Leader Cartoon Vinyl Car Window Decal Laptop Toolbox Sticker)\n\n[IMAGE:./colors/color_25.jpg]"
       }
     ],
     "400": [
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_26_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(19 Things You Never Really Thought About Before)\n\n[IMAGE:/colors/color_26.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_26_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(19 Things You Never Really Thought About Before)\n\n[IMAGE:./colors/color_26.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_27_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bart Simpson PNG image with transparent background)\n\n[IMAGE:/colors/color_27.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_27_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bart Simpson PNG image with transparent background)\n\n[IMAGE:./colors/color_27.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_28_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mr Bean PNG (Animated Series))\n\n[IMAGE:/colors/color_28.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_28_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mr Bean PNG (Animated Series))\n\n[IMAGE:./colors/color_28.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_29_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(KFC Logo)\n\n[IMAGE:/colors/color_29.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_29_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(KFC Logo)\n\n[IMAGE:./colors/color_29.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_30_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Womens, Mens and Kids Fashion, Furniture, Electricals & More!)\n\n[IMAGE:/colors/color_30.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_30_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Womens, Mens and Kids Fashion, Furniture, Electricals & More!)\n\n[IMAGE:./colors/color_30.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_31_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(More on Printing and Cutting layers with the Imagine)\n\n[IMAGE:/colors/color_31.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_31_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(More on Printing and Cutting layers with the Imagine)\n\n[IMAGE:./colors/color_31.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_32_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pinkie and the brain stickers)\n\n[IMAGE:/colors/color_32.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_32_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pinkie and the brain stickers)\n\n[IMAGE:./colors/color_32.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_33_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Dora the Explorer: 11 Steps (with Pictures) - wikiHow)\n\n[IMAGE:/colors/color_33.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_33_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Dora the Explorer: 11 Steps (with Pictures) - wikiHow)\n\n[IMAGE:./colors/color_33.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_34_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Shaggy y scooby)\n\n[IMAGE:/colors/color_34.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_34_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Shaggy y scooby)\n\n[IMAGE:./colors/color_34.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_35_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(.)\n\n[IMAGE:/colors/color_35.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_35_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(.)\n\n[IMAGE:./colors/color_35.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_36_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Jorge el Curioso PNG descarga gratis)\n\n[IMAGE:/colors/color_36.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_36_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Jorge el Curioso PNG descarga gratis)\n\n[IMAGE:./colors/color_36.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_37_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stuart Little)\n\n[IMAGE:/colors/color_37.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_37_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stuart Little)\n\n[IMAGE:./colors/color_37.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_38_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Porky say hi)\n\n[IMAGE:/colors/color_38.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_38_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Porky say hi)\n\n[IMAGE:./colors/color_38.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_39_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(kids favourite Doremon /Doremon image)\n\n[IMAGE:/colors/color_39.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_39_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(kids favourite Doremon /Doremon image)\n\n[IMAGE:./colors/color_39.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_41_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Señora Wicket)\n\n[IMAGE:/colors/color_41.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_41_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Señora Wicket)\n\n[IMAGE:./colors/color_41.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_42_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Can I Eat Low Sodium at Starbucks - Hacking Salt)\n\n[IMAGE:/colors/color_42.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_42_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Can I Eat Low Sodium at Starbucks - Hacking Salt)\n\n[IMAGE:./colors/color_42.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_43_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Biểu trưng)\n\n[IMAGE:/colors/color_43.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_43_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Biểu trưng)\n\n[IMAGE:./colors/color_43.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_44_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Modern badge logo instagram icon)\n\n[IMAGE:/colors/color_44.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_44_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Modern badge logo instagram icon)\n\n[IMAGE:./colors/color_44.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_45_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Escudo del real madrid)\n\n[IMAGE:/colors/color_45.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_45_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Escudo del real madrid)\n\n[IMAGE:./colors/color_45.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_46_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Manchester United Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:/colors/color_46.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_46_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Manchester United Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:./colors/color_46.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_47_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(sticker kawaii anime)\n\n[IMAGE:/colors/color_47.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_47_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(sticker kawaii anime)\n\n[IMAGE:./colors/color_47.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_48_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(laptop logo sticker)\n\n[IMAGE:/colors/color_48.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_48_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(laptop logo sticker)\n\n[IMAGE:./colors/color_48.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_49_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 - 𝙨𝙥𝙤𝙩𝙞𝙛𝙮)\n\n[IMAGE:/colors/color_49.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_49_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 - 𝙨𝙥𝙤𝙩𝙞𝙛𝙮)\n\n[IMAGE:./colors/color_49.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_50_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Brand Stickers)\n\n[IMAGE:/colors/color_50.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_50_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Brand Stickers)\n\n[IMAGE:./colors/color_50.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_51_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(L-FST0031)\n\n[IMAGE:/colors/color_51.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_51_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(L-FST0031)\n\n[IMAGE:./colors/color_51.jpg]"
       }
     ],
     "600": [
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_52_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fotos legais para desenhar)\n\n[IMAGE:/colors/color_52.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_52_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fotos legais para desenhar)\n\n[IMAGE:./colors/color_52.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_53_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Route 66 Logo Sticker)\n\n[IMAGE:/colors/color_53.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_53_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Route 66 Logo Sticker)\n\n[IMAGE:./colors/color_53.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_54_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Doritos White)\n\n[IMAGE:/colors/color_54.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_54_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Doritos White)\n\n[IMAGE:./colors/color_54.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_55_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Wolle kaufen)\n\n[IMAGE:/colors/color_55.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_55_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Wolle kaufen)\n\n[IMAGE:./colors/color_55.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_56_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Burger King change de logo pour revenir sur son identité graphique de 1970)\n\n[IMAGE:/colors/color_56.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_56_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Burger King change de logo pour revenir sur son identité graphique de 1970)\n\n[IMAGE:./colors/color_56.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_57_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Xbox logo)\n\n[IMAGE:/colors/color_57.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_57_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Xbox logo)\n\n[IMAGE:./colors/color_57.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_58_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tattoo the king of the hill)\n\n[IMAGE:/colors/color_58.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_58_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tattoo the king of the hill)\n\n[IMAGE:./colors/color_58.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_59_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The best free logo maker: no-cost tools for designing eye-catching logos)\n\n[IMAGE:/colors/color_59.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_59_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The best free logo maker: no-cost tools for designing eye-catching logos)\n\n[IMAGE:./colors/color_59.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_60_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Afbeeldingen)\n\n[IMAGE:/colors/color_60.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_60_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Afbeeldingen)\n\n[IMAGE:./colors/color_60.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_61_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How the NASA worm logo was designed - Creative Review)\n\n[IMAGE:/colors/color_61.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_61_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How the NASA worm logo was designed - Creative Review)\n\n[IMAGE:./colors/color_61.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_62_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(One piece logo)\n\n[IMAGE:/colors/color_62.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_62_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(One piece logo)\n\n[IMAGE:./colors/color_62.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_63_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Marlboro Logo PNG Vector (EPS) Free Download)\n\n[IMAGE:/colors/color_63.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_63_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Marlboro Logo PNG Vector (EPS) Free Download)\n\n[IMAGE:./colors/color_63.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_64_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Ferrari Logo)\n\n[IMAGE:/colors/color_64.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_64_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Ferrari Logo)\n\n[IMAGE:./colors/color_64.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_65_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dessiner visage manga)\n\n[IMAGE:/colors/color_65.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_65_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dessiner visage manga)\n\n[IMAGE:./colors/color_65.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_66_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Superman logo)\n\n[IMAGE:/colors/color_66.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_66_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Superman logo)\n\n[IMAGE:./colors/color_66.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_67_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tik Tok Icon Circle PNG Transparent With Clear Background ID 473286)\n\n[IMAGE:/colors/color_67.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_67_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tik Tok Icon Circle PNG Transparent With Clear Background ID 473286)\n\n[IMAGE:./colors/color_67.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_68_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gucci Logo Svg)\n\n[IMAGE:/colors/color_68.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_68_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gucci Logo Svg)\n\n[IMAGE:./colors/color_68.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_69_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Regular Show Wallpaper)\n\n[IMAGE:/colors/color_69.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_69_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Regular Show Wallpaper)\n\n[IMAGE:./colors/color_69.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_70_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tommy Hilfiger Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:/colors/color_70.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_70_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tommy Hilfiger Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:./colors/color_70.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_71_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Sprite Lime)\n\n[IMAGE:/colors/color_71.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_71_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Sprite Lime)\n\n[IMAGE:./colors/color_71.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_72_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(古いマンガ)\n\n[IMAGE:/colors/color_72.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_72_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(古いマンガ)\n\n[IMAGE:./colors/color_72.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_73_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(I will graphic design, fashion design, vectorial drawing)\n\n[IMAGE:/colors/color_73.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_73_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(I will graphic design, fashion design, vectorial drawing)\n\n[IMAGE:./colors/color_73.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_74_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Lion King Transparent Png Images)\n\n[IMAGE:/colors/color_74.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_74_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Lion King Transparent Png Images)\n\n[IMAGE:./colors/color_74.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_75_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Clash of Clans Logo)\n\n[IMAGE:/colors/color_75.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_75_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Clash of Clans Logo)\n\n[IMAGE:./colors/color_75.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_76_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Discord - Group Chat That’s All Fun & Games)\n\n[IMAGE:/colors/color_76.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_76_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Discord - Group Chat That’s All Fun & Games)\n\n[IMAGE:./colors/color_76.jpg]"
       }
     ]
   },
@@ -5098,7 +5098,7 @@ export const QUESTION_BANK = {
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ گەورەترین ڕکابەر و دۆستی (مادارا ئۆچیها) بوو لە دامەزراندنی کۆنۆهادا؟\n\n[IMAGE:/characters/madara_uchiha.jpg]",
+        "q": "کێ گەورەترین ڕکابەر و دۆستی (مادارا ئۆچیها) بوو لە دامەزراندنی کۆنۆهادا؟\n\n[IMAGE:./characters/madara_uchiha.jpg]",
         "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
       },
       {
@@ -5164,8 +5164,8 @@ export const QUESTION_BANK = {
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ ئەو پیرەژنە بوو کە (ساسۆری)ی گەورە کرد و دواتر لە شەڕدا کوشتی؟\n\n[IMAGE:/characters/sasori.jpg]",
-        "a": "نەنە چیۆ\n\n[IMAGE:/characters/chiyo.jpg]"
+        "q": "کێ ئەو پیرەژنە بوو کە (ساسۆری)ی گەورە کرد و دواتر لە شەڕدا کوشتی؟\n\n[IMAGE:./characters/sasori.jpg]",
+        "a": "نەنە چیۆ\n\n[IMAGE:./characters/chiyo.jpg]"
       },
       {
         "q": "کێ سەری (هیدان)ی بڕی و لە ژێر زەویدا شاردیەوە بۆ تۆڵەسەندنەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62]",
@@ -5184,19 +5184,19 @@ export const QUESTION_BANK = {
         "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ هاوسەری (کوشینا ئۆزۆماکی) بوو کە پێکەوە گیانیان بەخشی بۆ ڕزگارکردنی نارۆتۆ؟\n\n[IMAGE:/characters/kushina_uzumaki.jpg]",
+        "q": "کێ هاوسەری (کوشینا ئۆزۆماکی) بوو کە پێکەوە گیانیان بەخشی بۆ ڕزگارکردنی نارۆتۆ؟\n\n[IMAGE:./characters/kushina_uzumaki.jpg]",
         "a": "میناتۆ نامیکازێ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b]"
       },
       {
-        "q": "کێ برای گەورەی (کیلەر بی)یە کە نازناوی ڕایکاجێی هەیە؟\n\n[IMAGE:/characters/killer_bee.jpg]",
-        "a": "ئەی (ڕایکاجێ)\n\n[IMAGE:/characters/a__fourth_raikage_.jpg]"
+        "q": "کێ برای گەورەی (کیلەر بی)یە کە نازناوی ڕایکاجێی هەیە؟\n\n[IMAGE:./characters/killer_bee.jpg]",
+        "a": "ئەی (ڕایکاجێ)\n\n[IMAGE:./characters/a__fourth_raikage_.jpg]"
       },
       {
-        "q": "کێ برای گەورەی (سویگێتسو هۆزوکی)یە کە یەکێک بوو لە ٧ شمشێربازەکەی گوندی تەم؟\n\n[IMAGE:/characters/suigetsu_hozuki.jpg]",
-        "a": "مانگێتسو هۆزوکی\n\n[IMAGE:/characters/mangetsu_hozuki.jpg]"
+        "q": "کێ برای گەورەی (سویگێتسو هۆزوکی)یە کە یەکێک بوو لە ٧ شمشێربازەکەی گوندی تەم؟\n\n[IMAGE:./characters/suigetsu_hozuki.jpg]",
+        "a": "مانگێتسو هۆزوکی\n\n[IMAGE:./characters/mangetsu_hozuki.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی بریندار کرد لە کاتی شەڕکردن لەگەڵ دانزۆ بۆ ئەوەی بگاتە ئامانجەکەی؟\n\n[IMAGE:/characters/karin_uzumaki.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی بریندار کرد لە کاتی شەڕکردن لەگەڵ دانزۆ بۆ ئەوەی بگاتە ئامانجەکەی؟\n\n[IMAGE:./characters/karin_uzumaki.jpg]",
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
@@ -5213,7 +5213,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ کچی (ئاسوما ساروتۆبی) و کورینای یە کە دوای مردنی لەدایک بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f]",
-        "a": "میرای ساروتۆبی\n\n[IMAGE:/characters/mirai_sarutobi.jpg]"
+        "a": "میرای ساروتۆبی\n\n[IMAGE:./characters/mirai_sarutobi.jpg]"
       }
     ],
     "600": [
@@ -5270,15 +5270,15 @@ export const QUESTION_BANK = {
         "a": "ئاشورا ئۆتسوتسوکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/508740.jpg?s=f00168ae85f53a9b762e1a76e450474c]"
       },
       {
-        "q": "کێ برای (ئیزونا ئۆچیها) بوو کە چاوەکانی پێ بەخشی بۆ ئەوەی کوێر نەبێت؟\n\n[IMAGE:/characters/izuna_uchiha.jpg]",
-        "a": "مادارا ئۆچیها\n\n[IMAGE:/characters/madara_uchiha.jpg]"
+        "q": "کێ برای (ئیزونا ئۆچیها) بوو کە چاوەکانی پێ بەخشی بۆ ئەوەی کوێر نەبێت؟\n\n[IMAGE:./characters/izuna_uchiha.jpg]",
+        "a": "مادارا ئۆچیها\n\n[IMAGE:./characters/madara_uchiha.jpg]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە نەیتوانی بەڵێنەکەی بباتە سەر بۆ پاراستنی (ڕین نۆهارا)؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]",
         "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
-        "q": "کێ کوڕی (ساکومۆ هاتاكی)یە کە پێی دەوترا ددانە سپییەکەی کۆنۆها؟\n\n[IMAGE:/characters/sakumo_hatake.jpg]",
+        "q": "کێ کوڕی (ساکومۆ هاتاكی)یە کە پێی دەوترا ددانە سپییەکەی کۆنۆها؟\n\n[IMAGE:./characters/sakumo_hatake.jpg]",
         "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
@@ -5286,11 +5286,11 @@ export const QUESTION_BANK = {
         "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ گەورەترین ڕکابەری (گێنگێتسو هۆزوکی) بوو کە لە هەمان شەڕدا یەکتریان کوشت؟\n\n[IMAGE:/characters/gengetsu_hozuki.jpg]",
-        "a": "موو (تسوچیکاجێی دووەم)\n\n[IMAGE:/characters/mu.jpg]"
+        "q": "کێ گەورەترین ڕکابەری (گێنگێتسو هۆزوکی) بوو کە لە هەمان شەڕدا یەکتریان کوشت؟\n\n[IMAGE:./characters/gengetsu_hozuki.jpg]",
+        "a": "موو (تسوچیکاجێی دووەم)\n\n[IMAGE:./characters/mu.jpg]"
       },
       {
-        "q": "کێ قوتابیی (موو (Mū)) بوو کە فێری تەکنیکی دابەشکردنی گەردیلەیی (Dust Release) کرد؟\n\n[IMAGE:/characters/mu.jpg]",
+        "q": "کێ قوتابیی (موو (Mū)) بوو کە فێری تەکنیکی دابەشکردنی گەردیلەیی (Dust Release) کرد؟\n\n[IMAGE:./characters/mu.jpg]",
         "a": "ئۆنۆکی\n\n[IMAGE:https://ui-avatars.com/api/?name=Onoki&background=random&color=fff&size=256]"
       },
       {
@@ -5298,24 +5298,24 @@ export const QUESTION_BANK = {
         "a": "گارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]"
       },
       {
-        "q": "کێ نەوەی (نەنە چیۆ) بوو کە بووە ئەندامێکی ئەکاتسوکی و شارەزای دروستکردنی بوکەڵە بوو؟\n\n[IMAGE:/characters/chiyo.jpg]",
-        "a": "ساسۆری\n\n[IMAGE:/characters/sasori.jpg]"
+        "q": "کێ نەوەی (نەنە چیۆ) بوو کە بووە ئەندامێکی ئەکاتسوکی و شارەزای دروستکردنی بوکەڵە بوو؟\n\n[IMAGE:./characters/chiyo.jpg]",
+        "a": "ساسۆری\n\n[IMAGE:./characters/sasori.jpg]"
       },
       {
-        "q": "کێ چاوی ڕاستی (شیسوی ئۆچیها)ی دزی پێش ئەوەی خۆی بکوژێت؟\n\n[IMAGE:/characters/shisui_uchiha.jpg]",
+        "q": "کێ چاوی ڕاستی (شیسوی ئۆچیها)ی دزی پێش ئەوەی خۆی بکوژێت؟\n\n[IMAGE:./characters/shisui_uchiha.jpg]",
         "a": "دانزۆ شیمورا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی ڕزگار کرد کاتێک لە دارستانی مەرگ خەریک بوو بمرێت لەلایەن ورچێکەوە؟\n\n[IMAGE:/characters/karin_uzumaki.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی ڕزگار کرد کاتێک لە دارستانی مەرگ خەریک بوو بمرێت لەلایەن ورچێکەوە؟\n\n[IMAGE:./characters/karin_uzumaki.jpg]",
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (جوجۆ) سەرسام بوو پێی وەک باشترین هاوڕێ پێش مردنی؟\n\n[IMAGE:/characters/jugo.jpg]",
+        "q": "کێ ئەو کەسە بوو کە (جوجۆ) سەرسام بوو پێی وەک باشترین هاوڕێ پێش مردنی؟\n\n[IMAGE:./characters/jugo.jpg]",
         "a": "کیمیمارۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5]"
       },
       {
         "q": "کێ ئەو نینجایە بوو کە (میفونێ) ڕووبەڕووی بووەوە لە جەنگی چوارەمدا و پێشتر شەڕیان کردبوو؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Mifune&background=random&color=fff&size=256]",
-        "a": "هانزۆی سەلەمەندەر\n\n[IMAGE:/characters/hanzo.jpg]"
+        "a": "هانزۆی سەلەمەندەر\n\n[IMAGE:./characters/hanzo.jpg]"
       }
     ]
   }
