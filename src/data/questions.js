@@ -394,308 +394,308 @@ export const QUESTION_BANK = {
   "cat57": {
     "200": [
       {
-        "q": "کێ بە پاشای باکوور هەڵبژێردرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]",
-        "a": "جۆن سنۆ"
+        "q": "کێ باشترین هاوڕێی ئەم کارەکتەرەیە کە حەزی لە خوێندنەوەی پەڕتووکەکانە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]",
+        "a": "ساموێل تارلی\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/591.jpg]"
       },
       {
-        "q": "کێ نازناوی (دایکی ئەژدیهاکان)ی هەیە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]",
-        "a": "دینێریس تارگاریان"
-      },
-      {
-        "q": "کام کارەکتەر قەزەمە و زۆر زیرەکە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519071.jpg]",
-        "a": "تیریۆن لانیستەر"
-      },
-      {
-        "q": "کێ شاژنی وێستێرۆس بوو کە حەزی لە شەراب و دەسەڵات بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]",
-        "a": "سێرسی لانیستەر"
-      },
-      {
-        "q": "کێ پاشای شەوەکانی (Night King) کوشت؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]",
-        "a": "ئاریا ستارک"
-      },
-      {
-        "q": "کێ بوو بە شاژنی باکوور لە کۆتاییدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519103.jpg]",
-        "a": "سانسا ستارک"
-      },
-      {
-        "q": "کێ بوو بە پاشای شەش شانشینەکە لە کۆتایی زنجیرەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]",
-        "a": "بران ستارک"
-      },
-      {
-        "q": "کێ بە (بکوژی پاشا - Kingslayer) ناسراوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]",
-        "a": "جەیمی لانیستەر"
-      },
-      {
-        "q": "کام پاشا گەنج و دڕندە بوو کە لە ئاهەنگی هاوسەرگیرییەکەیدا ژەهرخوارد کرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]",
-        "a": "جۆفری باراتیۆن"
-      },
-      {
-        "q": "کێ گەورەی وینتەرفێڵ بوو لە سەرەتای زنجیرەکەدا کە سەری پەڕێندرا؟",
-        "a": "نێد ستارک"
-      },
-      {
-        "q": "کام پاشایە لە (هاوسەرگیرییە خوێناوییەکە - Red Wedding) کوژرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
-        "a": "ڕۆب ستارک"
-      },
-      {
-        "q": "کام کارەکتەرە تەنها دەیتوانی ناوی خۆی بڵێت؟",
-        "a": "هۆدۆر"
-      },
-      {
-        "q": "کێ سەرکردەی دۆتراکییەکان بوو و هاوسەری یەکەمی دینێریس بوو؟",
+        "q": "کێ یەکەمین هاوسەری ئەم کارەکتەرە بوو کە سەرکردەی دۆتراکییەکان بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]",
         "a": "خال درۆگۆ"
       },
       {
-        "q": "کێ باشترین هاوڕێی جۆن سنۆیە و حەزی لە خوێندنەوەی کتێبە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/591.jpg]",
-        "a": "ساموێل تارلی"
+        "q": "کێ باوکی ئەم کارەکتەرەیە کە هەمیشە ڕقی لێی بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519071.jpg]",
+        "a": "تایوین لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]"
       },
       {
-        "q": "کێ یەکەمین ئافرەت بوو کە کرا بە شوڕشگێڕ (Knight) لە حەوت شانشینەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/593.jpg]",
-        "a": "برین ئۆف تارس"
+        "q": "کێ برای دوانەی ئەم کارەکتەرەیە کە پەیوەندییەکی نهێنیان پێکەوە هەبوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]",
+        "a": "جەیمی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]"
       },
       {
-        "q": "کێ وەک دیلێک لەلایەن ماڵی ستارک پەروەردە کرا و دواتر خیانەتی لێکردن؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519209.jpg]",
-        "a": "تیۆن گرەیجۆی"
+        "q": "کێ یەکەمین مامۆستای شمشێربازی ئەم کارەکتەرە بوو لە (پێشەواکانی ئاو)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]",
+        "a": "سیریۆ فۆرێل"
       },
       {
-        "q": "کێ هاوسەرگیری لەگەڵ سێ پاشای جیاوازدا کرد لە زنجیرەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]",
-        "a": "مارجێری تایڕێل"
+        "q": "کێ ئەو پاشا دڕندەیە بوو کە لە سەرەتادا ئەم کارەکتەرەی دەچەوساندەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519103.jpg]",
+        "a": "جۆفری باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]"
       },
       {
-        "q": "کێ بە (پەنجە بچووک - Littlefinger) ناسراوە؟",
-        "a": "پیتەر بەیلیش"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی لە پەنجەرەوە فڕێدایە خوارەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]",
+        "a": "جەیمی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]"
       },
       {
-        "q": "کێ بە (جاڵجاڵۆکەکە) ناسراوە و سەرۆکی سیخوڕەکانە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/596.jpg]",
-        "a": "ڤاریس"
+        "q": "کێ ئەو ژنە سوارچاکە بوو کە ئەم کارەکتەرەی یاوەری دەکرد و ڕێزی بۆی پەیدا کرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]",
+        "a": "برین ئۆف تارس\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/593.jpg]"
       },
       {
-        "q": "کێ بە (ئافرەتە سوورەکە) ناسراوە کە جۆن سنۆی زیندوو کردەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519030.jpg]",
-        "a": "مێلیساندری"
+        "q": "کێ دایکی ڕاستەقینەی ئەم کارەکتەرە بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
       },
       {
-        "q": "کێ توندوتیژترین و سادیسترین کارەکتەری زنجیرەکە بوو کە تیۆنی ئەشکەنجە دا؟",
+        "q": "کێ ئەو جەلادە بوو کە سەری ئەم کارەکتەرەی پەڕاند؟",
+        "a": "ئیلین پەین"
+      },
+      {
+        "q": "کێ ئەو پەیامەی پێگەیشت کە باسی مردنی ئەم کارەکتەرە دەکات لە هاوسەرگیرییە خوێناوییەکە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
+        "a": "تایوین لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]"
+      },
+      {
+        "q": "کێ ئەو کوڕە بوو کە هۆدۆر بەردەوام هەڵیدەگرت؟",
+        "a": "بران ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]"
+      },
+      {
+        "q": "کێ ژنی ئەم کارەکتەرە بوو کە دواتر بوو بە دایکی ئەژدیهاکان؟",
+        "a": "دینێریس تارگاریان\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]"
+      },
+      {
+        "q": "کێ ئەو کچە کێوییە بوو کە ئەم کارەکتەرە ڕزگاری کرد و خستیە ژێر چاودێری خۆی؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/591.jpg]",
+        "a": "گیلی\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/192/482446.jpg]"
+      },
+      {
+        "q": "کێ ئەو پاشایە بوو کە ئەم کارەکتەرە پاسەوانی بوو و لەبەرچاوی کوژرا پاشان سوێندی تۆڵەسەندنەوەی خوارد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/593.jpg]",
+        "a": "ڕێنلی باراتیۆن"
+      },
+      {
+        "q": "کێ ئەو کارەکتەرە دڕندەیە بوو کە ئەم کارەکتەرەی ئەشکەنجە دا و ناوی گۆڕی بۆ (Reek)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519209.jpg]",
         "a": "ڕامسی بۆڵتۆن"
       },
       {
-        "q": "کێ بە (سەگەکە - The Hound) ناسراوە و نیوەی دەموچاوی سووتاوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158819.jpg]",
-        "a": "ساندۆر کلێگەین"
+        "q": "کێ دووەمین هاوسەری ئەم کارەکتەرە بوو کە کوڕە بچووکەکەی سێرسی بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]",
+        "a": "تۆمێن باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/603.jpg]"
       },
       {
-        "q": "کێ بە (چیاکە - The Mountain) ناسراوە؟",
-        "a": "گریگۆر کلێگەین"
+        "q": "کێ ئەو کچە بوو کە ئەم کارەکتەرە بەدرێژایی ژیانی ئاشقی بوو؟",
+        "a": "کەیتلین ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519084.jpg]"
       },
       {
-        "q": "کێ بێهیوا ئاشقی دینێریس بوو و وەک پاسەوانی خزمەتی دەکرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/1457.jpg]",
-        "a": "جۆرا مۆرمۆنت"
+        "q": "کێ ئەو شاژنە بوو کە لە کۆتاییدا فەرمانی سووتاندنی ئەم کارەکتەرەی دا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/596.jpg]",
+        "a": "دینێریس تارگاریان\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]"
       },
       {
-        "q": "کێ سەرکردەی کێویەکان (Wildlings) بوو کە ئاشقی برین بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/1/3169.jpg]",
-        "a": "تۆرموند جاینتسبەین"
+        "q": "کێ ئەو پاشایە بوو کە ئەم کارەکتەرە بڕوای پێی هەبوو کە پێغەمبەری ڕاستەقینەیە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519030.jpg]",
+        "a": "ستانیس باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519132.jpg]"
+      },
+      {
+        "q": "کێ ئەو ژنە بوو کە ئەم کارەکتەرە بە زۆر هاوسەرگیری لەگەڵ کرد؟",
+        "a": "سانسا ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519103.jpg]"
+      },
+      {
+        "q": "کێ برا گەورەی ئەم کارەکتەرەیە کە دەموچاوی سووتاندووە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158819.jpg]",
+        "a": "گریگۆر کلێگەین (چیاکە)"
+      },
+      {
+        "q": "کێ ئەو پیاوە بوو کە لە شەڕی دادگاییدا بە شێوەیەکی دڕندانە لەلایەن ئەم کارەکتەرەوە سەری پان کرایەوە؟",
+        "a": "ئۆبەرین مارتێل"
+      },
+      {
+        "q": "کێ باوکی ئەم کارەکتەرە بوو کە فەرماندەی (Night's Watch) بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/1457.jpg]",
+        "a": "جیۆر مۆرمۆنت\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529534.jpg]"
+      },
+      {
+        "q": "کێ ئەو ئافرەتە بوو کە ئەم کارەکتەرە بە بێهیواییەوە ئاشقی بوو و سەیری دەکرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/1/3169.jpg]",
+        "a": "برین ئۆف تارس\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/593.jpg]"
       }
     ],
     "400": [
       {
-        "q": "کێ خۆی بە پاشای ڕەوا دەزانی و کچەکەی خۆی سووتاند بۆ سەرکەوتن؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519132.jpg]",
-        "a": "ستانیس باراتیۆن"
-      },
-      {
-        "q": "کێ دانیپێدانا کە جۆفری ژەهرخوارد کردووە؟",
-        "a": "ئۆلێنا تایڕێل"
-      },
-      {
-        "q": "کێ سەرۆکی ماڵی لانیستەر بوو و لەناو ئاودەستەکەدا کوژرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]",
-        "a": "تایوین لانیستەر"
-      },
-      {
-        "q": "کێ دایکی منداڵەکانی ماڵی ستارک بوو کە لە (Red Wedding) کوژرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519084.jpg]",
-        "a": "کەیتلین ستارک"
-      },
-      {
-        "q": "کێ بە (سوارچاکی پیاز - Onion Knight) ناسراوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/594.jpg]",
-        "a": "داڤۆس سیوۆرس"
-      },
-      {
-        "q": "کێ وەرگێڕ و هاوڕێی نزیکی دینێریس بوو کە سەری پەڕێندرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/611.jpg]",
-        "a": "میساندەی"
-      },
-      {
-        "q": "کێ سەرکردەی سوپای (Unsullied) بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/172/431759.jpg]",
-        "a": "گرەی وۆرم"
-      },
-      {
-        "q": "کێ شمشێرەکەی خستە دڵی ڕۆب ستارک و وتی (لانیستەرەکان سڵاوت لێدەکەن)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/609.jpg]",
-        "a": "ڕووس بۆڵتۆن"
-      },
-      {
-        "q": "کێ چەکدارێکی بەکرێگیراو بوو کە بوو بە پاسەوان و هاوڕێی تیریۆن؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/592.jpg]",
-        "a": "بڕۆن"
-      },
-      {
-        "q": "کێ خۆشەویستی تیریۆن بوو کە دواتر خیانەتی لێکرد و لە دادگا شایەتی لەسەر دا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529553.jpg]",
-        "a": "شای"
-      },
-      {
-        "q": "کێ کوڕە زۆڵەکەی پاشا ڕۆبەرت بوو و کاری ئاسنگەری دەکرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/589.jpg]",
-        "a": "گێندری"
-      },
-      {
-        "q": "کام پاشا دوای مردنی هاوسەرەکەی خۆی لە پەنجەرەوە فڕێدایە خوارەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/603.jpg]",
-        "a": "تۆمێن باراتیۆن"
-      },
-      {
-        "q": "کێ برای دینێریس بوو کە بە تونی زێڕی تواوە کوژرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519213.jpg]",
-        "a": "ڤیسێریس تارگاریان"
-      },
-      {
-        "q": "کێ پاشای وێستێرۆس بوو لە سەرەتای زنجیرەکەدا و لە کاتی ڕاودا کوژرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/598.jpg]",
-        "a": "ڕۆبەرت باراتیۆن"
-      },
-      {
-        "q": "کێ کچێکی کێوی (Wildling) بوو کە خۆشەویستی جۆن سنۆ بوو و پێی دەگوت 'تۆ هیچ نازانی'؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529550.jpg]",
-        "a": "ئیگریت"
-      },
-      {
-        "q": "کێ هاوسەری ڕۆب ستارک بوو کە لەگەڵ منداڵەکەی سکی کوژرا؟",
-        "a": "تالیسا ستارک"
-      },
-      {
-        "q": "کێ ڕێکخەری (هاوسەرگیرییە خوێناوییەکە) بوو لە قەڵاکەی خۆیدا؟",
-        "a": "واڵدەر فرەی"
-      },
-      {
-        "q": "کێ سەرۆکی ئایینی بوو کە سێرسی لانیستەری ناچار بە (پیاسەی شەرمەزاری) کرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/11/28572.jpg]",
-        "a": "های سپارۆ"
-      },
-      {
-        "q": "کێ بە (ماری سوور) ناسراو بوو و لە شەڕی دژی (چیاکە) کوژرا؟",
-        "a": "ئۆبەرین مارتێل"
-      },
-      {
-        "q": "کێ خۆشەویستی ئۆبەرین بوو کە میرسێلای بە ماچێکی ژەهراوی کوشت؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23152.jpg]",
-        "a": "ئیلاریا ساند"
-      },
-      {
-        "q": "کام کچە بچووک بوو کە نەخۆشی پێستی خۆڵەمێشی هەبوو و سووتێنرا؟",
+        "q": "کێ کچی ئەم کارەکتەرە بوو کە لەسەر داوای ئافرەتە سوورەکە سووتێنرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519132.jpg]",
         "a": "شیرین باراتیۆن"
       },
       {
-        "q": "کێ خزمەتکاری تیریۆن و دواتر برین بوو کە بە گۆرانی وتنەکانی ناوبانگی دەرکرد؟",
-        "a": "پۆدریک پەین"
+        "q": "کێ ئەو پاشایە بوو کە ئەم کارەکتەرە دانیپێدانا کە ژەهرخواردی کردووە؟",
+        "a": "جۆفری باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]"
       },
       {
-        "q": "کێ سەرکردە بچووک و ئازاکەی ماڵی مۆرمۆنت بوو کە زەبەلاحێکی کوشت؟",
-        "a": "لیانا مۆرمۆنت"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی بە تیروکەوانێک کوشت لەناو ئاودەستەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]",
+        "a": "تیریۆن لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519071.jpg]"
       },
       {
-        "q": "کێ ڕاهێنەری ئاریا بوو لە پەرستگای (خواوەندی چەند دەموچاو)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529595.jpg]",
-        "a": "جاکن هگار"
+        "q": "کێ ئەو کەسە بوو کە شمشێرەکەی خستە دڵی کوڕەکەی ئەم کارەکتەرە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519084.jpg]",
+        "a": "ڕووس بۆڵتۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/609.jpg]"
       },
       {
-        "q": "کێ ئەو سەرکردەیە بوو کە چەندین جار لە مردن زیندوو دەکرایەوە؟",
-        "a": "بێریک دۆنداریۆن"
+        "q": "کێ ئەو پاشایە بوو کە پەنجەکانی ئەم کارەکتەرەی بڕی بەڵام هەر مایەوە وەک دڵسۆزی؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/594.jpg]",
+        "a": "ستانیس باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519132.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە فەرمانی سەڕپەڕاندنی بۆ ئەم کارەکتەرە دەرکرد لەبەردەم دینێریسدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/611.jpg]",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
+      },
+      {
+        "q": "کێ ئەو ئافرەتە بوو کە ئەم کارەکتەرە خۆشی دەویست و لە کۆتاییدا لەدەستی دا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/172/431759.jpg]",
+        "a": "میساندەی\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/611.jpg]"
+      },
+      {
+        "q": "کێ کوڕە زۆڵەکەی ئەم کارەکتەرە بوو کە دواتر کردیە کوڕی ڕەوای خۆی و خێزانەکەی بۆ لەناوبرد؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/609.jpg]",
+        "a": "ڕامسی بۆڵتۆن"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە لە سەرەتادا ئەم کارەکتەرەی وەک پاسەوان بەکرێ گرت بۆ شەڕکردن لە دادگادا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/592.jpg]",
+        "a": "تیریۆن لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519071.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە بە دەستی ئەم کارەکتەرە خنکێنرا دوای خیانەتکردن لێی؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529553.jpg]",
+        "a": "تیریۆن لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519071.jpg]"
+      },
+      {
+        "q": "کێ باوکی ڕاستەقینەی ئەم کارەکتەرە بوو کە وەک نهێنییەک مابووەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/589.jpg]",
+        "a": "ڕۆبەرت باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/598.jpg]"
+      },
+      {
+        "q": "کێ دایکی ئەم کارەکتەرە بوو کە بە تەقاندنەوەی پەرستگاکە وایکرد خۆی بکوژێت؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/603.jpg]",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە زێڕی تواوەی کردە سەر سەری ئەم کارەکتەرە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519213.jpg]",
+        "a": "خال درۆگۆ"
+      },
+      {
+        "q": "کێ هاوسەری ئەم کارەکتەرە بوو کە پیلانی کوشتنی بۆ داڕشت لە کاتی ڕاودا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/598.jpg]",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی کوشت لە کاتی شەڕی دیوارەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529550.jpg]",
+        "a": "ئۆلی (کوڕە بچووکەکە)"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی کوشت بە لێدانی چەقۆ لە سکی لە (Red Wedding)؟",
+        "a": "لۆسار فرەی (یەکێک لە فرەیەکان)"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە تۆڵەی لەم کارەکتەرە کردەوە بە پێدانی گۆشتی کوڕەکانی خۆی و پاشان سەربڕینی؟",
+        "a": "ئاریا ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی کوشت لەگەڵ هەموو باوەڕدارەکانی بە تەقاندنەوەی پەرستگاکە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/11/28572.jpg]",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە دەیویست تۆڵەی لێبکاتەوە لەسەر کوشتنی خوشکەکەی؟",
+        "a": "گریگۆر کلێگەین"
+      },
+      {
+        "q": "کێ ئەو کچە بوو کە ئەم کارەکتەرە ژەهرخواردی کرد بە ماچێک بۆ تۆڵەسەندنەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23152.jpg]",
+        "a": "میرسێلا باراتیۆن"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە یارمەتی ئەم کارەکتەرەی دا فێری خوێندنەوە ببێت و وەک باوکێک بوو بۆی؟",
+        "a": "داڤۆس سیوۆرس\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/594.jpg]"
+      },
+      {
+        "q": "کێ ئەو سوارچاکە بوو کە ئەم کارەکتەرە وەک خزمەتکار کاری بۆ دەکرد و ڕێزی بۆی هەبوو؟",
+        "a": "برین ئۆف تارس\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/593.jpg]"
+      },
+      {
+        "q": "کێ ئەو پاشایە بوو کە ئەم کارەکتەرە بە توندی بەرگری لێدەکرد و وەک پاشای باکوور ناوی برد؟",
+        "a": "جۆن سنۆ\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]"
+      },
+      {
+        "q": "کێ ئەو کچە بوو کە ئەم کارەکتەرە سێ ناوی پێدا بۆ ئەوەی بۆی بکوژێت؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529595.jpg]",
+        "a": "ئاریا ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]"
+      },
+      {
+        "q": "کێ ئەو قەشە سوورە بوو کە چەندین جار ئەم کارەکتەرەی لە مردن زیندوو کردەوە؟",
+        "a": "تۆرۆس لە میر"
       }
     ],
     "600": [
       {
-        "q": "کێ گەورە ماستەر بوو کە خۆی وەک پیرێکی بێهێز نیشان دەدا بەڵام لە ڕاستیدا فێڵباز بوو؟",
-        "a": "گەورە ماستەر پایسێڵ"
-      },
-      {
-        "q": "کێ ئەو زانایە بوو کە (چیاکە)ی زیندوو کردەوە و بوو بە دەستی شاژن سێرسی؟",
+        "q": "کێ ئەو کەسە بوو کە منداڵەکانی نارد بۆ کوشتنی ئەم کارەکتەرە لە تاقیگەکەیدا؟",
         "a": "کایبێرن"
       },
       {
-        "q": "کێ سوارچاکێکی بەتەمەن و ئەفسانەیی بوو کە وازی لە پاشا جۆفری هێنا و چووە پاڵ دینێریس؟",
-        "a": "باریستان سێلمی"
+        "q": "کێ ئەو کارەکتەرە دڕندەیە بوو کە ئەم زانایە زیندووی کردەوە و کردیە پاسەوانی سێرسی؟",
+        "a": "گریگۆر کلێگەین (چیاکە)"
       },
       {
-        "q": "کێ ئەو کچە کێوییە بوو کە ساموێل تارلی ڕزگاری کرد لە دەست باوکی (کراستەر)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/192/482446.jpg]",
-        "a": "گیلی"
+        "q": "کێ ئەو کەسە بوو کە لە کاتی شەڕکردندا لەگەڵ ئەم کارەکتەرە کوژرا بۆ پاراستنی دینێریس لە کۆڵانەکانی میرین؟",
+        "a": "کوڕەکانی هارپی (گروپێک بوون)"
       },
       {
-        "q": "کێ ئەو ژنە کێوییە بوو کە یارمەتی بران و ڕیکۆنی دا ڕابکەن لە وینتەرفێڵ؟",
-        "a": "ئۆشا"
-      },
-      {
-        "q": "کێ بچووکترین منداڵی ماڵی ستارک بوو کە بە دەستی ڕامسی کوژرا؟",
-        "a": "ڕیکۆن ستارک"
-      },
-      {
-        "q": "کێ خوشکی تیۆن بوو کە هەوڵی دەدا ببێتە شاژنی دورگەکانی ئاسن؟",
-        "a": "یارا گرەیجۆی"
-      },
-      {
-        "q": "کێ مامی تیۆن بوو کە باوکی خۆی کوشت بۆ ئەوەی ببێتە پاشای دورگەکانی ئاسن؟",
-        "a": "یۆرۆن گرەیجۆی"
-      },
-      {
-        "q": "کێ ئەو کوڕە بوو کە خەونی دەبینی و یارمەتی برانی دا بۆ دۆزینەوەی قەلەڕەشە سێ چاوەکە؟",
-        "a": "جۆجین ڕید"
-      },
-      {
-        "q": "کێ خوشکی جۆجین بوو کە بران ستارکی تا باکوور کێش کرد؟",
-        "a": "میرا ڕید"
-      },
-      {
-        "q": "کێ یەکەمین مامۆستای شمشێربازی ئاریا ستارک بوو؟",
-        "a": "سیریۆ فۆرێل"
-      },
-      {
-        "q": "کێ سەرکردەی (Second Sons) بوو و خۆشەویستی دینێریس بوو پێش ڕۆیشتنی بۆ وێستێرۆس؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23151.jpg]",
-        "a": "داریۆ نەهاریس"
-      },
-      {
-        "q": "کێ قەشە سوورەکە بوو کە بێریک دۆنداریۆنی زیندوو دەکردەوە؟",
-        "a": "تۆرۆس لە میر"
-      },
-      {
-        "q": "کێ زاوای (هاوسەرگیرییە خوێناوییەکە) بوو و برای کەیتلین ستارک بوو؟",
-        "a": "ێدمیور تەلی"
-      },
-      {
-        "q": "کێ بە (ماسییە ڕەشەکە - Blackfish) ناسراو بوو لە ماڵی تەلی؟",
-        "a": "بریندێن تەلی"
-      },
-      {
-        "q": "کێ ئەو کوڕە بچووکە نەخۆشە بوو کە گەورەی دۆڵی ئارین بوو؟",
-        "a": "ڕۆبن ئارین"
-      },
-      {
-        "q": "کێ خوشکی کەیتلین ستارک بوو کە لەلایەن لیتلفینگەرەوە فڕێدایە خوارەوە لە (دەرگای مانگ)؟",
-        "a": "لایسا ئارین"
-      },
-      {
-        "q": "کێ بە (سوارچاکی گوڵەکان) ناسراو بوو و برای مارجێری بوو؟",
-        "a": "لۆراس تایڕێل"
-      },
-      {
-        "q": "کێ باوکی مارجێری و لۆراس بوو کە سەرۆکی ماڵی تایڕێل بوو؟",
-        "a": "مەیس تایڕێل"
-      },
-      {
-        "q": "کێ سەرکردەی (Night's Watch) بوو کە ڕقی لە جۆن سنۆ بوو و بەشدار بوو لە کوشتنیدا؟",
-        "a": "ئەلیسەر تۆرن"
-      },
-      {
-        "q": "کێ ماستەرە کوێرەکەی (Night's Watch) بوو کە لە بنەڕەتدا تارگاریان بوو؟",
-        "a": "ماستەر ئەیمۆن"
-      },
-      {
-        "q": "کێ ئەو پیاوە بوو کە لە دیوی ئەودیو دیوارەکە دەژیا و کچەکانی خۆی دەکردە هاوسەری؟",
+        "q": "کێ ئەو کەسە بوو کە باوکی ڕاستەقینەی ئەم کارەکتەرە و منداڵەکەشی بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/192/482446.jpg]",
         "a": "کراستەر"
       },
       {
-        "q": "کێ ئامۆزای سێرسی بوو کە بوو بە باوەڕدارێکی توندڕەوی ئایینی (Sparrow)؟",
-        "a": "لانسێل لانیستەر"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی کوشت بە لێدانی چەقۆ لە ملیدا؟",
+        "a": "ڕامسی بۆڵتۆن"
       },
       {
-        "q": "کێ ئەو جەلادە بێزمانە بوو کە سەری نێد ستارکی پەڕاند؟",
-        "a": "ئیلین پەین"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی کوشت بە تیرێک لە پشتییەوە لە کاتی ڕاکردنیدا؟",
+        "a": "ڕامسی بۆڵتۆن"
       },
       {
-        "q": "کێ پەیامەکەی واڵدەر فرەی پێگەیشت دەربارەی مردنی ئەم کارەکتەرە؟ (بەپێی وێنەکە)\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
-        "a": "تایوین لانیستەر"
+        "q": "کێ مامی ئەم کارەکتەرە بوو کە هێرشی کردە سەر کەشتییەکەی و بە دیل گرتی؟",
+        "a": "یۆرۆن گرەیجۆی"
+      },
+      {
+        "q": "کێ برازای ئەم کارەکتەرە بوو کە کەشتییەکانی لێ دزی و بەرەو لای دینێریس هەڵات؟",
+        "a": "تیۆن گرەیجۆی (و یارا)\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519209.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە ڕێنمایی دەکرد بەرەو قەلەڕەشە سێ چاوەکە؟",
+        "a": "بران ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]"
+      },
+      {
+        "q": "کێ ئەو برایەی ئەم کارەکتەرە بوو کە لە ڕێگادا گیانی لەدەستدا پێش گەیشتن بە ئەشکەوتەکە؟",
+        "a": "جۆجین ڕید"
+      },
+      {
+        "q": "کێ ئەو جەلادەی پاشا بوو کە گومان دەکرێت ئەم کارەکتەرەی کوشتبێت دوای شکاندنی شمشێرە دارەکەی؟",
+        "a": "مێرین ترانت"
+      },
+      {
+        "q": "کێ ئەو شاژنە بوو کە ئەم کارەکتەرە ئاشقی بوو بەڵام لە میرین بەجێی هێشت؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23151.jpg]",
+        "a": "دینێریس تارگاریان\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە زۆرجار بە هاوڕێیەتی لەگەڵیدا شەڕی دەکرد بۆ خزمەتی پاشای ڕووناکی؟",
+        "a": "بێریک دۆنداریۆن"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە لە کاتی ئاهەنگی هاوسەرگیرییەکەی ئەم کارەکتەرەدا خیانەتی لە خێزانەکەی کرد؟",
+        "a": "واڵدەر فرەی"
+      },
+      {
+        "q": "کێ ئەو برازایەی ئەم کارەکتەرە بوو کە فشاری خرایە سەر بۆ ڕادەستکردنی قەڵای ڕیڤەڕەن؟",
+        "a": "ێدمیور تەلی"
+      },
+      {
+        "q": "کێ دایکی ئەم کارەکتەرە بوو کە هەمیشە شیرپێدانی بۆ دەکرد تەنانەت کاتێک گەورەش بوو؟",
+        "a": "لایسا ئارین"
+      },
+      {
+        "q": "کێ ئەو پیاوە بوو کە ئەم کارەکتەرە ئاشقی بوو بەڵام لە کۆتاییدا لە پەنجەرەوە فڕێی دایە خوارەوە؟",
+        "a": "پیتەر بەیلیش (لیتلفینگەر)"
+      },
+      {
+        "q": "کێ خۆشەویستی پیاوی ئەم کارەکتەرە بوو کە پاشا بوو و لە کاتی ڕاودا کوژرا؟",
+        "a": "ڕێنلی باراتیۆن"
+      },
+      {
+        "q": "کێ دایکی ئەم کارەکتەرە بوو کە هەمیشە بە کەم سەیریکرد و پێی وابوو بێ توانا و گەمژەیە؟",
+        "a": "ئۆلێنا تایڕێل"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە فەرمانی لەسێدارەدانی بۆ دەرکرد بەهۆی خیانەتکردن و بەشداریکردنی لە کوشتنیدا؟",
+        "a": "جۆن سنۆ\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە برازای ئەم کارەکتەرە بوو کە پێشتر پاشای وێستێرۆس بوو (پاشا شێتەکە)؟",
+        "a": "ئێریس تارگاریانی دووەم"
+      },
+      {
+        "q": "کێ ئەو سەرکردەی (Night's Watch) بوو کە لە ماڵەکەی ئەم کارەکتەرەدا کوژرا لەلایەن یاخیبووەکانەوە؟",
+        "a": "جیۆر مۆرمۆنت\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529534.jpg]"
+      },
+      {
+        "q": "کێ ئەو ئامۆزایەی ئەم کارەکتەرە بوو کە پێشتر پەیوەندی لەگەڵیدا هەبوو، دواتریش بە هۆیەوە لە پەرستگاکە سووتا؟",
+        "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە زمانی ئەم کارەکتەرەی بڕیبوو و وایکردبوو نەتوانێت قسە بکات؟",
+        "a": "ئێریسی دووەم (پاشا شێتەکە)"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە پێشتر سوێندی هاوسەرگیری لەگەڵ کچەکەی خواردبوو بەڵام ئەم کارەکتەرە پەیمانەکەی شکاند؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
+        "a": "واڵدەر فرەی"
       }
     ]
   },
@@ -5014,308 +5014,308 @@ export const QUESTION_BANK = {
   "cat42": {
     "200": [
       {
-        "q": "کێ پاڵەوانی سەرەکی زنجیرەکەیە کە خەونی ئەوەیە ببێتە هۆکاگێ؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]",
-        "a": "نارۆتۆ ئۆزۆماکی"
+        "q": "کێ بوو بە یەکەم کەس کە داوای لەم کارەکتەرە کرد کۆنۆها جێنەهێڵێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]",
+        "a": "ساکورا هارونۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]"
       },
       {
-        "q": "کێ ئەو کارەکتەرەیە کە دەیەوێت تۆڵە لە براکەی بکاتەوە بەهۆی لەناوبردنی هۆزەکەی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]",
-        "a": "ساسکێ ئۆچیها"
+        "q": "کێ یەکەمین مامۆستای ئەم کارەکتەرە بوو کە بڕوای پێی هەبوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]",
+        "a": "ئیرۆکا ئومینۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158]"
       },
       {
-        "q": "کێ ئەو کچەیە کە لە تیمی حەوتدایە و شارەزایە لە چارەسەری پزیشکی نینجا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]",
-        "a": "ساکورا هارونۆ"
-      },
-      {
-        "q": "کێ مامۆستای تیمی حەوتە و خاوەنی چاوێکی شارینگانە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]",
-        "a": "کاکاشی هاتاكی"
-      },
-      {
-        "q": "کێ برای ساسکێیە کە هەموو هۆزەکەی خۆی کوشت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]",
-        "a": "ئیتاچی ئۆچیها"
-      },
-      {
-        "q": "کێ کازی کاگێی گوندی ڕمڵە کە پێشتر دڕندەیەک بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]",
-        "a": "گارا"
-      },
-      {
-        "q": "کام کچە لە سەرەتاوە زۆر شەرمن بوو و هەمیشە سەرسام بوو بە نارۆتۆ؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9]",
-        "a": "هیناتا هیۆگا"
-      },
-      {
-        "q": "کام کارەکتەر زۆر تەمەڵە بەڵام زیرەکییەکەی لە سەرووی ئاساییەوەیە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d]",
-        "a": "شیکامارۆ نارا"
-      },
-      {
-        "q": "کێ یەکێکە لە سێ نینجا ئەفسانەییەکان و مامۆستای نارۆتۆیە کە بە قژ سپی ناسراوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7]",
-        "a": "جیرایا"
-      },
-      {
-        "q": "کێ بوو بە هۆکاگێی پێنجەم و شارەزایەکی گەورەی پزیشکییە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5]",
-        "a": "تسونادێ"
-      },
-      {
-        "q": "کێ ئەو نینجا خراپەکارەیە کە دەیەوێت نەمر بێت و چاوی لە جەستەی ساسکێیە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/162089.jpg?s=77b65c6a4dfa133ef211d805af39d986]",
-        "a": "ئۆرۆچیمارۆ"
-      },
-      {
-        "q": "کێ ئەو نینجایەیە کە تەنها تایجوتسو (شەڕی جەستەیی) دەزانێت بەڵام زۆر بەهێزە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f]",
-        "a": "ڕۆک لی"
-      },
-      {
-        "q": "کێ ئامۆزای هیناتایە و لە سەرەتادا پێی وابوو چارەنووس ناگۆڕدرێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/105538.jpg?s=7603e3986722997b66259d9fea83a3b2]",
-        "a": "نێجی هیۆگا"
-      },
-      {
-        "q": "کێ یەکەمین مامۆستای نارۆتۆ بوو کە بڕوای پێی هەبوو لە ئەکادیمیاکە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158]",
-        "a": "ئیرۆکا ئومینۆ"
-      },
-      {
-        "q": "کێ مامۆستای ڕۆک لی و ڕکابەری سەرسەختی کاکاشییە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=5da52d3d6d0b921506ffe65a8ff3288f]",
-        "a": "مایت گای"
-      },
-      {
-        "q": "کێ هۆکاگێی چوارەم و باوکی نارۆتۆ بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b]",
-        "a": "میناتۆ نامیکازێ"
-      },
-      {
-        "q": "کێ سەرکردەی ڕێکخراوی ئەکاتسوکی بوو کە گوندی کۆنۆهای خاپوور کرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/73473.jpg?s=5c41288db6aa7a2339a4ff90ea211d49]",
-        "a": "پەین (ناگاتۆ)"
-      },
-      {
-        "q": "کێ یەکێک بوو لە دامەزرێنەرانی کۆنۆها و گەورەترین دوژمنی چیرۆکەکەیە لە کۆتاییدا؟",
-        "a": "مادارا ئۆچیها"
-      },
-      {
-        "q": "کێ هۆکاگێی یەکەم بوو و گوندی کۆنۆهای دامەزراند؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]",
-        "a": "هاشیراما سێنجۆ"
-      },
-      {
-        "q": "ناوی دڕندە نۆ کلکەکە چییە کە لەناو نارۆتۆدا زیندانی کراوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/5/232183.jpg?s=4ab26e80928ae4a0a667ea3f21f72492]",
-        "a": "کوراما"
-      },
-      {
-        "q": "کێ ئەو هاوڕێیەی کاکاشی بوو کە شارینگانەکەی خۆی پێدا بەر لەوەی وابزانرێت مردووە؟",
+        "q": "کێ چاوی شارینگانی بەم کارەکتەرە بەخشی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]",
         "a": "ئۆبیتۆ ئۆچیها"
       },
       {
-        "q": "کێ ئەو نینجایەیە کە هەمیشە سەگێکی لەگەڵدایە بە ناوی ئاکامارۆ؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/131217.jpg?s=d3bc94609e7a552ec522daf99834c21a]",
-        "a": "کیبا ئینوزوکا"
+        "q": "کێ توانی ئەم کارەکتەرە لە تاریکی دەربهێنێت و ببێتە یەکەم هاوڕێی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]",
+        "a": "نارۆتۆ ئۆزۆماکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]"
       },
       {
-        "q": "کێ ئەو نینجا بێدەنگەیە کە مێروو لە جەستەیدا دەژی و وەک چەک بەکاریان دەهێنێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f]",
-        "a": "شینۆ ئەبورامێ"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە زۆرترین خۆشەویستی بۆی هەبوو لە جیهاندا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ ئەو نینجایەیە کە زۆر حەزی لە خواردنە و دەتوانێت قەبارەی خۆی گەورە بکات؟",
-        "a": "چۆجی ئاکیمیچی"
+        "q": "کێ ئامۆزای ئەم کارەکتەرەیە کە لە تاقیکردنەوەی چوونین شەڕیان کرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9]",
+        "a": "نێجی هیۆگا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/105538.jpg?s=7603e3986722997b66259d9fea83a3b2]"
       },
       {
-        "q": "کێ خوشکی گارا یە کە پانکەیەکی گەورە وەک چەک بەکاردەهێنێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/292452.jpg?s=81c9799689a262a4df639b3dd5c48bc3]",
-        "a": "تێماری"
+        "q": "کام ئافرەت هەمیشە جێگەی سەرنجی ئەم کارەکتەرە بوو و خۆشەویستی منداڵییەتی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7]",
+        "a": "تسونادێ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5]"
+      },
+      {
+        "q": "کێ بوو بە مامۆستای ئەم کارەکتەرە لە منداڵیدا بەیەکەوە لەگەڵ جیرایا و ئۆرۆچیمارۆ؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5]",
+        "a": "هیروزێن ساروتۆبی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1]"
+      },
+      {
+        "q": "کێ مامۆستای ئەم کارەکتەرە بوو کە لەلایەن هیدانەوە کوژرا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d]",
+        "a": "ئاسوما ساروتۆبی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f]"
+      },
+      {
+        "q": "کێ مامۆستای سەرسەختی ئەم کارەکتەرە بوو کە فێری تایجوتسوی کرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f]",
+        "a": "مایت گای\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=5da52d3d6d0b921506ffe65a8ff3288f]"
+      },
+      {
+        "q": "کێ ئەو شاگردەی بوو کە دواتر هەوڵی دا جەستەی داگیر بکات؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/162089.jpg?s=77b65c6a4dfa133ef211d805af39d986]",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
+      },
+      {
+        "q": "کێ مامۆستای ئەم کارەکتەرە بوو لە تیمی جیرایا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b]",
+        "a": "جیرایا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7]"
+      },
+      {
+        "q": "کێ سەرکردەی ڕاستەقینەی ئەم کارەکتەرە (ناگاتۆ) بوو کە لەپشتی پەردەوە ئاڕاستەی دەکرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/73473.jpg?s=5c41288db6aa7a2339a4ff90ea211d49]",
+        "a": "ئۆبیتۆ (وەک توبی/مادارا)"
+      },
+      {
+        "q": "کێ گەورەترین ڕکابەر و دۆستی ئەم کارەکتەرە بوو لە دامەزراندنی کۆنۆهادا؟",
+        "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
+      },
+      {
+        "q": "کێ برای ئەم کارەکتەرەیە کە بوو بە هۆکاگێی دووەم؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]",
+        "a": "تۆبیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/293367.jpg?s=368e32b777d1652b75597ceb0808fd05]"
+      },
+      {
+        "q": "کێ یەکەمین میواندار (Jinchuriki)ی ئەم دڕندەیە بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/5/232183.jpg?s=4ab26e80928ae4a0a667ea3f21f72492]",
+        "a": "میتۆ ئۆزۆماکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103955.jpg?s=7d8dd18334e6a3ea858ef83f2143f40a]"
+      },
+      {
+        "q": "کێ ئەو کچە بوو کە ئەم کارەکتەرە ئاشقی بوو بەڵام مردنەکەی وایکرد جیهان وێران بکات؟",
+        "a": "ڕین نۆهارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]"
+      },
+      {
+        "q": "ناوی سەگەکەی ئەم کارەکتەرە چییە کە هەمیشە لەگەڵیدایە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/131217.jpg?s=d3bc94609e7a552ec522daf99834c21a]",
+        "a": "ئاکامارۆ (سەگ)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/6/58197.jpg?s=72fb82b5f99c06ba07d67f7e0c845aec]"
+      },
+      {
+        "q": "کێ کچە ئەندامەکەی تیمی ئەم کارەکتەرەیە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f]",
+        "a": "هیناتا هیۆگا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9]"
+      },
+      {
+        "q": "کێ باشترین هاوڕێی ئەم کارەکتەرەیە کە پێکەوە لە تیمی ئاسومان؟",
+        "a": "شیکامارۆ نارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d]"
+      },
+      {
+        "q": "کێ هاوسەری ئەم کارەکتەرەیە لە داهاتوودا کە لە تاقیکردنەوەی چوونین شەڕیان کرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/292452.jpg?s=81c9799689a262a4df639b3dd5c48bc3]",
+        "a": "شیکامارۆ نارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d]"
+      },
+      {
+        "q": "کێ برا بچووکی ئەم کارەکتەرەیە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/68615.jpg?s=6f6d40205ea049c4a579e6a2d756daa0]",
+        "a": "گارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]"
+      },
+      {
+        "q": "کێ هاوسەری ئەم کارەکتەرەیە لە داهاتوودا؟",
+        "a": "ئینۆ یاماناکا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc]"
+      },
+      {
+        "q": "کێ ڕکابەری منداڵی ئەم کارەکتەرەیە لەسەر خۆشەویستی ساسکێ؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc]",
+        "a": "ساکورا هارونۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]"
+      },
+      {
+        "q": "کێ بوو بە جێنشینی ئەم کارەکتەرە و بوو بە هۆکاگێی سێیەم؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/293367.jpg?s=368e32b777d1652b75597ceb0808fd05]",
+        "a": "هیروزێن ساروتۆبی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1]"
       }
     ],
     "400": [
       {
-        "q": "کێ برای گارا یە و بوکەڵەی دارین وەک چەک بەکاردەهێنێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/68615.jpg?s=6f6d40205ea049c4a579e6a2d756daa0]",
-        "a": "کانکورۆ"
+        "q": "کێ هاوبەشی ئەم کارەکتەرە بوو لە ڕێکخراوی ئەکاتسوکی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/433351.jpg?s=46d6b63938f0ab6572f96798dd4fba85]",
+        "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ جێگەی ساسکێی گرتەوە لە تیمی حەوتدا و نیگارکێشێکی بێ هەست بوو؟",
-        "a": "سای"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە خۆی تەقاندەوە بۆ ئەوەی بیکوژێت بەڵام شکستی هێنا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131319.jpg?s=02bd30a045b2aaabf13e22a0149845e2]",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ سەرکردایەتی تیمی حەوتی دەکرد لە جێگەی کاکاشی و توانای کۆنترۆڵکردنی داری هەبوو؟",
-        "a": "یاماتۆ"
+        "q": "کێ ئەو پیرەژنە بوو کە ئەم کارەکتەرەی گەورە کرد و دواتر لە شەڕدا کوشتی؟",
+        "a": "نەنە چیۆ"
       },
       {
-        "q": "کێ مامۆستای شیکامارۆ و چۆجی و ئینۆ بوو کە لەلایەن هیدانەوە کوژرا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f]",
-        "a": "ئاسوما ساروتۆبی"
+        "q": "کێ سەری ئەم کارەکتەرەی بڕی و لە ژێر زەویدا شاردیەوە بۆ تۆڵەسەندنەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62]",
+        "a": "شیکامارۆ نارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d]"
       },
       {
-        "q": "کێ ڕکابەری سەرسەختی ساکورایە کە دەتوانێت بچێتە ناو مێشکی کەسانی ترەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc]",
-        "a": "ئینۆ یاماناکا"
+        "q": "کێ بە تەکنیکی (ڕاسێنشوریکێن) زۆربەی دڵەکانی ئەم کارەکتەرەی لەناوبرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/255727.jpg?s=5c401401ec96dc333b18486cef42c242]",
+        "a": "نارۆتۆ ئۆزۆماکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]"
       },
       {
-        "q": "کێ هۆکاگێی سێیەم بوو و لە شەڕی دژی ئۆرۆچیمارۆدا گیانی لەدەستدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1]",
-        "a": "هیروزێن ساروتۆبی"
+        "q": "کێ هاوڕێی نزیکی ئەم کارەکتەرە و ناگاتۆ بوو کە پێکەوە ڕێکخراوی ئەکاتسوکیان دروستکرد و دواتر مرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/158755.jpg?s=511521e3840779df9fba75ea5a4b9b52]",
+        "a": "یاهیکۆ"
       },
       {
-        "q": "کێ هۆکاگێی دووەم بوو و داهێنەری چەندین تەکنیکی قەدەغەکراو بوو وەک ئیدۆ تێنسێی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/293367.jpg?s=368e32b777d1652b75597ceb0808fd05]",
-        "a": "تۆبیراما سێنجۆ"
+        "q": "کێ ئەو کەسە بوو کە بە تەکنیکی (ئیزانامی) ئەم کارەکتەرەی خستە ناو بازنەیەکی بێکۆتاوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/82459.jpg?s=81d3435c2ca60c6acbea9da7bc7ba6c4]",
+        "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ هاوبەشی ئیتاچی بوو لە ئەکاتسوکی و شمشێرێکی گەورەی هەبوو کە چاکرا دەخوات؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/433351.jpg?s=46d6b63938f0ab6572f96798dd4fba85]",
-        "a": "کیسامێ هۆشیگاکی"
+        "q": "کێ هاوسەری ئەم کارەکتەرە بوو کە پێکەوە گیانیان بەخشی بۆ ڕزگارکردنی نارۆتۆ؟",
+        "a": "میناتۆ نامیکازێ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b]"
       },
       {
-        "q": "کێ لە ئەکاتسوکی بوو و باوەڕی وابوو کە هونەر بریتییە لە تەقینەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131319.jpg?s=02bd30a045b2aaabf13e22a0149845e2]",
-        "a": "دەیدارا"
+        "q": "کێ برای گەورەی ئەم کارەکتەرەیە کە نازناوی ڕایکاجێی هەیە؟",
+        "a": "ئەی (ڕایکاجێ)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]"
       },
       {
-        "q": "کێ لە ئەکاتسوکی بوو کە خۆی کردبوو بە بوکەڵە بۆ ئەوەی نەمر بێت؟",
-        "a": "ساسۆری"
+        "q": "کێ برای گەورەی ئەم کارەکتەرەیە کە یەکێک بوو لە ٧ شمشێربازەکەی گوندی تەم؟",
+        "a": "مانگێتسو هۆزوکی"
       },
       {
-        "q": "کێ ئەو ئەندامەی ئەکاتسوکییە کە نەمرە و ئایینی (جاشین) پەیڕەو دەکات؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62]",
-        "a": "هیدان"
+        "q": "کێ ئەو کەسەیە کە ئەم کارەکتەرە ئاشقیەتی و لە تیمی تاکا پێکەوە بوون؟",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ لە ئەکاتسوکی پێنج دڵی هەبوو و زۆر پارەپەرست بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/255727.jpg?s=5c401401ec96dc333b18486cef42c242]",
-        "a": "کاکوزو"
-      },
-      {
-        "q": "کێ تاکە ئافرەتی ڕێکخراوی ئەکاتسوکی بوو کە تەکنیکی کاغەزی بەکاردەهێنا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/158755.jpg?s=511521e3840779df9fba75ea5a4b9b52]",
-        "a": "کۆنان"
-      },
-      {
-        "q": "کێ ئەو ئەندامەی ئەکاتسوکییە کە لە دوو بەشی ڕەش و سپی پێکهاتووە و کاری سیخوڕییە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/76260.jpg?s=f677ce2557f67393a92943f4b21270ab]",
-        "a": "زێتسو"
-      },
-      {
-        "q": "کێ یاریدەدەری ئۆرۆچیمارۆ بوو و دواتر جەنگی جیهانی چوارەمی نینجای بەرپاکرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/82459.jpg?s=81d3435c2ca60c6acbea9da7bc7ba6c4]",
-        "a": "کابوتۆ یاکوشی"
-      },
-      {
-        "q": "کێ دایکی نارۆتۆیە کە خەڵکی گوندی وەهم بوو (Uzushiogakure)؟",
-        "a": "کوشینا ئۆزۆماکی"
-      },
-      {
-        "q": "کێ میوانداری دڕندە هەشت کلکەکەیە کە هەمیشە گۆرانی ڕاپ دەڵێت؟",
-        "a": "کیلەر بی"
-      },
-      {
-        "q": "کێ ڕایکاجێی چوارەم و برای کیلەر بی یە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]",
-        "a": "ئەی (ڕایکاجێ)"
-      },
-      {
-        "q": "کێ میزوکاجێی پێنجەمە کە خاوەنی تەکنیکی لاڤا و هەڵمی ژەهراوییە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/464794.jpg?s=1eb43505445601242f18ea731e3f9d1b]",
-        "a": "مەی تێرومی"
-      },
-      {
-        "q": "کێ تسوچیکاجێی سێیەم بوو کە پیاوێکی زۆر بەتەمەن بوو و توانای فڕینی هەبوو؟",
-        "a": "ئۆنۆکی"
-      },
-      {
-        "q": "کێ ئەندامی تیمی (تاکا)ی ساسکێیە کە دەتوانێت جەستەی بکاتە ئاو؟",
-        "a": "سویگێتسو"
-      },
-      {
-        "q": "کێ کچێکی ئەندامی تیمی تاکایە کە توانای چاککردنەوەی هەیە ئەگەر گازی لێبگرن؟",
-        "a": "کارین"
-      },
-      {
-        "q": "کێ سەرچاوەی (نەفرەتی مار)ی ئۆرۆچیمارۆیە و کاتێک توڕە دەبێت شێوەی دەگۆڕێت؟",
-        "a": "جوجۆ"
-      },
-      {
-        "q": "کێ سەرۆکی ڕێکخراوی (ڕەگ - Root)ی کۆنۆها بوو کە چەندین چاوی شارینگانی لە قۆڵیدا هەبوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd]",
-        "a": "دانزۆ شیمورا"
-      },
-      {
-        "q": "کێ هاوڕێی نزیکی ئیتاچی بوو کە چاوێکی خۆی پێدا پێش ئەوەی خۆی بکوژێت؟",
+        "q": "کێ ئەو نینجا گەنجە بوو کە چاوێکی خۆی بەخشی بەم کارەکتەرە پێش مردنی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd]",
         "a": "شیسوی ئۆچیها"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی گەورە کرد و وەک چەک بەکاری دەهێنا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/103707.jpg?s=6f30c87be8eabac48a20071677fd972c]",
+        "a": "زابوزا مۆمۆچی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/103706.jpg?s=4550a5e0c0af5a9f355a000386954d38]"
+      },
+      {
+        "q": "کێ توانی ئەم کارەکتەرە ببەزێنێت لەسەر پردەکە لە یەکەمین ئەرکی تیمی حەوتدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/103706.jpg?s=4550a5e0c0af5a9f355a000386954d38]",
+        "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە شەڕێکی سەختی لەگەڵ ئەم کارەکتەرە کرد بە بەکارهێنانی تایجوتسو و مەی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5]",
+        "a": "ڕۆک لی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f]"
+      },
+      {
+        "q": "کێ ئەو کەسەیە کە خانەکانی (DNA)ی خۆی بەم کارەکتەرە بەخشیبوو کە وایکرد بتوانێت داری دروستبکات؟",
+        "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
+      },
+      {
+        "q": "کێ کچی ئەم کارەکتەرە و کورینای یە کە دوای مردنی لەدایک بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f]",
+        "a": "میرای ساروتۆبی"
+      },
+      {
+        "q": "کێ نەوەی ئەم کارەکتەرەیە کە هەمیشە دەیویست لە سێبەری باپیری دەربچێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1]",
+        "a": "کۆنۆهامارۆ ساروتۆبی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/109419.jpg?s=818d5a433ba71a276feb67578ccf711a]"
+      },
+      {
+        "q": "کێ پێش ئەم کارەکتەرە میزوکاجێی گوندی تەم بوو کە لەلایەن ئۆبیتۆوە کۆنترۆڵ کرابوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/464794.jpg?s=1eb43505445601242f18ea731e3f9d1b]",
+        "a": "یاگورا (میزوکاجێی چوارەم)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/556392.jpg?s=7272bf589dfcbfe054b25a211d202d63]"
+      },
+      {
+        "q": "کێ مامۆستای ئەم کارەکتەرە بوو کە تسوچیکاجێی دووەم بوو؟",
+        "a": "موو (Mū)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/4/623440.jpg?s=0a0a559afaadbd7b1237255f3292e559]"
+      },
+      {
+        "q": "کێ مامۆستای ئەم کارەکتەرەیە لە تیمی گای؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/105538.jpg?s=7603e3986722997b66259d9fea83a3b2]",
+        "a": "مایت گای\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=5da52d3d6d0b921506ffe65a8ff3288f]"
+      },
+      {
+        "q": "کێ دایک و باوکی ئەم کارەکتەرەی کوشت کە وایکرد لە منداڵیدا بێبەش بێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158]",
+        "a": "کوراما (ڕێوییە نۆ کلکەکە)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/5/232183.jpg?s=4ab26e80928ae4a0a667ea3f21f72492]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە لە شەڕی دووەمی نینجاکاندا گیانی فیدا کرد و خۆشەویستی ئەم کارەکتەرە بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5]",
+        "a": "دان کاتۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62]"
+      },
+      {
+        "q": "کێ قوتابییەکی پێشووی ئەم کارەکتەرە بوو کە لە کۆتاییدا بووە هۆی کوشتنی لە گوندی باران؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7]",
+        "a": "پەین (ناگاتۆ)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/73473.jpg?s=5c41288db6aa7a2339a4ff90ea211d49]"
+      },
+      {
+        "q": "کێ نیشانەی نەفرەتی (Curse Mark)ی لەسەر ملی ئەم کارەکتەرە دانا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]",
+        "a": "ئۆرۆچیمارۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/162089.jpg?s=77b65c6a4dfa133ef211d805af39d986]"
       }
     ],
     "600": [
       {
-        "q": "کێ ئەو کوڕە بوو کە خاوەنی تەکنیکی ئاوێنەی سەهۆڵی بوو و بۆ زابوزا کاری دەکرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/103707.jpg?s=6f30c87be8eabac48a20071677fd972c]",
-        "a": "هاکو"
+        "q": "کێ دوو کوڕەکەی ئەم کارەکتەرە بوون کە زیندانیان کرد لە مانگدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/616786.jpg?s=f619e59e96891b360c8849a5d44d999b]",
+        "a": "هاگۆرۆمۆ و هامورا"
       },
       {
-        "q": "کێ بە (شەیتانەکەی گوندی تەم) ناسرابوو کە یەکەم دوژمنی گەورەی تیمی حەوت بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/103706.jpg?s=4550a5e0c0af5a9f355a000386954d38]",
-        "a": "زابوزا مۆمۆچی"
-      },
-      {
-        "q": "کێ ئەو نینجایەی ئۆرۆچیمارۆ بوو کە دەیتوانی ئێسکی خۆی وەک چەک بەکاربهێنێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5]",
-        "a": "کیمیمارۆ"
-      },
-      {
-        "q": "کێ ئەو پیرەژنەی گوندی ڕمڵ بوو کە یارمەتی ساکورای دا بۆ بەزاندنی ساسۆری و دواتر ژیانی خۆی بەخشی بۆ گارا؟",
-        "a": "نەنە چیۆ"
-      },
-      {
-        "q": "کێ سەرکردەی سامۆرایەکانی وڵاتی ئاسن بوو لە کاتی کۆبوونەوەی پێنج کاگێیەکەدا؟",
-        "a": "میفونێ"
-      },
-      {
-        "q": "کێ دەستی ڕاستی ڕایکاجێ بوو کە تەکنیکی هەورەبروسکەی ڕەشی هەبوو؟",
-        "a": "داروی"
-      },
-      {
-        "q": "کێ دایکی چاکرا و کۆتا دوژمنی ناو زنجیرەکە بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/616786.jpg?s=f619e59e96891b360c8849a5d44d999b]",
-        "a": "کاگویا ئۆتسوتسوکی"
-      },
-      {
-        "q": "کێ بە (داناى شەش ڕێگاکە) ناسراوە و باوکی نینجوتسویە؟",
-        "a": "هاگۆرۆمۆ ئۆتسوتسوکی"
-      },
-      {
-        "q": "کێ کوڕە گەورەکەی هاگۆرۆمۆ بوو کە دامەزرێنەری هۆزی ئۆچیها بوو؟",
+        "q": "کێ کوڕە گەورەکەی ئەم کارەکتەرە بوو کە دواتر بووە باوانی هۆزی ئۆچیها؟",
         "a": "ئیندرە ئۆتسوتسوکی"
       },
       {
-        "q": "کێ کوڕە بچووکەکەی هاگۆرۆمۆ بوو کە دامەزرێنەری هۆزی سێنجۆ بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/508740.jpg?s=f00168ae85f53a9b762e1a76e450474c]",
-        "a": "ئاشورا ئۆتسوتسوکی"
+        "q": "کێ برای ئەم کارەکتەرە بوو کە بووە باوانی هۆزی سێنجۆ؟",
+        "a": "ئاشورا ئۆتسوتسوکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/508740.jpg?s=f00168ae85f53a9b762e1a76e450474c]"
       },
       {
-        "q": "کێ برای هاگۆرۆمۆ بوو کە چوو بۆ سەر مانگ؟",
-        "a": "هامورا ئۆتسوتسوکی"
+        "q": "کێ برای ئەم کارەکتەرە بوو کە چاوەکانی پێ بەخشی بۆ ئەوەی کوێر نەبێت؟",
+        "a": "مادارا ئۆچیها"
       },
       {
-        "q": "کێ برای مادارا ئۆچیها بوو کە چاوەکانی خۆی بە مادارا بەخشی؟",
-        "a": "ئیزونا ئۆچیها"
+        "q": "کێ هاوسەری ئەم کارەکتەرە بوو کە یەکەمین هۆکاگێ بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103955.jpg?s=7d8dd18334e6a3ea858ef83f2143f40a]",
+        "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
       },
       {
-        "q": "کێ هاوسەری هاشیراما سێنجۆ و یەکەمین میوانداری کوراما بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103955.jpg?s=7d8dd18334e6a3ea858ef83f2143f40a]",
-        "a": "میتۆ ئۆزۆماکی"
+        "q": "کێ ئەو کەسە بوو کە نەیتوانی بەڵێنەکەی بباتە سەر بۆ پاراستنی ئەم کارەکتەرە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]",
+        "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
-        "q": "کێ ئەو کچە بوو لە تیمی کاکاشی کە ئۆبیتۆ ئاشقی بوو، و بە دەستی کاکاشی کوژرا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]",
-        "a": "ڕین نۆهارا"
+        "q": "کێ کوڕی ئەم کارەکتەرە ئەفسانەییەیە کە پێی دەوترا ددانە سپییەکەی کۆنۆها؟",
+        "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
-        "q": "کێ باوکی کاکاشی بوو کە بە (ددانە سپییەکەی کۆنۆها) ناسرابوو؟",
-        "a": "ساکومۆ هاتاكی"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە و تەواوی هۆزەکەی سەربڕی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/103948.jpg?s=1bd273d4b4fcc2373f19d2d9ac299f3d]",
+        "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ باوکی ساسکێ و ئیتاچی بوو و سەرۆکی هۆزی ئۆچیها بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/12/103948.jpg?s=1bd273d4b4fcc2373f19d2d9ac299f3d]",
-        "a": "فوگاکو ئۆچیها"
+        "q": "کێ گەورەترین ڕکابەری ئەم کارەکتەرە (میزوکاجێی دووەم) بوو کە لە هەمان شەڕدا یەکتریان کوشت؟",
+        "a": "موو (تسوچیکاجێی دووەم)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/4/623440.jpg?s=0a0a559afaadbd7b1237255f3292e559]"
       },
       {
-        "q": "کێ دایکی ساسکێ و ئیتاچی بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/6/103949.jpg?s=67135a760c60ac7cbc7709090b21c17b]",
-        "a": "میکۆتۆ ئۆچیها"
+        "q": "کێ قوتابیی ئەم کارەکتەرە بوو کە فێری تەکنیکی دابەشکردنی گەردیلەیی (Dust Release) کرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/4/623440.jpg?s=0a0a559afaadbd7b1237255f3292e559]",
+        "a": "ئۆنۆکی"
       },
       {
-        "q": "کێ خاوەنی چێشتخانەی (ئیچیراکو ڕامێن)ە کە نارۆتۆ زۆر حەزی لە خواردنەکانیەتی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/62801.jpg?s=f109b4042f55fcf076099cea211591b6]",
-        "a": "تێئوچی (پیاوەکەی ڕامێن)"
+        "q": "کێ کوڕی ئەم کارەکتەرە بوو کە دڕندەی یەک کلکی تێدا زیندانی کرا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/103604.jpg?s=b98324630fedff5c437acbaa45832db5]",
+        "a": "گارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]"
       },
       {
-        "q": "کێ نەوەی هیروزێنە کە نارۆتۆ وەک برای گەورەی خۆی دەبینێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/109419.jpg?s=818d5a433ba71a276feb67578ccf711a]",
-        "a": "کۆنۆهامارۆ ساروتۆبی"
+        "q": "کێ نەوەی ئەم کارەکتەرە بوو کە بووە ئەندامێکی ئەکاتسوکی و شارەزای دروستکردنی بوکەڵە بوو؟",
+        "a": "ساسۆری"
       },
       {
-        "q": "کێ خوشکە بچووکەکەی هیناتایە کە زۆر لێهاتووە لە بەکارهێنانی بیاکوگان؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/292518.jpg?s=c860f8ad1834beb701c7da96b5bcc699]",
-        "a": "هینابی هیۆگا"
+        "q": "کێ مامۆستای ئەم کارەکتەرە بوو کە فێری تەکنیکی هەورەبروسکەی ڕەشی کرد؟",
+        "a": "ڕایکاجێی سێیەم\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]"
       },
       {
-        "q": "کێ ئەو نینجایەی گوندی تەم بوو کە چاوێکی بیاکوگانی هەبوو و پاسەوانی میزوکاجێ بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/5/57902.jpg?s=7f98276b2da7d5d6bf43aa6eb5175a82]",
-        "a": "ئاو (Ao)"
+        "q": "کێ چاوی ڕاستی ئەم کارەکتەرەی دزی پێش ئەوەی خۆی بکوژێت؟",
+        "a": "دانزۆ شیمورا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd]"
       },
       {
-        "q": "کێ میزوکاجێی دووەم بوو کە مویەبی زەردی هەبوو و تەکنیکی وەهمی ئاوی هەبوو؟",
-        "a": "گێنگێتسو هۆزوکی"
+        "q": "کێ دروستکەری ڕاستەقینەی ئەم کارەکتەرەیە کە لە سێبەردا پلانەکانی جێبەجێ دەکرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/76260.jpg?s=f677ce2557f67393a92943f4b21270ab]",
+        "a": "کاگویا ئۆتسوتسوکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/616786.jpg?s=f619e59e96891b360c8849a5d44d999b]"
       },
       {
-        "q": "کێ تسوچیکاجێی دووەم بوو کە جەستەی بە باندیج پێچرابوو و دەیتوانی خۆی ون بکات؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/4/623440.jpg?s=0a0a559afaadbd7b1237255f3292e559]",
-        "a": "موو (Mū)"
+        "q": "کێ تەرمی ئەم کارەکتەرەی بەکارهێنا بۆ ئەوەی بیکاتە یەکێک لە شەش ڕێگاکەی پەین (پەینی دیڤا)؟",
+        "a": "ناگاتۆ (پەین)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/73473.jpg?s=5c41288db6aa7a2339a4ff90ea211d49]"
       },
       {
-        "q": "کێ باوکی گارا و کازیکاگێی چوارەم بوو کە خاوەنی تەکنیکی تۆزی زێڕین بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/103604.jpg?s=b98324630fedff5c437acbaa45832db5]",
-        "a": "ڕاسا"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرەی بریندار کرد لە کاتی شەڕکردن لەگەڵ دانزۆ بۆ ئەوەی بگاتە ئامانجەکەی؟",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "ناوی دڕندە یەک کلکەکە چییە کە لەناو گارادا زیندانی کرابوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/62812.jpg?s=c16d67dab7ccd31a6b0c639a504fc2b6]",
-        "a": "شوکاکو"
+        "q": "کێ ئەو کەسە بوو کە ئەم کارەکتەرە سەرسام بوو پێی وەک باشترین هاوڕێ پێش مردنی؟",
+        "a": "کیمیمارۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە توانی خێراییەکەی هاوتا بێت لەگەڵ ئەم کارەکتەرە لە جەنگی جیهانی چوارەمدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]",
+        "a": "نارۆتۆ ئۆزۆماکی (یان میناتۆ لە ڕابردوودا)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]"
+      },
+      {
+        "q": "کێ باوکی ئەم کارەکتەرە و هیناتایە کە سەرۆکی هۆزی هیۆگایە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/292518.jpg?s=c860f8ad1834beb701c7da96b5bcc699]",
+        "a": "هیاشی هیۆگا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/103836.jpg?s=ee29dfbb0ceaba845e7baf1d2973405a]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە چاوی بیاکوگانی ئەم کارەکتەرەی لە جەنگی چوارەمدا لەناوبرد؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/5/57902.jpg?s=7f98276b2da7d5d6bf43aa6eb5175a82]",
+        "a": "دەعباکەی دە کلک (یان بیجوداما)"
+      },
+      {
+        "q": "کێ ئەو نینجایە بوو کە ئەم کارەکتەرە ڕووبەڕووی بووەوە لە جەنگی چوارەمدا و پێشتر شەڕیان کردبوو؟",
+        "a": "هانزۆی سەلەمەندەر"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە نیشانەی نەفرەتی (Curse Mark)ی لە ملی ئەم کارەکتەرە سڕییەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]",
+        "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە چاکراکەی داخست بۆ ئەوەی ئەم کارەکتەرە نەتوانێت هێرش بکات لە کۆتا شەڕی دۆڵی کۆتاییدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469]",
+        "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
+      },
+      {
+        "q": "کێ ئەو کەسە بوو کە بەردێکی گەورەی خستە سەر نیوەی جەستەی ئەم کارەکتەرە لە جەنگی سێیەمی نینجادا؟",
+        "a": "نینجایەکی گوندی بەرد (بەڵام ڕزگارکەری کاکاشی بوو)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       }
     ]
   }
