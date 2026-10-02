@@ -1934,308 +1934,308 @@ export const QUESTION_BANK = {
   "cat27": {
     "200": [
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/spongebob_squarepants_1790793519171_bw.jpg]",
-        "a": "SpongeBob SquarePants\n\n[IMAGE:./images/questions/spongebob_squarepants_1790793519171_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_1_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dexter, Dexter's Laboratory)\n\n[IMAGE:/colors/color_1.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/squidward_tentacles_1790793519785_bw.jpg]",
-        "a": "Squidward Tentacles\n\n[IMAGE:./images/questions/squidward_tentacles_1790793519785_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_2_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(33 idées & tutos pour apprendre à dessiner Mario)\n\n[IMAGE:/colors/color_2.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/patrick_star_1790793520194_bw.jpg]",
-        "a": "Patrick Star\n\n[IMAGE:./images/questions/patrick_star_1790793520194_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_3_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(בוב ספוג)\n\n[IMAGE:/colors/color_3.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/mr__eugene_h__krabs_1790793520398_bw.jpg]",
-        "a": "Mr. Eugene H. Krabs\n\n[IMAGE:./images/questions/mr__eugene_h__krabs_1790793520398_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_4_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gallery of Famous Cartoon Cat Characters Over The Years)\n\n[IMAGE:/colors/color_4.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/gary_1790793520793_bw.jpg]",
-        "a": "Gary\n\n[IMAGE:./images/questions/gary_1790793520793_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_5_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fond ecran nike)\n\n[IMAGE:/colors/color_5.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/sandy_cheeks_1790793521095_bw.jpg]",
-        "a": "Sandy Cheeks\n\n[IMAGE:./images/questions/sandy_cheeks_1790793521095_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_6_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(とぅいーてぃー)\n\n[IMAGE:/colors/color_6.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/plankton_1790793521359_bw.jpg]",
-        "a": "Plankton\n\n[IMAGE:./images/questions/plankton_1790793521359_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_7_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Vektor Patrick)\n\n[IMAGE:/colors/color_7.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/mrs__puff_1790793521658_bw.jpg]",
-        "a": "Mrs. Puff\n\n[IMAGE:./images/questions/mrs__puff_1790793521658_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_8_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Winnie the Pooh)\n\n[IMAGE:/colors/color_8.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/mermaid_man_1790793521999_bw.jpg]",
-        "a": "Mermaid Man\n\n[IMAGE:./images/questions/mermaid_man_1790793521999_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_9_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stich!!💙🐬)\n\n[IMAGE:/colors/color_9.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/barnacle_boy_1790793522359_bw.jpg]",
-        "a": "Barnacle Boy\n\n[IMAGE:./images/questions/barnacle_boy_1790793522359_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_10_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tom & Jerry)\n\n[IMAGE:/colors/color_10.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/homer_simpson_1790793522634_bw.jpg]",
-        "a": "Homer Simpson\n\n[IMAGE:./images/questions/homer_simpson_1790793522634_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_11_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gumball Childrens Kids Nursery Wall Stickers Bedroom Decal Art Vinyl Sticker)\n\n[IMAGE:/colors/color_11.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/marge_simpson_1790793522910_bw.jpg]",
-        "a": "Marge Simpson\n\n[IMAGE:./images/questions/marge_simpson_1790793522910_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_12_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Plankton eye printable)\n\n[IMAGE:/colors/color_12.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/lisa_simpson_1790793523390_bw.jpg]",
-        "a": "Lisa Simpson\n\n[IMAGE:./images/questions/lisa_simpson_1790793523390_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_13_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(A)\n\n[IMAGE:/colors/color_13.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/bart_simpson_1790793523650_bw.jpg]",
-        "a": "Bart Simpson\n\n[IMAGE:./images/questions/bart_simpson_1790793523650_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_14_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Spongebob)\n\n[IMAGE:/colors/color_14.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/moe_szyslak_1790793523833_bw.jpg]",
-        "a": "Moe Szyslak\n\n[IMAGE:./images/questions/moe_szyslak_1790793523833_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_15_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(dancing)\n\n[IMAGE:/colors/color_15.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/charles_montgomery_burns_1790793524086_bw.jpg]",
-        "a": "Charles Montgomery Burns\n\n[IMAGE:./images/questions/charles_montgomery_burns_1790793524086_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_16_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pics of scooby doo)\n\n[IMAGE:/colors/color_16.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/lenny_leonard_1790793524466_bw.jpg]",
-        "a": "Lenny Leonard\n\n[IMAGE:./images/questions/lenny_leonard_1790793524466_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_17_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Squidward)\n\n[IMAGE:/colors/color_17.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/chief_clancy_wiggum_1790793524726_bw.jpg]",
-        "a": "Chief Clancy Wiggum\n\n[IMAGE:./images/questions/chief_clancy_wiggum_1790793524726_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_18_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(HAPPY 84th BIRTHDAY to GRANNY!! 10/7/21 Born Emma Webster, better known as Granny, Warner Bros. Cartoons character created by Friz Freleng, best known from Looney Tunes and Merrie Melodies animated shorts of the 1950s and 1960s. She is the owner of Tweety (and more often than not, Sylvester and Hector). Her voice was first provided by Bea Benaderet from 1950 through 1955, then by June Foray for almost 60 years then Candi Milo took over in 2017 following Foray’s death.)\n\n[IMAGE:/colors/color_18.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/seymour_skinner_1790793525075_bw.jpg]",
-        "a": "Seymour Skinner\n\n[IMAGE:./images/questions/seymour_skinner_1790793525075_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_19_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mickey mouse dibujo)\n\n[IMAGE:/colors/color_19.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/carl_carlson_1790793525351_bw.jpg]",
-        "a": "Carl Carlson\n\n[IMAGE:./images/questions/carl_carlson_1790793525351_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_20_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bug Bunny Cartoon Character)\n\n[IMAGE:/colors/color_20.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/apu_nahasapeemapetilon_1790793525679_bw.jpg]",
-        "a": "Apu Nahasapeemapetilon\n\n[IMAGE:./images/questions/apu_nahasapeemapetilon_1790793525679_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_21_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Red Bull)\n\n[IMAGE:/colors/color_21.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/abraham_simpson_1790793525946_bw.jpg]",
-        "a": "Abraham Simpson\n\n[IMAGE:./images/questions/abraham_simpson_1790793525946_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_22_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Fred Flintstone)\n\n[IMAGE:/colors/color_22.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/nelson_muntz_1790793526255_bw.jpg]",
-        "a": "Nelson Muntz\n\n[IMAGE:./images/questions/nelson_muntz_1790793526255_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_23_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The Smurfs.. not really the show. Just a lot of late 70s french comic books and toys before the smurf rage in the 80s.)\n\n[IMAGE:/colors/color_23.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/ned_flanders_1790793526535_bw.jpg]",
-        "a": "Ned Flanders\n\n[IMAGE:./images/questions/ned_flanders_1790793526535_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_24_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Refreshing Non-Alcoholic Pepsi Drink)\n\n[IMAGE:/colors/color_24.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/kent_brockman_1790793526786_bw.jpg]",
-        "a": "Kent Brockman\n\n[IMAGE:./images/questions/kent_brockman_1790793526786_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_25_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Papa Smurf Village Leader Cartoon Vinyl Car Window Decal Laptop Toolbox Sticker)\n\n[IMAGE:/colors/color_25.jpg]"
       }
     ],
     "400": [
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/krusty_the_klown_1790793527064_bw.jpg]",
-        "a": "Krusty the Klown\n\n[IMAGE:./images/questions/krusty_the_klown_1790793527064_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_26_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(19 Things You Never Really Thought About Before)\n\n[IMAGE:/colors/color_26.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/maggie_simpson_1790793527270_bw.jpg]",
-        "a": "Maggie Simpson\n\n[IMAGE:./images/questions/maggie_simpson_1790793527270_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_27_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bart Simpson PNG image with transparent background)\n\n[IMAGE:/colors/color_27.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/ralph_wiggum_1790793527619_bw.jpg]",
-        "a": "Ralph Wiggum\n\n[IMAGE:./images/questions/ralph_wiggum_1790793527619_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_28_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mr Bean PNG (Animated Series))\n\n[IMAGE:/colors/color_28.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/barney_gumble_1790793527924_bw.jpg]",
-        "a": "Barney Gumble\n\n[IMAGE:./images/questions/barney_gumble_1790793527924_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_29_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(KFC Logo)\n\n[IMAGE:/colors/color_29.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/dr__julius_hibbert_1790793528115_bw.jpg]",
-        "a": "Dr. Julius Hibbert\n\n[IMAGE:./images/questions/dr__julius_hibbert_1790793528115_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_30_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Womens, Mens and Kids Fashion, Furniture, Electricals & More!)\n\n[IMAGE:/colors/color_30.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/waylon_smithers_1790793528424_bw.jpg]",
-        "a": "Waylon Smithers\n\n[IMAGE:./images/questions/waylon_smithers_1790793528424_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_31_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(More on Printing and Cutting layers with the Imagine)\n\n[IMAGE:/colors/color_31.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/groundskeeper_willie_1790793528703_bw.jpg]",
-        "a": "Groundskeeper Willie\n\n[IMAGE:./images/questions/groundskeeper_willie_1790793528703_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_32_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pinkie and the brain stickers)\n\n[IMAGE:/colors/color_32.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/sideshow_mel_1790793529019_bw.jpg]",
-        "a": "Sideshow Mel\n\n[IMAGE:./images/questions/sideshow_mel_1790793529019_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_33_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Dora the Explorer: 11 Steps (with Pictures) - wikiHow)\n\n[IMAGE:/colors/color_33.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/officer_lou_1790793529318_bw.jpg]",
-        "a": "Officer Lou\n\n[IMAGE:./images/questions/officer_lou_1790793529318_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_34_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Shaggy y scooby)\n\n[IMAGE:/colors/color_34.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/reverend_timothy_lovejoy_1790793529800_bw.jpg]",
-        "a": "Reverend Timothy Lovejoy\n\n[IMAGE:./images/questions/reverend_timothy_lovejoy_1790793529800_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_35_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(.)\n\n[IMAGE:/colors/color_35.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/mayor_quimby_1790793530153_bw.jpg]",
-        "a": "Mayor Quimby\n\n[IMAGE:./images/questions/mayor_quimby_1790793530153_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_36_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Jorge el Curioso PNG descarga gratis)\n\n[IMAGE:/colors/color_36.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/comic_book_guy_1790793530331_bw.jpg]",
-        "a": "Comic Book Guy\n\n[IMAGE:./images/questions/comic_book_guy_1790793530331_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_37_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stuart Little)\n\n[IMAGE:/colors/color_37.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/otto_mann_1790793530737_bw.jpg]",
-        "a": "Otto Mann\n\n[IMAGE:./images/questions/otto_mann_1790793530737_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_38_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Porky say hi)\n\n[IMAGE:/colors/color_38.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/selma_bouvier_1790793530932_bw.jpg]",
-        "a": "Selma Bouvier\n\n[IMAGE:./images/questions/selma_bouvier_1790793530932_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_39_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(kids favourite Doremon /Doremon image)\n\n[IMAGE:/colors/color_39.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/martin_prince_1790793531193_bw.jpg]",
-        "a": "Martin Prince\n\n[IMAGE:./images/questions/martin_prince_1790793531193_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_41_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Señora Wicket)\n\n[IMAGE:/colors/color_41.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/superintendant_chalmers_1790793531501_bw.jpg]",
-        "a": "Superintendant Chalmers\n\n[IMAGE:./images/questions/superintendant_chalmers_1790793531501_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_42_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Can I Eat Low Sodium at Starbucks - Hacking Salt)\n\n[IMAGE:/colors/color_42.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/patty_bouvier_1790793531737_bw.jpg]",
-        "a": "Patty Bouvier\n\n[IMAGE:./images/questions/patty_bouvier_1790793531737_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_43_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Biểu trưng)\n\n[IMAGE:/colors/color_43.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/professor_frink_1790793532118_bw.jpg]",
-        "a": "Professor Frink\n\n[IMAGE:./images/questions/professor_frink_1790793532118_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_44_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Modern badge logo instagram icon)\n\n[IMAGE:/colors/color_44.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/squeaky_voiced_teen_1790793532322_bw.jpg]",
-        "a": "Squeaky-Voiced Teen\n\n[IMAGE:./images/questions/squeaky_voiced_teen_1790793532322_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_45_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Escudo del real madrid)\n\n[IMAGE:/colors/color_45.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/kirk_van_houten_1790793532562_bw.jpg]",
-        "a": "Kirk Van Houten\n\n[IMAGE:./images/questions/kirk_van_houten_1790793532562_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_46_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Manchester United Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:/colors/color_46.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/cletus_spuckler_1790793532831_bw.jpg]",
-        "a": "Cletus Spuckler\n\n[IMAGE:./images/questions/cletus_spuckler_1790793532831_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_47_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(sticker kawaii anime)\n\n[IMAGE:/colors/color_47.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/snake_jailbird_1790793533051_bw.jpg]",
-        "a": "Snake Jailbird\n\n[IMAGE:./images/questions/snake_jailbird_1790793533051_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_48_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(laptop logo sticker)\n\n[IMAGE:/colors/color_48.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/jasper_beardly_1790793533315_bw.jpg]",
-        "a": "Jasper Beardly\n\n[IMAGE:./images/questions/jasper_beardly_1790793533315_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_49_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 - 𝙨𝙥𝙤𝙩𝙞𝙛𝙮)\n\n[IMAGE:/colors/color_49.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/sea_captain_mccallister_1790793533586_bw.jpg]",
-        "a": "Sea Captain McCallister\n\n[IMAGE:./images/questions/sea_captain_mccallister_1790793533586_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_50_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Brand Stickers)\n\n[IMAGE:/colors/color_50.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/hans_moleman_1790793533878_bw.jpg]",
-        "a": "Hans Moleman\n\n[IMAGE:./images/questions/hans_moleman_1790793533878_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_51_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(L-FST0031)\n\n[IMAGE:/colors/color_51.jpg]"
       }
     ],
     "600": [
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/todd_flanders_1790793534161_bw.jpg]",
-        "a": "Todd Flanders\n\n[IMAGE:./images/questions/todd_flanders_1790793534161_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_52_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fotos legais para desenhar)\n\n[IMAGE:/colors/color_52.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/gil_gunderson_1790793534541_bw.jpg]",
-        "a": "Gil Gunderson\n\n[IMAGE:./images/questions/gil_gunderson_1790793534541_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_53_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Route 66 Logo Sticker)\n\n[IMAGE:/colors/color_53.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/kearney_zzyzwicz_sr__1790793534895_bw.jpg]",
-        "a": "Kearney Zzyzwicz Sr.\n\n[IMAGE:./images/questions/kearney_zzyzwicz_sr__1790793534895_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_54_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Doritos White)\n\n[IMAGE:/colors/color_54.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/scratchy_1790793535124_bw.jpg]",
-        "a": "Scratchy\n\n[IMAGE:./images/questions/scratchy_1790793535124_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_55_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Wolle kaufen)\n\n[IMAGE:/colors/color_55.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/officer_eddie_1790793535299_bw.jpg]",
-        "a": "Officer Eddie\n\n[IMAGE:./images/questions/officer_eddie_1790793535299_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_56_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Burger King change de logo pour revenir sur son identité graphique de 1970)\n\n[IMAGE:/colors/color_56.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/rainier_wolfcastle_1790793535638_bw.jpg]",
-        "a": "Rainier Wolfcastle\n\n[IMAGE:./images/questions/rainier_wolfcastle_1790793535638_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_57_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Xbox logo)\n\n[IMAGE:/colors/color_57.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/itchy_1790793536171_bw.jpg]",
-        "a": "Itchy\n\n[IMAGE:./images/questions/itchy_1790793536171_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_58_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tattoo the king of the hill)\n\n[IMAGE:/colors/color_58.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/disco_stu_1790793536418_bw.jpg]",
-        "a": "Disco Stu\n\n[IMAGE:./images/questions/disco_stu_1790793536418_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_59_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The best free logo maker: no-cost tools for designing eye-catching logos)\n\n[IMAGE:/colors/color_59.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/dewey_largo_1790793536819_bw.jpg]",
-        "a": "Dewey Largo\n\n[IMAGE:./images/questions/dewey_largo_1790793536819_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_60_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Afbeeldingen)\n\n[IMAGE:/colors/color_60.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/luigi_risotto_1790793537037_bw.jpg]",
-        "a": "Luigi Risotto\n\n[IMAGE:./images/questions/luigi_risotto_1790793537037_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_61_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How the NASA worm logo was designed - Creative Review)\n\n[IMAGE:/colors/color_61.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/dr__nick_riviera_1790793537205_bw.jpg]",
-        "a": "Dr. Nick Riviera\n\n[IMAGE:./images/questions/dr__nick_riviera_1790793537205_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_62_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(One piece logo)\n\n[IMAGE:/colors/color_62.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/dolph_shapiro_1790793538156_bw.jpg]",
-        "a": "Dolph Shapiro\n\n[IMAGE:./images/questions/dolph_shapiro_1790793538156_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_63_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Marlboro Logo PNG Vector (EPS) Free Download)\n\n[IMAGE:/colors/color_63.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/rich_texan_1790793538438_bw.jpg]",
-        "a": "Rich Texan\n\n[IMAGE:./images/questions/rich_texan_1790793538438_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_64_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Ferrari Logo)\n\n[IMAGE:/colors/color_64.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/duffman_1790793538744_bw.jpg]",
-        "a": "Duffman\n\n[IMAGE:./images/questions/duffman_1790793538744_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_65_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dessiner visage manga)\n\n[IMAGE:/colors/color_65.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/drederick_tatum_1790793539304_bw.jpg]",
-        "a": "Drederick Tatum\n\n[IMAGE:./images/questions/drederick_tatum_1790793539304_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_66_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Superman logo)\n\n[IMAGE:/colors/color_66.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/raphael_1790793539608_bw.jpg]",
-        "a": "Raphael\n\n[IMAGE:./images/questions/raphael_1790793539608_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_67_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tik Tok Icon Circle PNG Transparent With Clear Background ID 473286)\n\n[IMAGE:/colors/color_67.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/judge_roy_snyder_1790793539842_bw.jpg]",
-        "a": "Judge Roy Snyder\n\n[IMAGE:./images/questions/judge_roy_snyder_1790793539842_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_68_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gucci Logo Svg)\n\n[IMAGE:/colors/color_68.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/rod_flanders_1790793540003_bw.jpg]",
-        "a": "Rod Flanders\n\n[IMAGE:./images/questions/rod_flanders_1790793540003_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_69_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Regular Show Wallpaper)\n\n[IMAGE:/colors/color_69.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/troy_mcclure_1790793540241_bw.jpg]",
-        "a": "Troy McClure\n\n[IMAGE:./images/questions/troy_mcclure_1790793540241_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_70_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tommy Hilfiger Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:/colors/color_70.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/santa_s_little_helper_1790793540530_bw.jpg]",
-        "a": "Santa's Little Helper\n\n[IMAGE:./images/questions/santa_s_little_helper_1790793540530_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_71_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Sprite Lime)\n\n[IMAGE:/colors/color_71.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/kang_1790793540698_bw.jpg]",
-        "a": "Kang\n\n[IMAGE:./images/questions/kang_1790793540698_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_72_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(古いマンガ)\n\n[IMAGE:/colors/color_72.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/kodos_1790793540982_bw.jpg]",
-        "a": "Kodos\n\n[IMAGE:./images/questions/kodos_1790793540982_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_73_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(I will graphic design, fashion design, vectorial drawing)\n\n[IMAGE:/colors/color_73.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/mr__teeny_1790793541141_bw.jpg]",
-        "a": "Mr. Teeny\n\n[IMAGE:./images/questions/mr__teeny_1790793541141_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_74_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Lion King Transparent Png Images)\n\n[IMAGE:/colors/color_74.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/old_jewish_man_1790793541440_bw.jpg]",
-        "a": "Old Jewish Man\n\n[IMAGE:./images/questions/old_jewish_man_1790793541440_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_75_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Clash of Clans Logo)\n\n[IMAGE:/colors/color_75.jpg]"
       },
       {
-        "q": "ئەم وێنەیە خاوەنی چ ڕەنگێکە؟ (ئەمە کێیە؟)\n\n[IMAGE:./images/questions/jacqueline_ingrid_bouvier_1790793541763_bw.jpg]",
-        "a": "Jacqueline Ingrid Bouvier\n\n[IMAGE:./images/questions/jacqueline_ingrid_bouvier_1790793541763_color.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:/colors/color_76_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Discord - Group Chat That’s All Fun & Games)\n\n[IMAGE:/colors/color_76.jpg]"
       }
     ]
   },
