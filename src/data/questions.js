@@ -439,7 +439,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ یەکەمین هاوسەری (دینێریس تارگاریان) بوو کە سەرکردەی دۆتراکییەکان بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]",
-        "a": "خال درۆگۆ"
+        "a": "خال درۆگۆ\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/b/ba/Khal_Drogo_S1_Profile.jpg]"
       },
       {
         "q": "کێ برای دوانەی (سێرسی لانیستەر)یە کە پەیوەندییەکی نهێنیان پێکەوە هەبوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]",
@@ -447,7 +447,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ یەکەمین مامۆستای شمشێربازی (ئاریا ستارک) بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]",
-        "a": "سیریۆ فۆرێل"
+        "a": "سیریۆ فۆرێل\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/b/b2/Syrio_Forel_S1.jpg]"
       },
       {
         "q": "کێ ئەو پاشا دڕندەیە بوو کە لە سەرەتادا (سانسا ستارک)ی دەچەوساندەوە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519103.jpg]",
@@ -462,15 +462,15 @@ export const QUESTION_BANK = {
         "a": "سێرسی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519051.jpg]"
       },
       {
-        "q": "کێ ئەو جەلادە بوو کە سەری (نێد ستارک)ی پەڕاند؟",
-        "a": "ئیلین پەین"
+        "q": "کێ ئەو جەلادە بوو کە سەری (نێد ستارک)ی پەڕاند؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/2/29/Eddard_Stark_S1_Profile.jpg]",
+        "a": "ئیلین پەین\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/7/77/Ilyn_payne.jpg]"
       },
       {
         "q": "کێ سەرکردایەتی پیلانی کوشتنی (ڕۆب ستارک)ی کرد لە ئاهەنگی هاوسەرگیرییەکەدا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158825.jpg]",
         "a": "تایوین لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/602.jpg]"
       },
       {
-        "q": "کێ ئەو کوڕە بوو کە (هۆدۆر) بەردەوام هەڵیدەگرت؟",
+        "q": "کێ ئەو کوڕە بوو کە (هۆدۆر) بەردەوام هەڵیدەگرت؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/c/c1/Hodor_infobox.jpg]",
         "a": "بران ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158816.jpg]"
       },
       {
@@ -479,19 +479,19 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کارەکتەرە دڕندەیە بوو کە (تیۆن گرەیجۆی)ی ئەشکەنجە دا و ناوی گۆڕی؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519209.jpg]",
-        "a": "ڕامسی بۆڵتۆن"
+        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/6/69/Ramsay_Bolton_S6.jpg]"
       },
       {
         "q": "کێ دووەمین هاوسەری (مارجێری تایڕێل) بوو کە پاشای وێستێرۆس بوو؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]",
         "a": "تۆمێن باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/0/603.jpg]"
       },
       {
-        "q": "کێ ئەو کچە بوو کە (پیتەر بەیلیش (لیتلفینگەر)) بەدرێژایی ژیانی ئاشقی بوو؟",
+        "q": "کێ ئەو کچە بوو کە (پیتەر بەیلیش (لیتلفینگەر)) بەدرێژایی ژیانی ئاشقی بوو؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/0/07/Petyr_Baelish_S7_Profile.jpg]",
         "a": "کەیتلین ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519084.jpg]"
       },
       {
         "q": "کێ برا گەورەی (ساندۆر کلێگەین)یە کە دەموچاوی سووتاندووە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158819.jpg]",
-        "a": "گریگۆر کلێگەین"
+        "a": "گریگۆر کلێگەین\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/2/27/Gregor_Clegane_S7_Profile.jpg]"
       }
     ],
     "400": [
@@ -537,10 +537,10 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ کچی (ستانیس باراتیۆن) بوو کە لەسەر داوای ئافرەتە سوورەکە بە زیندوویی سووتێنرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519132.jpg]",
-        "a": "شیرین باراتیۆن"
+        "a": "شیرین باراتیۆن\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/c/c9/Shireen_Baratheon_S5.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە ژەهری خستە ناو شەرابەکەوە بۆ ئەوەی (ئۆلێنا تایڕێل) بە بێ ئازار بمرێت پاش گرتنی قەڵاکەیان؟",
+        "q": "کێ ئەو کەسە بوو کە ژەهری خستە ناو شەرابەکەوە بۆ ئەوەی (ئۆلێنا تایڕێل) بە بێ ئازار بمرێت پاش گرتنی قەڵاکەیان؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/4/41/Olenna_Tyrell_S7_Profile.jpg]",
         "a": "جەیمی لانیستەر\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/64/162190.jpg]"
       },
       {
@@ -561,15 +561,15 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کەسە بوو کە زێڕی تواوەی کردە سەر سەری (ڤیسێرێس تارگاریان)؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519213.jpg]",
-        "a": "خال درۆگۆ"
+        "a": "خال درۆگۆ\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/b/ba/Khal_Drogo_S1_Profile.jpg]"
       },
       {
         "q": "کێ ئەو کوڕە بوو کە (ئیگریت)ی کوشت لە کاتی شەڕی دیوارەکەدا بە تیرێک؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529550.jpg]",
-        "a": "ئۆلی"
+        "a": "ئۆلی\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/0/07/Olly_S6_crop.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە لە کاتی شەڕی دادگاییدا چاوەکانی (ئۆبەرین مارتێل)ی دەرهێنا و سەری پان کردەوە؟",
-        "a": "گریگۆر کلێگەین (چیاکە)"
+        "q": "کێ ئەو کەسە بوو کە لە کاتی شەڕی دادگاییدا چاوەکانی (ئۆبەرین مارتێل)ی دەرهێنا و سەری پان کردەوە؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/8/87/Oberyn_Martell_S4_Profile.jpg]",
+        "a": "گریگۆر کلێگەین (چیاکە)\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/2/27/Gregor_Clegane_S7_Profile.jpg]"
       },
       {
         "q": "کێ ئەو ئافرەتە بوو کە (گرەی وۆرم) خۆشی دەویست و لە کۆتاییدا لەدەستی دا کاتێک سەری پەڕێنرا؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/172/431759.jpg]",
@@ -638,63 +638,63 @@ export const QUESTION_BANK = {
         "a": "جۆن سنۆ"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە منداڵە بچووکەکانی نارد بۆ کوشتنی (پایسێل) بە چەقۆ لە تاقیگەکەیدا؟",
-        "a": "کایبێرن"
+        "q": "کێ ئەو کەسە بوو کە منداڵە بچووکەکانی نارد بۆ کوشتنی (پایسێل) بە چەقۆ لە تاقیگەکەیدا؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/b/bb/Grand_Maester_Pycelle_S6.jpg]",
+        "a": "کایبێرن\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/3/30/Qyburn_S8.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (باریستان سێلمی)ی لە کارەکەی لابرد وەک پاسەوانی پاشا، کە وایکرد باریستان توڕە بێت و بچێتە پاڵ دینێریس؟",
+        "q": "کێ ئەو کەسە بوو کە (باریستان سێلمی)ی لە کارەکەی لابرد وەک پاسەوانی پاشا، کە وایکرد باریستان توڕە بێت و بچێتە پاڵ دینێریس؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/6/69/Barristan_Selmy_S5_Profile.jpg]",
         "a": "جۆفری باراتیۆن\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519063.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (ڕیکۆن ستارک)ی کوشت بە تیرێک لە پشتییەوە لە کاتی ڕاکردنیدا بەرەو لای جۆن سنۆ؟",
-        "a": "ڕامسی بۆڵتۆن"
+        "q": "کێ ئەو کەسە بوو کە (ڕیکۆن ستارک)ی کوشت بە تیرێک لە پشتییەوە لە کاتی ڕاکردنیدا بەرەو لای جۆن سنۆ؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/7/7b/Rickon_Stark_S6.jpg]",
+        "a": "ڕامسی بۆڵتۆن\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/6/69/Ramsay_Bolton_S6.jpg]"
       },
       {
-        "q": "کێ مامی (یارا گرەیجۆی) بوو کە هێرشی کردە سەر کەشتییەکەی و بە دیل گرتی؟",
-        "a": "یۆرۆن گرەیجۆی"
+        "q": "کێ مامی (یارا گرەیجۆی) بوو کە هێرشی کردە سەر کەشتییەکەی و بە دیل گرتی؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Yara_Greyjoy_S8.jpg]",
+        "a": "یۆرۆن گرەیجۆی\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/6/61/Euron_Greyjoy_S8_Profile.jpg]"
       },
       {
-        "q": "کێ خوشکی (جۆجین ڕید) بوو کە لە کۆتاییدا ناچار بوو ملی ببڕێت بۆ ئەوەی بە ئازارەوە نەمرێت پێش تەقینەوەکە؟",
-        "a": "میرا ڕید"
+        "q": "کێ خوشکی (جۆجین ڕید) بوو کە لە کۆتاییدا ناچار بوو ملی ببڕێت بۆ ئەوەی بە ئازارەوە نەمرێت پێش تەقینەوەکە؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/d/df/Jojen_Reed_S4_Profile.jpg]",
+        "a": "میرا ڕید\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/4/4c/Meera_Reed_S7_Profile.jpg]"
       },
       {
-        "q": "کێ ئەو جەلادەی پاشا بوو کە گومان دەکرێت (سیریۆ فۆرێل)ی کوشتبێت دوای شکاندنی شمشێرە دارەکەی؟",
-        "a": "مێرین ترانت"
+        "q": "کێ ئەو جەلادەی پاشا بوو کە گومان دەکرێت (سیریۆ فۆرێل)ی کوشتبێت دوای شکاندنی شمشێرە دارەکەی؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/b/b2/Syrio_Forel_S1.jpg]",
+        "a": "مێرین ترانت\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/f/fc/Meryn_Trant_S5_Profile.jpg]"
       },
       {
         "q": "کێ ئەو شاژنە بوو کە (داریۆ ناهاریس) ئاشقی بوو بەڵام لە میرین بەجێی هێشت بۆ پاراستنی شارەکە؟\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/9/23151.jpg]",
         "a": "دینێریس تارگاریان\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/567/1418483.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (ێدمیور تەلی) ناچار کرا هاوسەرگیری لەگەڵ بکات لە 'هاوسەرگیرییە خوێناوییەکە'؟",
-        "a": "ڕۆسلین فرەی"
+        "q": "کێ ئەو کەسە بوو کە (ێدمیور تەلی) ناچار کرا هاوسەرگیری لەگەڵ بکات لە 'هاوسەرگیرییە خوێناوییەکە'؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/e/ed/Edmure_Tully_S8.jpg]",
+        "a": "ڕۆسلین فرەی\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/8/8f/Roslin_Frey_S3.jpg]"
       },
       {
-        "q": "کێ دایکی (ڕۆبن ئارین) بوو کە هەمیشە شیرپێدانی بۆ دەکرد تەنانەت کاتێک گەورەش بوو؟",
-        "a": "لایسا ئارین"
+        "q": "کێ دایکی (ڕۆبن ئارین) بوو کە هەمیشە شیرپێدانی بۆ دەکرد تەنانەت کاتێک گەورەش بوو؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/f/f6/Robin_Arryn_S8.jpg]",
+        "a": "لایسا ئارین\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/5/5e/Lysa_Arryn_S4.jpg]"
       },
       {
-        "q": "کێ ئەو پیاوە بوو کە (لایسا ئارین) لەسەر داوای ئەو، هاوسەرەکەی خۆی (جۆن ئارین)ی ژەهرخوارد کرد؟",
-        "a": "پیتەر بەیلیش"
+        "q": "کێ ئەو پیاوە بوو کە (لایسا ئارین) لەسەر داوای ئەو، هاوسەرەکەی خۆی (جۆن ئارین)ی ژەهرخوارد کرد؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/5/5e/Lysa_Arryn_S4.jpg]",
+        "a": "پیتەر بەیلیش\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/0/07/Petyr_Baelish_S7_Profile.jpg]"
       },
       {
-        "q": "کێ خوشکی (لۆراس تایڕێل) بوو کە لەگەڵیدا لە پەرستگاکە سووتا لە کۆتایی وەرزی شەشەمدا؟",
+        "q": "کێ خوشکی (لۆراس تایڕێل) بوو کە لەگەڵیدا لە پەرستگاکە سووتا لە کۆتایی وەرزی شەشەمدا؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/e/ef/Loras_Tyrell_S6.jpg]",
         "a": "مارجێری تایڕێل\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/211/529552.jpg]"
       },
       {
-        "q": "کێ دایکی (مەیس تایڕێل) بوو کە هەمیشە بە کەم سەیریکرد و پێی وابوو بێ توانا و گەمژەیە؟",
-        "a": "ئۆلێنا تایڕێل"
+        "q": "کێ دایکی (مەیس تایڕێل) بوو کە هەمیشە بە کەم سەیریکرد و پێی وابوو بێ توانا و گەمژەیە؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/8/8d/Mace_Tyrell_S6.jpg]",
+        "a": "ئۆلێنا تایڕێل\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/4/41/Olenna_Tyrell_S7_Profile.jpg]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە فەرمانی لەسێدارەدانی بۆ (ئالیسەر تۆرن) دەرکرد بەهۆی خیانەتکردن و بەشداریکردنی لە کوشتنیدا؟",
+        "q": "کێ ئەو کەسە بوو کە فەرمانی لەسێدارەدانی بۆ (ئالیسەر تۆرن) دەرکرد بەهۆی خیانەتکردن و بەشداریکردنی لە کوشتنیدا؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/e/ea/Alliser_Thorne_S6_Profile.jpg]",
         "a": "جۆن سنۆ\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/63/158800.jpg]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە (کراستەر)ی کوشت لە ماڵەکەی خۆیدا کاتێک کەسانی Night's Watch یاخیبوون؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/1/1a/Craster-Profile-HD.png]",
-        "a": "کارڵ تانەر"
+        "a": "کارڵ تانەر\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/d/df/Karl_Tanner_Profile_HD.png]"
       },
       {
-        "q": "کێ ئەو کچە بوو کە دەموچاوی خزمەتکارێکی بەکارهێنا بۆ ئەوەی ژەهر بکاتە ناو خواردنەوەی تەواوی خێزانی (واڵدەر فرەی) و بیانکوژێت؟",
+        "q": "کێ ئەو کچە بوو کە دەموچاوی خزمەتکارێکی بەکارهێنا بۆ ئەوەی ژەهر بکاتە ناو خواردنەوەی تەواوی خێزانی (واڵدەر فرەی) و بیانکوژێت؟\n\n[IMAGE:https://static.wikia.nocookie.net/gameofthrones/images/a/ad/Walder_Frey_S6.jpg]",
         "a": "ئاریا ستارک\n\n[IMAGE:https://static.tvmaze.com/uploads/images/medium_portrait/607/1519122.jpg]"
       }
     ]
@@ -5063,7 +5063,7 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ چاوی شارینگانی بەم کارەکتەرە بەخشی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]",
-        "a": "ئۆبیتۆ ئۆچیها"
+        "a": "ئۆبیتۆ ئۆچیها\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png]"
       },
       {
         "q": "کێ توانی (گارا) لە تاریکی دەربهێنێت و ببێتە یەکەم هاوڕێی؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]",
@@ -5098,7 +5098,7 @@ export const QUESTION_BANK = {
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ گەورەترین ڕکابەر و دۆستی (مادارا ئۆچیها) بوو لە دامەزراندنی کۆنۆهادا؟",
+        "q": "کێ گەورەترین ڕکابەر و دۆستی (مادارا ئۆچیها) بوو لە دامەزراندنی کۆنۆهادا؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/f/f0/Madara_Uchiha.png]",
         "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
       },
       {
@@ -5110,7 +5110,7 @@ export const QUESTION_BANK = {
         "a": "میتۆ ئۆزۆماکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/16/103955.jpg?s=7d8dd18334e6a3ea858ef83f2143f40a]"
       },
       {
-        "q": "کێ ئەو کچە بوو کە (ئۆبیتۆ ئۆچیها) ئاشقی بوو بەڵام مردنەکەی وایکرد جیهان وێران بکات؟",
+        "q": "کێ ئەو کچە بوو کە (ئۆبیتۆ ئۆچیها) ئاشقی بوو بەڵام مردنەکەی وایکرد جیهان وێران بکات؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png]",
         "a": "ڕین نۆهارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]"
       }
     ],
@@ -5164,8 +5164,8 @@ export const QUESTION_BANK = {
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ ئەو پیرەژنە بوو کە (ساسۆری)ی گەورە کرد و دواتر لە شەڕدا کوشتی؟",
-        "a": "نەنە چیۆ"
+        "q": "کێ ئەو پیرەژنە بوو کە (ساسۆری)ی گەورە کرد و دواتر لە شەڕدا کوشتی؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/7/7b/Sasori.png]",
+        "a": "نەنە چیۆ\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/a4/Chiyo.png]"
       },
       {
         "q": "کێ سەری (هیدان)ی بڕی و لە ژێر زەویدا شاردیەوە بۆ تۆڵەسەندنەوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62]",
@@ -5177,26 +5177,26 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کەسە بوو کە (کۆنان)ی کوشت بۆ ئەوەی چاوەکانی ڕینێگان بدزێت؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/158755.jpg?s=511521e3840779df9fba75ea5a4b9b52]",
-        "a": "ئۆبیتۆ ئۆچیها (توبی)"
+        "a": "ئۆبیتۆ ئۆچیها (توبی)\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە بە تەکنیکی (ئیزانامی) (کابوتۆ یاکوشی)ی خستە ناو بازنەیەکی بێکۆتاوە؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/82459.jpg?s=81d3435c2ca60c6acbea9da7bc7ba6c4]",
         "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ هاوسەری (کوشینا ئۆزۆماکی) بوو کە پێکەوە گیانیان بەخشی بۆ ڕزگارکردنی نارۆتۆ؟",
+        "q": "کێ هاوسەری (کوشینا ئۆزۆماکی) بوو کە پێکەوە گیانیان بەخشی بۆ ڕزگارکردنی نارۆتۆ؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/3/30/Kushina_Uzumaki.png]",
         "a": "میناتۆ نامیکازێ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b]"
       },
       {
-        "q": "کێ برای گەورەی (کیلەر بی)یە کە نازناوی ڕایکاجێی هەیە؟",
-        "a": "ئەی (ڕایکاجێ)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c]"
+        "q": "کێ برای گەورەی (کیلەر بی)یە کە نازناوی ڕایکاجێی هەیە؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/7/73/Killer_B.png]",
+        "a": "ئەی (ڕایکاجێ)\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/44/A_%28Fourth_Raikage%29.png]"
       },
       {
-        "q": "کێ برای گەورەی (سویگێتسو هۆزوکی)یە کە یەکێک بوو لە ٧ شمشێربازەکەی گوندی تەم؟",
-        "a": "مانگێتسو هۆزوکی"
+        "q": "کێ برای گەورەی (سویگێتسو هۆزوکی)یە کە یەکێک بوو لە ٧ شمشێربازەکەی گوندی تەم؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/46/Suigetsu_H%C5%8Dzuki.png]",
+        "a": "مانگێتسو هۆزوکی\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/ab/Mangetsu.png]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی بریندار کرد لە کاتی شەڕکردن لەگەڵ دانزۆ بۆ ئەوەی بگاتە ئامانجەکەی؟",
+        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی بریندار کرد لە کاتی شەڕکردن لەگەڵ دانزۆ بۆ ئەوەی بگاتە ئامانجەکەی؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4a/Karin_Uzumaki.png]",
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
@@ -5208,12 +5208,12 @@ export const QUESTION_BANK = {
         "a": "ڕۆک لی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f]"
       },
       {
-        "q": "کێ ئەو کەسەیە کە خانەکانی (DNA)ی خۆی بەم کارەکتەرە بەخشیبوو؟",
+        "q": "کێ ئەو کەسەیە کە خانەکانی (DNA)ی خۆی بەم کارەکتەرە بەخشیبوو؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/8/8b/Yamato.png]",
         "a": "هاشیراما سێنجۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21]"
       },
       {
         "q": "کێ کچی (ئاسوما ساروتۆبی) و کورینای یە کە دوای مردنی لەدایک بوو؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f]",
-        "a": "میرای ساروتۆبی"
+        "a": "میرای ساروتۆبی\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/2/29/Mirai_Sarutobi.png]"
       }
     ],
     "600": [
@@ -5259,26 +5259,26 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ دوو کوڕەکەی (کاگویا ئۆتسوتسوکی) بوون کە زیندانیان کرد لە مانگدا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/616786.jpg?s=f619e59e96891b360c8849a5d44d999b]",
-        "a": "هاگۆرۆمۆ و هامورا"
+        "a": "هاگۆرۆمۆ و هامورا\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/9/91/Hagoromo_%C5%8Ctsutsuki.png]"
       },
       {
-        "q": "کێ کوڕە گەورەکەی (هاگۆرۆمۆ ئۆتسوتسوکی) بوو کە دواتر بووە باوانی هۆزی ئۆچیها؟",
-        "a": "ئیندرە ئۆتسوتسوکی"
+        "q": "کێ کوڕە گەورەکەی (هاگۆرۆمۆ ئۆتسوتسوکی) بوو کە دواتر بووە باوانی هۆزی ئۆچیها؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/9/91/Hagoromo_%C5%8Ctsutsuki.png]",
+        "a": "ئیندرە ئۆتسوتسوکی\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/aa/Indra_%C5%8Ctsutsuki.png]"
       },
       {
-        "q": "کێ برای (ئیندرە ئۆتسوتسوکی) بوو کە بووە باوانی هۆزی سێنجۆ؟",
+        "q": "کێ برای (ئیندرە ئۆتسوتسوکی) بوو کە بووە باوانی هۆزی سێنجۆ؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/aa/Indra_%C5%8Ctsutsuki.png]",
         "a": "ئاشورا ئۆتسوتسوکی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/11/508740.jpg?s=f00168ae85f53a9b762e1a76e450474c]"
       },
       {
-        "q": "کێ برای (ئیزونا ئۆچیها) بوو کە چاوەکانی پێ بەخشی بۆ ئەوەی کوێر نەبێت؟",
-        "a": "مادارا ئۆچیها"
+        "q": "کێ برای (ئیزونا ئۆچیها) بوو کە چاوەکانی پێ بەخشی بۆ ئەوەی کوێر نەبێت؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/a2/Izuna_Uchiha.png]",
+        "a": "مادارا ئۆچیها\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/f/f0/Madara_Uchiha.png]"
       },
       {
         "q": "کێ ئەو کەسە بوو کە نەیتوانی بەڵێنەکەی بباتە سەر بۆ پاراستنی (ڕین نۆهارا)؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/8/86789.jpg?s=11e2602c4aa0820d20229c95eb0a42c2]",
         "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
-        "q": "کێ کوڕی (ساکومۆ هاتاكی)یە کە پێی دەوترا ددانە سپییەکەی کۆنۆها؟",
+        "q": "کێ کوڕی (ساکومۆ هاتاكی)یە کە پێی دەوترا ددانە سپییەکەی کۆنۆها؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/8/87/Sakumo_Hatake.png]",
         "a": "کاکاشی هاتاكی\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309]"
       },
       {
@@ -5286,36 +5286,36 @@ export const QUESTION_BANK = {
         "a": "ئیتاچی ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622]"
       },
       {
-        "q": "کێ گەورەترین ڕکابەری (گێنگێتسو هۆزوکی) بوو کە لە هەمان شەڕدا یەکتریان کوشت؟",
-        "a": "موو (تسوچیکاجێی دووەم)\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/4/623440.jpg?s=0a0a559afaadbd7b1237255f3292e559]"
+        "q": "کێ گەورەترین ڕکابەری (گێنگێتسو هۆزوکی) بوو کە لە هەمان شەڕدا یەکتریان کوشت؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4b/Gengetsu_H%C5%8Dzuki.png]",
+        "a": "موو (تسوچیکاجێی دووەم)\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4b/M%C5%AB.png]"
       },
       {
         "q": "کێ قوتابیی (موو (Mū)) بوو کە فێری تەکنیکی دابەشکردنی گەردیلەیی (Dust Release) کرد؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4b/M%C5%AB.png]",
-        "a": "ئۆنۆکی"
+        "a": "ئۆنۆکی\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/1/1a/%C5%8Cnoki.png]"
       },
       {
         "q": "کێ کوڕی (ڕاسا) بوو کە دڕندەی یەک کلکی تێدا زیندانی کرا؟\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/3/103604.jpg?s=b98324630fedff5c437acbaa45832db5]",
         "a": "گارا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101]"
       },
       {
-        "q": "کێ نەوەی (نەنە چیۆ) بوو کە بووە ئەندامێکی ئەکاتسوکی و شارەزای دروستکردنی بوکەڵە بوو؟",
-        "a": "ساسۆری"
+        "q": "کێ نەوەی (نەنە چیۆ) بوو کە بووە ئەندامێکی ئەکاتسوکی و شارەزای دروستکردنی بوکەڵە بوو؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/a/a4/Chiyo.png]",
+        "a": "ساسۆری\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/7/7b/Sasori.png]"
       },
       {
-        "q": "کێ چاوی ڕاستی (شیسوی ئۆچیها)ی دزی پێش ئەوەی خۆی بکوژێت؟",
+        "q": "کێ چاوی ڕاستی (شیسوی ئۆچیها)ی دزی پێش ئەوەی خۆی بکوژێت؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/1/1a/Shisui_Uchiha.png]",
         "a": "دانزۆ شیمورا\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی ڕزگار کرد کاتێک لە دارستانی مەرگ خەریک بوو بمرێت لەلایەن ورچێکەوە؟",
+        "q": "کێ ئەو کەسە بوو کە (کارین ئۆزۆماکی)ی ڕزگار کرد کاتێک لە دارستانی مەرگ خەریک بوو بمرێت لەلایەن ورچێکەوە؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/4/4a/Karin_Uzumaki.png]",
         "a": "ساسکێ ئۆچیها\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e]"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (جوجۆ) سەرسام بوو پێی وەک باشترین هاوڕێ پێش مردنی؟",
+        "q": "کێ ئەو کەسە بوو کە (جوجۆ) سەرسام بوو پێی وەک باشترین هاوڕێ پێش مردنی؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/6/69/J%C5%ABgo.png]",
         "a": "کیمیمارۆ\n\n[IMAGE:https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5]"
       },
       {
-        "q": "کێ ئەو نینجایە بوو کە (میفونێ) ڕووبەڕووی بووەوە لە جەنگی چوارەمدا و پێشتر شەڕیان کردبوو؟",
-        "a": "هانزۆی سەلەمەندەر"
+        "q": "کێ ئەو نینجایە بوو کە (میفونێ) ڕووبەڕووی بووەوە لە جەنگی چوارەمدا و پێشتر شەڕیان کردبوو؟\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/1/1b/Mifune.png]",
+        "a": "هانزۆی سەلەمەندەر\n\n[IMAGE:https://static.wikia.nocookie.net/naruto/images/9/90/Hanz%C5%8D.png]"
       }
     ]
   }
