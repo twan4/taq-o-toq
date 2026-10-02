@@ -1934,308 +1934,308 @@ export const QUESTION_BANK = {
   "cat27": {
     "200": [
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_1_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dexter, Dexter's Laboratory)\n\n[IMAGE:./colors/color_1.jpg]"
-      },
-      {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_2_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(33 idées & tutos pour apprendre à dessiner Mario)\n\n[IMAGE:./colors/color_2.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_3_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(בוב ספוג)\n\n[IMAGE:./colors/color_3.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_4_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gallery of Famous Cartoon Cat Characters Over The Years)\n\n[IMAGE:./colors/color_4.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_2.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_5_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fond ecran nike)\n\n[IMAGE:./colors/color_5.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_5.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_6_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(とぅいーてぃー)\n\n[IMAGE:./colors/color_6.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_7_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Vektor Patrick)\n\n[IMAGE:./colors/color_7.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_8_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Winnie the Pooh)\n\n[IMAGE:./colors/color_8.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_9_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stich!!💙🐬)\n\n[IMAGE:./colors/color_9.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_6.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_10_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tom & Jerry)\n\n[IMAGE:./colors/color_10.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_11_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gumball Childrens Kids Nursery Wall Stickers Bedroom Decal Art Vinyl Sticker)\n\n[IMAGE:./colors/color_11.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_12_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Plankton eye printable)\n\n[IMAGE:./colors/color_12.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_13_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(A)\n\n[IMAGE:./colors/color_13.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_10.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_14_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Spongebob)\n\n[IMAGE:./colors/color_14.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_15_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(dancing)\n\n[IMAGE:./colors/color_15.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_16_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pics of scooby doo)\n\n[IMAGE:./colors/color_16.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_17_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Squidward)\n\n[IMAGE:./colors/color_17.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_14.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_18_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(HAPPY 84th BIRTHDAY to GRANNY!! 10/7/21 Born Emma Webster, better known as Granny, Warner Bros. Cartoons character created by Friz Freleng, best known from Looney Tunes and Merrie Melodies animated shorts of the 1950s and 1960s. She is the owner of Tweety (and more often than not, Sylvester and Hector). Her voice was first provided by Bea Benaderet from 1950 through 1955, then by June Foray for almost 60 years then Candi Milo took over in 2017 following Foray’s death.)\n\n[IMAGE:./colors/color_18.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_18.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_19_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mickey mouse dibujo)\n\n[IMAGE:./colors/color_19.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_19.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_20_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bug Bunny Cartoon Character)\n\n[IMAGE:./colors/color_20.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_20.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_21_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Red Bull)\n\n[IMAGE:./colors/color_21.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_22_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Fred Flintstone)\n\n[IMAGE:./colors/color_22.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_23_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The Smurfs.. not really the show. Just a lot of late 70s french comic books and toys before the smurf rage in the 80s.)\n\n[IMAGE:./colors/color_23.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_21.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_24_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Refreshing Non-Alcoholic Pepsi Drink)\n\n[IMAGE:./colors/color_24.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_24.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_25_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Papa Smurf Village Leader Cartoon Vinyl Car Window Decal Laptop Toolbox Sticker)\n\n[IMAGE:./colors/color_25.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_27_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_27.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_28_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_28.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_29_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_29.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_33_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_33.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_45_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_45.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_46_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_46.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_56_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_56.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_57_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_57.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_66_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_66.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_67_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_67.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_68_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_68.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_71_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_71.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_74_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_74.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_80_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_80.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_83_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_83.jpg]"
       }
     ],
     "400": [
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_26_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(19 Things You Never Really Thought About Before)\n\n[IMAGE:./colors/color_26.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_7_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_7.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_27_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Bart Simpson PNG image with transparent background)\n\n[IMAGE:./colors/color_27.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_8_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_8.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_28_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Mr Bean PNG (Animated Series))\n\n[IMAGE:./colors/color_28.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_11_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_11.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_29_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(KFC Logo)\n\n[IMAGE:./colors/color_29.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_16_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_16.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_30_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Womens, Mens and Kids Fashion, Furniture, Electricals & More!)\n\n[IMAGE:./colors/color_30.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_17_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_17.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_31_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(More on Printing and Cutting layers with the Imagine)\n\n[IMAGE:./colors/color_31.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_22_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_22.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_23_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_23.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_25_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_25.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_32_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Pinkie and the brain stickers)\n\n[IMAGE:./colors/color_32.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_33_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How to Draw Dora the Explorer: 11 Steps (with Pictures) - wikiHow)\n\n[IMAGE:./colors/color_33.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_32.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_34_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Shaggy y scooby)\n\n[IMAGE:./colors/color_34.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_35_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(.)\n\n[IMAGE:./colors/color_35.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_34.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_36_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Jorge el Curioso PNG descarga gratis)\n\n[IMAGE:./colors/color_36.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_36.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_37_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Stuart Little)\n\n[IMAGE:./colors/color_37.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_37.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_38_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Porky say hi)\n\n[IMAGE:./colors/color_38.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_38.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_39_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(kids favourite Doremon /Doremon image)\n\n[IMAGE:./colors/color_39.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_41_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Señora Wicket)\n\n[IMAGE:./colors/color_41.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_39.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_42_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Can I Eat Low Sodium at Starbucks - Hacking Salt)\n\n[IMAGE:./colors/color_42.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_42.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_43_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Biểu trưng)\n\n[IMAGE:./colors/color_43.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_64_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_64.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_44_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Modern badge logo instagram icon)\n\n[IMAGE:./colors/color_44.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_75_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_75.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_45_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Escudo del real madrid)\n\n[IMAGE:./colors/color_45.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_76_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_76.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_46_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Manchester United Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:./colors/color_46.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_81_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_81.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_47_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(sticker kawaii anime)\n\n[IMAGE:./colors/color_47.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_87_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_87.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_48_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(laptop logo sticker)\n\n[IMAGE:./colors/color_48.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_89_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_89.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_49_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 - 𝙨𝙥𝙤𝙩𝙞𝙛𝙮)\n\n[IMAGE:./colors/color_49.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_85_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_85.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_50_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Brand Stickers)\n\n[IMAGE:./colors/color_50.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_84_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_84.jpg]"
       },
       {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_51_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(L-FST0031)\n\n[IMAGE:./colors/color_51.jpg]"
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_1_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_1.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_3_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_3.jpg]"
       }
     ],
     "600": [
       {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_4_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_4.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_9_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_9.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_12_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_12.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_13_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_13.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_15_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_15.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_26_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_26.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_30_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_30.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_31_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_31.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_35_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_35.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_41_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_41.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_43_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_43.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_44_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_44.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_47_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_47.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_48_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_48.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_49_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_49.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_50_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_50.jpg]"
+      },
+      {
+        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_51_bw.jpg]",
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_51.jpg]"
+      },
+      {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_52_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Fotos legais para desenhar)\n\n[IMAGE:./colors/color_52.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_52.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_53_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Route 66 Logo Sticker)\n\n[IMAGE:./colors/color_53.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_53.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_54_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Doritos White)\n\n[IMAGE:./colors/color_54.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_54.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_55_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Wolle kaufen)\n\n[IMAGE:./colors/color_55.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_56_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Burger King change de logo pour revenir sur son identité graphique de 1970)\n\n[IMAGE:./colors/color_56.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_57_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Xbox logo)\n\n[IMAGE:./colors/color_57.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_55.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_58_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tattoo the king of the hill)\n\n[IMAGE:./colors/color_58.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_58.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_59_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(The best free logo maker: no-cost tools for designing eye-catching logos)\n\n[IMAGE:./colors/color_59.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_59.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_60_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Afbeeldingen)\n\n[IMAGE:./colors/color_60.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_60.jpg]"
       },
       {
         "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_61_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(How the NASA worm logo was designed - Creative Review)\n\n[IMAGE:./colors/color_61.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_62_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(One piece logo)\n\n[IMAGE:./colors/color_62.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_63_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Marlboro Logo PNG Vector (EPS) Free Download)\n\n[IMAGE:./colors/color_63.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_64_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Ferrari Logo)\n\n[IMAGE:./colors/color_64.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_65_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Dessiner visage manga)\n\n[IMAGE:./colors/color_65.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_66_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Superman logo)\n\n[IMAGE:./colors/color_66.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_67_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tik Tok Icon Circle PNG Transparent With Clear Background ID 473286)\n\n[IMAGE:./colors/color_67.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_68_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Gucci Logo Svg)\n\n[IMAGE:./colors/color_68.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_69_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Regular Show Wallpaper)\n\n[IMAGE:./colors/color_69.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_70_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Tommy Hilfiger Logo and symbol, meaning, history, PNG, brand)\n\n[IMAGE:./colors/color_70.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_71_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Sprite Lime)\n\n[IMAGE:./colors/color_71.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_72_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(古いマンガ)\n\n[IMAGE:./colors/color_72.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_73_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(I will graphic design, fashion design, vectorial drawing)\n\n[IMAGE:./colors/color_73.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_74_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Lion King Transparent Png Images)\n\n[IMAGE:./colors/color_74.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_75_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Clash of Clans Logo)\n\n[IMAGE:./colors/color_75.jpg]"
-      },
-      {
-        "q": "ڕەنگە ڕاستەقینەکانی ئەم وێنەیە چین؟\n\n[IMAGE:./colors/color_76_bw.jpg]",
-        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n(Discord - Group Chat That’s All Fun & Games)\n\n[IMAGE:./colors/color_76.jpg]"
+        "a": "ئەمەش ڕەنگە ڕاستەقینەکانی!\n\n[IMAGE:./colors/color_61.jpg]"
       }
     ]
   },
