@@ -22,7 +22,7 @@ function GameBoardScreen({ config, onEndGame }) {
     const generated = {};
     config.categories.forEach(cat => {
       generated[cat.id] = {};
-      const catBank = QUESTION_BANK[cat.id];
+      const catBank = QUESTION_BANK[cat.id] || { 200: [], 400: [], 600: [] };
       
       [200, 400, 600].forEach(points => {
         // Pick 2 random questions for this point tier if available
