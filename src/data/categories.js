@@ -90,4 +90,12 @@ export const AVAILABLE_CATEGORIES = [
   { id: 'cat5', name: 'جیهانی کاتژمێر', englishName: 'World of Clocks', icon: './images/World of Clocks.jpg', group: 'جۆراوجۆر' },
   { id: 'cat30', name: 'تەنها کچان', englishName: 'Girls Only', icon: './images/Girls Only.jpg', group: 'جۆراوجۆر' },
   { id: 'cat31', name: 'مکیاج', englishName: 'Makeup', icon: './images/Makeup.jpg', group: 'جۆراوجۆر' }
+,
+  {
+    id: 'cat73',
+    name: 'خواردنەکان',
+    englishName: 'Food',
+    icon: '🍔',
+    group: 'جۆراوجۆر'
+  }
 ];
