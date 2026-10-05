@@ -5730,11 +5730,11 @@ export const QUESTION_BANK = {
         "a": "عەدنان کەریم (Adnan Karim)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Zakaria%20Abdulla&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebf875470d0696a4a6401de393]",
         "a": "زەکەریا عەبدوڵا"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندی گەورەی کوردە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Hasan%20Zirak&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام هونەرمەندی گەورەی کوردە؟\n\n[IMAGE:https://upload.wikimedia.org/wikipedia/commons/e/e6/Hesen_Z%C3%AErek.png]",
         "a": "حەسەن زیرەک"
       },
       {
@@ -5742,11 +5742,11 @@ export const QUESTION_BANK = {
         "a": "دەشنێ موراد (Dashni Murad)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە کە ستایلی تایبەتی خۆی هەیە لە گۆرانی خێرا؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Aziz%20Waisi&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە کە ستایلی تایبەتی خۆی هەیە لە گۆرانی خێرا؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebde6e1f062d2940e7da3c51ce]",
         "a": "عەزیز وەیسی (Aziz Waisi)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی لاوە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Navid%20Zardi&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی لاوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5eb74f3ff20cd51ab11bd7a2d82]",
         "a": "نەڤید زەردی"
       },
       {
@@ -5772,7 +5772,7 @@ export const QUESTION_BANK = {
         "a": "بەختیار ساڵح (Baxtyar Salih)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی میلییە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Awat%20Bokani&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی میلییە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000494493399-4iik87-t500x500.jpg]",
         "a": "ئاوات بۆکانی (Awat Bokani)"
       },
       {
@@ -5784,7 +5784,7 @@ export const QUESTION_BANK = {
         "a": "عەزیز وەیسی"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانییەکانی «دەردت لە ماڵم» ناسراوە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Ozhin%20Nawzad&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانییەکانی «دەردت لە ماڵم» ناسراوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebcff1a05cc49ad61a5824c16a]",
         "a": "ئۆژین نەوزاد (Ozhin Nawzad)"
       },
       {
@@ -5792,7 +5792,7 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق یان مەزهەری خالقی (لێرەدا خالقی زیاتر بەناوبانگە بە مەقامەکانی)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندی گەورەیە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Mazhari%20Xalqi&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام هونەرمەندی گەورەیە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000216447814-1m0c5r-t500x500.jpg]",
         "a": "مەزهەری خالقی"
       },
       {
@@ -5800,7 +5800,7 @@ export const QUESTION_BANK = {
         "a": "ناسر ڕەزازی"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی ڕەسەنە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Nasir%20Rezazi&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی ڕەسەنە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000465225309-8vks9x-t500x500.jpg]",
         "a": "ناسر ڕەزازی"
       },
       {
@@ -5808,11 +5808,11 @@ export const QUESTION_BANK = {
         "a": "زەکەریا عەبدوڵا (یان عەدنان کەریم بە گۆرانی شارەزوور)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'باخەوان'ی وتووە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Ziyad%20Asaad&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'باخەوان'ی وتووە؟\n\n[IMAGE:https://i.scdn.co/image/ab67616d0000b273d2f9d8544c06283dbcc8a55b]",
         "a": "زیاد ئەسعەد"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندەیە کە خاوەنی گۆرانی 'ئەسمەر'ە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Adnan%20Karim&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام هونەرمەندەیە کە خاوەنی گۆرانی 'ئەسمەر'ە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000109919782-u36h7s-t500x500.jpg]",
         "a": "عەدنان کەریم"
       },
       {
@@ -5826,11 +5826,11 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق (Tahir Tawfiq)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی مەقامبێژە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Tahir%20Tawfiq&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی مەقامبێژە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000122971206-mzzjlo-t500x500.jpg]",
         "a": "تایەر تۆفیق"
       },
       {
-        "q": "ئەمە وێنەی کام مەقامبێژی گەورەی کەرکووکە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Ali%20Mardan&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام مەقامبێژی گەورەی کەرکووکە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000159679185-3e284y-t500x500.jpg]",
         "a": "عەلی مەردان (Ali Mardan)"
       },
       {
@@ -5846,7 +5846,7 @@ export const QUESTION_BANK = {
         "a": "محەمەد جەزا یان کەریم کابان (کەریم کابان زۆر گۆرانی ڕەسەنی هەیە)"
       },
       {
-        "q": "ئەمە وێنەی کام لاوکبێژی گەورەیە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Kawis%20Agha&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام لاوکبێژی گەورەیە؟\n\n[IMAGE:https://upload.wikimedia.org/wikipedia/en/2/23/Kawisagha.jpg]",
         "a": "کاوێس ئاغا (Kawis Agha)"
       },
       {
@@ -5862,11 +5862,11 @@ export const QUESTION_BANK = {
         "a": "حەسەن عەبدوڵڵا (Hasan Abdulla)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'لە سابڵاخەوە'ی گوتووە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Hassan%20Darzi&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'لە سابڵاخەوە'ی گوتووە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000030560205-i39q1n-t500x500.jpg]",
         "a": "حەسەن دەرزی (Hassan Darzi)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانی 'سەفەر' ناسراوە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Kamal%20Muhammad&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانی 'سەفەر' ناسراوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebe65ccafba0dd96e05bf546a1]",
         "a": "کەمال محەمەد"
       },
       {
@@ -5874,7 +5874,7 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق (یان عەلی مەردان)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە میلییەیە کە بە دەنگە بەرزەکەی ناسراوە لە دانیشتنەکان؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Aram%20Shaida&background=random&color=fff&size=256]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە میلییەیە کە بە دەنگە بەرزەکەی ناسراوە لە دانیشتنەکان؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000574880570-5b8tmb-t500x500.jpg]",
         "a": "ئارام شەیدا (Aram Shaida)"
       },
       {
@@ -5926,23 +5926,23 @@ export const QUESTION_BANK = {
         "a": "١٣ ئەندام"
       },
       {
-        "q": "کێ باوکی (گۆن فریسک)یە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Gon%20Freecss&background=random&color=fff&size=256]",
-        "a": "جینگ فریسک\n\n[IMAGE:https://ui-avatars.com/api/?name=Ging%20Freecss&background=random&color=fff&size=256]"
+        "q": "کێ باوکی (گۆن فریسک)یە؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg]",
+        "a": "جینگ فریسک\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg]"
       },
       {
-        "q": "کێ باشترین هاوڕێی (کیلوا زۆڵدیک)یە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Killua%20Zoldyck&background=random&color=fff&size=256]",
-        "a": "گۆن فریسک\n\n[IMAGE:https://ui-avatars.com/api/?name=Gon%20Freecss&background=random&color=fff&size=256]"
+        "q": "کێ باشترین هاوڕێی (کیلوا زۆڵدیک)یە؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg]",
+        "a": "گۆن فریسک\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg]"
       },
       {
-        "q": "توانای نێنی (هیسۆکا) چییە کە وەک بنێشت وایە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Hisoka%20Morow&background=random&color=fff&size=256]",
+        "q": "توانای نێنی (هیسۆکا) چییە کە وەک بنێشت وایە؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png]",
         "a": "بنێشتی بەنجی (Bungee Gum)"
       },
       {
-        "q": "(کوراپیکا) خەڵکی چ هۆزێکە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Kurapika&background=random&color=fff&size=256]",
+        "q": "(کوراپیکا) خەڵکی چ هۆزێکە؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png]",
         "a": "هۆزی کورتا (Kurta Clan)"
       },
       {
-        "q": "(لۆرۆیۆ) هەمیشە جانتایەکی چۆنی پێیە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Leorio%20Paradinight&background=random&color=fff&size=256]",
+        "q": "(لۆرۆیۆ) هەمیشە جانتایەکی چۆنی پێیە؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg]",
         "a": "جانتایەکی پزیشکی یان جانتایەکی کاری ڕەش"
       }
     ],
@@ -5988,7 +5988,7 @@ export const QUESTION_BANK = {
         "a": "کالوتۆ زۆڵدیک (برای کیلوا)"
       },
       {
-        "q": "(کرۆلۆ لوسیلەر) هەمیشە چ شتێکی پێیە بۆ بەکارهێنانی تواناکانی؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Chrollo%20Lucilfer&background=random&color=fff&size=256]",
+        "q": "(کرۆلۆ لوسیلەر) هەمیشە چ شتێکی پێیە بۆ بەکارهێنانی تواناکانی؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg]",
         "a": "پەڕتووکێک (Bandit's Secret)"
       },
       {
@@ -5996,11 +5996,11 @@ export const QUESTION_BANK = {
         "a": "ئافرەتێکی گەورە و ماسولکەدارە، نەک کچێکی بچووک"
       },
       {
-        "q": "باوکی (سیلڤا زۆڵدیک) کێیە کە پێکەوە شەڕیان لەگەڵ کرۆلۆ کرد؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Silva%20Zoldyck&background=random&color=fff&size=256]",
-        "a": "زێنۆ زۆڵدیک\n\n[IMAGE:https://ui-avatars.com/api/?name=Zeno%20Zoldyck&background=random&color=fff&size=256]"
+        "q": "باوکی (سیلڤا زۆڵدیک) کێیە کە پێکەوە شەڕیان لەگەڵ کرۆلۆ کرد؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/60.jpg]",
+        "a": "زێنۆ زۆڵدیک\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/n59-6mnrlhnGe2mw.png]"
       },
       {
-        "q": "(ئیلۆمی زۆڵدیک) چی خستبووە ناو مێشکی کیلواوە بۆ کۆنترۆڵکردنی؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Illumi%20Zoldyck&background=random&color=fff&size=256]",
+        "q": "(ئیلۆمی زۆڵدیک) چی خستبووە ناو مێشکی کیلواوە بۆ کۆنترۆڵکردنی؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b57-pTFguojSOQZW.png]",
         "a": "دەرزییەک"
       },
       {
@@ -6055,19 +6055,19 @@ export const QUESTION_BANK = {
       },
       {
         "q": "کێ ئەو کەسە بوو کە (نێفێرپیتۆ)ی کوشت بۆ تۆڵەسەندنەوەی کایت؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Neferpitou&background=random&color=fff&size=256]",
-        "a": "گۆن فریسک\n\n[IMAGE:https://ui-avatars.com/api/?name=Gon%20Freecss&background=random&color=fff&size=256]"
+        "a": "گۆن فریسک\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg]"
       },
       {
         "q": "کێ مامۆستای (کایت) بوو کە فێری نێنی کردبوو؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Kite&background=random&color=fff&size=256]",
-        "a": "جینگ فریسک\n\n[IMAGE:https://ui-avatars.com/api/?name=Ging%20Freecss&background=random&color=fff&size=256]"
+        "a": "جینگ فریسک\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg]"
       },
       {
         "q": "(ئالۆکا زۆڵدیک) توانای هەیە هەر ئاواتێک بهێنێتە دی، ناوی بوونەوەرەکەی ناوی چییە؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Alluka%20Zoldyck&background=random&color=fff&size=256]",
         "a": "نانیکا (Nanika)"
       },
       {
-        "q": "کێ ئەو کەسە بوو کە (ئۆڤۆگین)ی کوشت بە زنجیرەکانی لە بیابانەکەدا؟\n\n[IMAGE:https://ui-avatars.com/api/?name=Uvogin&background=random&color=fff&size=256]",
-        "a": "کوراپیکا\n\n[IMAGE:https://ui-avatars.com/api/?name=Kurapika&background=random&color=fff&size=256]"
+        "q": "کێ ئەو کەسە بوو کە (ئۆڤۆگین)ی کوشت بە زنجیرەکانی لە بیابانەکەدا؟\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/5836.jpg]",
+        "a": "کوراپیکا\n\n[IMAGE:https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png]"
       }
     ]
   }
