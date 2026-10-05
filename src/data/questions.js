@@ -5730,11 +5730,11 @@ export const QUESTION_BANK = {
         "a": "عەدنان کەریم (Adnan Karim)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebf875470d0696a4a6401de393]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە؟\n\n[IMAGE:./singers/zakaria_abdulla.jpg]",
         "a": "زەکەریا عەبدوڵا"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندی گەورەی کوردە؟\n\n[IMAGE:https://upload.wikimedia.org/wikipedia/commons/e/e6/Hesen_Z%C3%AErek.png]",
+        "q": "ئەمە وێنەی کام هونەرمەندی گەورەی کوردە؟\n\n[IMAGE:./singers/hasan_zirak.jpg]",
         "a": "حەسەن زیرەک"
       },
       {
@@ -5742,11 +5742,11 @@ export const QUESTION_BANK = {
         "a": "دەشنێ موراد (Dashni Murad)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە کە ستایلی تایبەتی خۆی هەیە لە گۆرانی خێرا؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebde6e1f062d2940e7da3c51ce]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە کە ستایلی تایبەتی خۆی هەیە لە گۆرانی خێرا؟\n\n[IMAGE:./singers/aziz_waisi.jpg]",
         "a": "عەزیز وەیسی (Aziz Waisi)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی لاوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5eb74f3ff20cd51ab11bd7a2d82]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی لاوە؟\n\n[IMAGE:./singers/navid_zardi.jpg]",
         "a": "نەڤید زەردی"
       },
       {
@@ -5772,7 +5772,7 @@ export const QUESTION_BANK = {
         "a": "بەختیار ساڵح (Baxtyar Salih)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی میلییە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000494493399-4iik87-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی میلییە؟\n\n[IMAGE:./singers/awat_bokani.jpg]",
         "a": "ئاوات بۆکانی (Awat Bokani)"
       },
       {
@@ -5784,7 +5784,7 @@ export const QUESTION_BANK = {
         "a": "عەزیز وەیسی"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانییەکانی «دەردت لە ماڵم» ناسراوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebcff1a05cc49ad61a5824c16a]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانییەکانی «دەردت لە ماڵم» ناسراوە؟\n\n[IMAGE:./singers/ozhin_nawzad.jpg]",
         "a": "ئۆژین نەوزاد (Ozhin Nawzad)"
       },
       {
@@ -5792,7 +5792,7 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق یان مەزهەری خالقی (لێرەدا خالقی زیاتر بەناوبانگە بە مەقامەکانی)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندی گەورەیە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000216447814-1m0c5r-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام هونەرمەندی گەورەیە؟\n\n[IMAGE:./singers/mazhari_xalqi.jpg]",
         "a": "مەزهەری خالقی"
       },
       {
@@ -5800,7 +5800,7 @@ export const QUESTION_BANK = {
         "a": "ناسر ڕەزازی"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی ڕەسەنە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000465225309-8vks9x-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی ڕەسەنە؟\n\n[IMAGE:./singers/nasir_rezazi.jpg]",
         "a": "ناسر ڕەزازی"
       },
       {
@@ -5808,11 +5808,11 @@ export const QUESTION_BANK = {
         "a": "زەکەریا عەبدوڵا (یان عەدنان کەریم بە گۆرانی شارەزوور)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'باخەوان'ی وتووە؟\n\n[IMAGE:https://i.scdn.co/image/ab67616d0000b273d2f9d8544c06283dbcc8a55b]",
+        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'باخەوان'ی وتووە؟\n\n[IMAGE:./singers/ziyad_asaad.jpg]",
         "a": "زیاد ئەسعەد"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندەیە کە خاوەنی گۆرانی 'ئەسمەر'ە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000109919782-u36h7s-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام هونەرمەندەیە کە خاوەنی گۆرانی 'ئەسمەر'ە؟\n\n[IMAGE:./singers/adnan_karim.jpg]",
         "a": "عەدنان کەریم"
       },
       {
@@ -5826,11 +5826,11 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق (Tahir Tawfiq)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژی مەقامبێژە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000122971206-mzzjlo-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژی مەقامبێژە؟\n\n[IMAGE:./singers/tahir_tawfiq.jpg]",
         "a": "تایەر تۆفیق"
       },
       {
-        "q": "ئەمە وێنەی کام مەقامبێژی گەورەی کەرکووکە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000159679185-3e284y-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام مەقامبێژی گەورەی کەرکووکە؟\n\n[IMAGE:./singers/ali_mardan.jpg]",
         "a": "عەلی مەردان (Ali Mardan)"
       },
       {
@@ -5846,7 +5846,7 @@ export const QUESTION_BANK = {
         "a": "محەمەد جەزا یان کەریم کابان (کەریم کابان زۆر گۆرانی ڕەسەنی هەیە)"
       },
       {
-        "q": "ئەمە وێنەی کام لاوکبێژی گەورەیە؟\n\n[IMAGE:https://upload.wikimedia.org/wikipedia/en/2/23/Kawisagha.jpg]",
+        "q": "ئەمە وێنەی کام لاوکبێژی گەورەیە؟\n\n[IMAGE:./singers/kawis_agha.jpg]",
         "a": "کاوێس ئاغا (Kawis Agha)"
       },
       {
@@ -5862,11 +5862,11 @@ export const QUESTION_BANK = {
         "a": "حەسەن عەبدوڵڵا (Hasan Abdulla)"
       },
       {
-        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'لە سابڵاخەوە'ی گوتووە؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000030560205-i39q1n-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام هونەرمەندە کە گۆرانی 'لە سابڵاخەوە'ی گوتووە؟\n\n[IMAGE:./singers/hassan_darzi.jpg]",
         "a": "حەسەن دەرزی (Hassan Darzi)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانی 'سەفەر' ناسراوە؟\n\n[IMAGE:https://i.scdn.co/image/ab6761610000e5ebe65ccafba0dd96e05bf546a1]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژەیە کە بە گۆرانی 'سەفەر' ناسراوە؟\n\n[IMAGE:./singers/kamal_muhammad.jpg]",
         "a": "کەمال محەمەد"
       },
       {
@@ -5874,7 +5874,7 @@ export const QUESTION_BANK = {
         "a": "تایەر تۆفیق (یان عەلی مەردان)"
       },
       {
-        "q": "ئەمە وێنەی کام گۆرانیبێژە میلییەیە کە بە دەنگە بەرزەکەی ناسراوە لە دانیشتنەکان؟\n\n[IMAGE:https://i1.sndcdn.com/artworks-000574880570-5b8tmb-t500x500.jpg]",
+        "q": "ئەمە وێنەی کام گۆرانیبێژە میلییەیە کە بە دەنگە بەرزەکەی ناسراوە لە دانیشتنەکان؟\n\n[IMAGE:./singers/aram_shaida.jpg]",
         "a": "ئارام شەیدا (Aram Shaida)"
       },
       {
